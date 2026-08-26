@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-26T17:40:53",
+  "last_updated": "2026-08-26T17:41:50",
   "html": {
     "https://web.archive.org/web/20260817125807if_/https://twitter.com/Yumeoibito76/status/2089335967236931855": {
       "status": "done",
@@ -3379,9 +3379,9 @@
         "20260822071235_twitter_com_Yumeoibito76_status_2091060951344627843.json",
         "20260822121338_twitter_com_Yumeoibito76_status_2091136713645007105.json"
       ],
-      "last_updated": "2026-08-26T17:19:25",
+      "last_updated": "2026-08-26T17:41:21",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260822121338if_/https://pbs.twimg.com/profile_images/2089785884350500864/P-WLGsIw_normal.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/1971237876575895557/0EOmFpAU_normal.jpg": {
       "status": "done",
@@ -3540,14 +3540,14 @@
       "last_updated": "2026-08-26T17:19:14"
     },
     "https://pbs.twimg.com/profile_images/2089544729193259008/PbT3q0ax_normal.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260820121206_twitter_com_Yumeoibito76_status_2090411550297219572.json",
         "20260821030019_twitter_com_Yumeoibito76_status_2090635077583856116.json"
       ],
-      "last_updated": "2026-08-26T17:19:20",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260821030019if_/https://pbs.twimg.com/profile_images/2089544729193259008/PbT3q0ax_normal.jpg",
-      "miss_count": 1
+      "last_updated": "2026-08-26T17:41:33",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260821030019if_/https://pbs.twimg.com/profile_images/2089544729193259008/PbT3q0ax_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5e6c50ebd0>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg": {
       "status": "done",
@@ -3625,12 +3625,12 @@
       "last_updated": "2026-08-26T17:19:15"
     },
     "https://pbs.twimg.com/profile_images/2089977923029835776/WMK6qK8__normal.jpg": {
-      "status": "failed_all",
+      "status": "done",
       "referenced_by": [
         "20260821054336_twitter_com_Yumeoibito76_status_2090676168483549679.json",
         "20260821093813_twitter_com_Yumeoibito76_status_2090735212451799402.json"
       ],
-      "last_updated": "2026-08-26T17:19:28",
+      "last_updated": "2026-08-26T17:41:33",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260821093813if_/https://pbs.twimg.com/profile_images/2089977923029835776/WMK6qK8__normal.jpg",
       "miss_count": 1
     },
@@ -3839,13 +3839,13 @@
       "last_updated": "2026-08-26T17:19:16"
     },
     "https://pbs.twimg.com/profile_images/2091504856695787520/a1iPAF_x_normal.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260824103539_twitter_com_Yumeoibito76_status_2091836832426140076.json"
       ],
-      "last_updated": "2026-08-26T17:19:19",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260824103539if_/https://pbs.twimg.com/profile_images/2091504856695787520/a1iPAF_x_normal.jpg",
-      "miss_count": 1
+      "last_updated": "2026-08-26T17:41:50",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260824103539im_/https://pbs.twimg.com/profile_images/2091504856695787520/a1iPAF_x_400x400.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5e6c50c320>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2068983175825768448/d4A3YDEC_normal.jpg": {
       "status": "done",
@@ -3904,14 +3904,14 @@
       "last_updated": "2026-08-26T17:36:30"
     },
     "https://pbs.twimg.com/profile_images/2090488146198962176/u_xAzrEm_normal.jpg": {
-      "status": "failed_all",
+      "status": "failed",
       "referenced_by": [
         "20260821094940_twitter_com_Yumeoibito76_status_2090738092785254643.json",
         "20260821094948_twitter_com_Yumeoibito76_status_2090738127648256295.json"
       ],
-      "last_updated": "2026-08-26T17:36:35",
-      "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260821094948if_/https://pbs.twimg.com/profile_images/2090488146198962176/u_xAzrEm_normal.jpg",
-      "miss_count": 1
+      "last_updated": "2026-08-26T17:41:47",
+      "last_reason": "ConnectTimeout: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260821094948im_/https://pbs.twimg.com/profile_images/2090488146198962176/u_xAzrEm_normal.jpg (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5e6c50d790>, 'Connection to web.archive.org timed out. (connect timeout=3)'))",
+      "miss_count": 2
     },
     "https://pbs.twimg.com/profile_images/2083764239504969728/GicOm_yF_normal.jpg": {
       "status": "done",
@@ -5941,7 +5941,7 @@
       "last_updated": "2026-08-26T17:19:15"
     },
     "20260820121206_twitter_com_Yumeoibito76_status_2090411550297219572.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQITu6wa8AAF9-7.jpg",
@@ -5954,7 +5954,7 @@
           "https://pbs.twimg.com/profile_images/2089544729193259008/PbT3q0ax_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T17:19:20"
+      "last_updated": "2026-08-26T17:41:33"
     },
     "20260820121433_twitter_com_Yumeoibito76_status_2090412169892438363.json": {
       "status": "done",
@@ -6172,7 +6172,7 @@
       "last_updated": "2026-08-26T17:19:15"
     },
     "20260821030019_twitter_com_Yumeoibito76_status_2090635077583856116.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -6181,7 +6181,7 @@
           "https://pbs.twimg.com/profile_images/2089544729193259008/PbT3q0ax_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T17:19:20"
+      "last_updated": "2026-08-26T17:41:33"
     },
     "20260821030231_twitter_com_Yumeoibito76_status_2090635631873679678.json": {
       "status": "failed",
@@ -7436,7 +7436,7 @@
       "last_updated": "2026-08-26T17:19:15"
     },
     "20260824103539_twitter_com_Yumeoibito76_status_2091836832426140076.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -7445,7 +7445,7 @@
           "https://pbs.twimg.com/profile_images/2091504856695787520/a1iPAF_x_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T17:19:19"
+      "last_updated": "2026-08-26T17:41:50"
     },
     "20260824103612_twitter_com_Yumeoibito76_status_2091836967063347540.json": {
       "status": "done",
@@ -7874,7 +7874,7 @@
       "last_updated": "2026-08-26T17:31:47"
     },
     "20260821094940_twitter_com_Yumeoibito76_status_2090738092785254643.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -7883,10 +7883,10 @@
           "https://pbs.twimg.com/profile_images/2090488146198962176/u_xAzrEm_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T17:36:35"
+      "last_updated": "2026-08-26T17:41:47"
     },
     "20260821094948_twitter_com_Yumeoibito76_status_2090738127648256295.json": {
-      "status": "done",
+      "status": "failed",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -7895,7 +7895,7 @@
           "https://pbs.twimg.com/profile_images/2090488146198962176/u_xAzrEm_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-26T17:36:35"
+      "last_updated": "2026-08-26T17:41:47"
     },
     "20260821104355_twitter_com_Yumeoibito76_status_2090751745324388588.json": {
       "status": "done",
