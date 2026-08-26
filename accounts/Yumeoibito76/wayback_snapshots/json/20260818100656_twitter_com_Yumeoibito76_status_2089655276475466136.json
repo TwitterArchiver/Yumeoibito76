@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2089631420842909736",
+    "created_at": "2026-08-18T10:06:56.000Z",
+    "display_text_range": [
+      10,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T11:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089655276475466136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2006707388053860365",
+          "start": 0,
+          "username": "cqbr2375"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089655276475466136",
+    "in_reply_to_user_id": "2006707388053860365",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089654892365234469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cqbr2375 抱抱你🥺等我有空试试美工刀（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2089631420842909736",
+        "created_at": "2026-08-18T10:06:56.000Z",
+        "display_text_range": [
+          10,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089655276475466136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2006707388053860365",
+              "start": 0,
+              "username": "cqbr2375"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089655276475466136",
+        "in_reply_to_user_id": "2006707388053860365",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089654892365234469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cqbr2375 抱抱你🥺等我有空试试美工刀（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006707388053860365",
+        "conversation_id": "2089631420842909736",
+        "created_at": "2026-08-18T10:05:24.000Z",
+        "display_text_range": [
+          14,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T11:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089654892365234469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089654892365234469",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089631420842909736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 我之前在学校寄宿的时候，躁期上来了，是去用掰好的订书钉划的，比用美工刀还疼，如果你跟我一样不喜欢红贝印那种出血量和疤，建议是美工刀更好，划的更好看而且不会太疼(当然疼取决力度)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n求互fo 我会看成分回fo！大部分都会回的喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2089655276475466136",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 170,
+          "like_count": 1510,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 180
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-01T12:41:49.000Z",
+        "description": "2009，mtf，双相，出院，休学\n个性……身边的人都觉得我缺爱有不安全感导致惹人烦",
+        "id": "2006707388053860365",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089654892365234469",
+        "name": "未然ぬ🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2006707388053860365/1784643433",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081734249774751744/Dx5gvGuA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 396,
+          "like_count": 1311,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 280
+        },
+        "url": "",
+        "username": "cqbr2375",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2090762523104452699",
+    "created_at": "2026-08-21T17:44:40.000Z",
+    "display_text_range": [
+      12,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T18:44:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090857631631933820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2084879663751630848",
+          "start": 0,
+          "username": "VKOOK_xiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090857631631933820",
+    "in_reply_to_user_id": "2084879663751630848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090856728904823192",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VKOOK_xiao 而且我超级害怕那种“那就现在去死吧！”的感觉，我稍微遇到一点挫折就有超多的自杀念头，以前初中军训的时候一直被服从性训练，受不了了就偷偷爬上了天台准备跳楼，后面是请假成功军训中途回家了才没死成😵😵😵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2090762523104452699",
+        "created_at": "2026-08-21T17:44:40.000Z",
+        "display_text_range": [
+          12,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T18:44:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090857631631933820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2084879663751630848",
+              "start": 0,
+              "username": "VKOOK_xiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090857631631933820",
+        "in_reply_to_user_id": "2084879663751630848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090856728904823192",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VKOOK_xiao 而且我超级害怕那种“那就现在去死吧！”的感觉，我稍微遇到一点挫折就有超多的自杀念头，以前初中军训的时候一直被服从性训练，受不了了就偷偷爬上了天台准备跳楼，后面是请假成功军训中途回家了才没死成😵😵😵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084879663751630848",
+        "conversation_id": "2090762523104452699",
+        "created_at": "2026-08-21T17:41:05.000Z",
+        "display_text_range": [
+          14,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T18:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090856728904823192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090856728904823192",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090855752466420208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 啊啊啊啊啊😭或者想辦法出去租房子住  這樣真的感覺很崩潰啊  我就算是封閉式的床簾在宿舍裏生活也特別受不了  總之只要參與集體裏時間長了精神狀態就超級差。。。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n求互fo 我会看成分回fo！大部分都会回的喵\n我有在努力成为一个好孩子 但到底什么是好孩子呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2090857631631933820",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 280,
+          "like_count": 2854,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 367
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T05:51:31.000Z",
+        "description": "just chat with myself.",
+        "id": "2084879663751630848",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090857540443939229",
+        "name": "滯⁵",
+        "pinned_tweet_id": "2088307970652447138",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084879663751630848/1786725599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088304637774610432/2CvpC6Ie_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 28,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "VKOOK_xiao",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

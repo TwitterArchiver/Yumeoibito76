@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2090648269361676698",
+    "created_at": "2026-08-21T10:43:55.000Z",
+    "display_text_range": [
+      14,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T11:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090751745324388588"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2066108983178579968",
+          "start": 0,
+          "username": "AkiraTT_chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090751745324388588",
+    "in_reply_to_user_id": "2066108983178579968",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090750536890847526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkiraTT_chan 🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2090648269361676698",
+        "created_at": "2026-08-21T10:43:55.000Z",
+        "display_text_range": [
+          14,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090751745324388588"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2066108983178579968",
+              "start": 0,
+              "username": "AkiraTT_chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090751745324388588",
+        "in_reply_to_user_id": "2066108983178579968",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090750536890847526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkiraTT_chan 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066108983178579968",
+        "conversation_id": "2090648269361676698",
+        "created_at": "2026-08-21T10:39:06.000Z",
+        "display_text_range": [
+          14,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T11:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090750536890847526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090750536890847526",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090648269361676698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 宝贝不要 兔兔会伤心的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n求互fo 我会看成分回fo！大部分都会回的喵\n我有在努力成为一个好孩子 但到底什么是好孩子呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2090751745324388588",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 267,
+          "like_count": 2684,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 336
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T10:45:00.000Z",
+        "description": "我是晓晓呀 同类宝宝大欢迎我爱你们…\n防炸逃生舱@AkiraTTT_chan \n避风港@Xiaomaozhai0120\n互fo请私信呀！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 24,
+                "username": "AkiraTTT_chan"
+              },
+              {
+                "end": 59,
+                "start": 43,
+                "username": "Xiaomaozhai0120"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Chuiertu_chan",
+                "end": 23,
+                "expanded_url": "http://t.me/Chuiertu_chan",
+                "start": 0,
+                "url": "https://t.co/Kfc4R9CsiU"
+              }
+            ]
+          }
+        },
+        "id": "2066108983178579968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090750536890847526",
+        "name": "Akira_晓（2.0）",
+        "pinned_tweet_id": "2084204086984122721",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066108983178579968/1785643084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083764239504969728/GicOm_yF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 149,
+          "like_count": 324,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 107
+        },
+        "url": "https://t.co/Kfc4R9CsiU",
+        "username": "AkiraTT_chan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
