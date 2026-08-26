@@ -1,0 +1,444 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089978074037469184",
+        "3_2089978085554982912",
+        "3_2089978099878498304",
+        "3_2089978117725274112"
+      ],
+      "media_source_tweet_id": [
+        "2089978128496279597",
+        "2089978128496279597",
+        "2089978128496279597",
+        "2089978128496279597"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "conversation_id": "2090011442955042854",
+    "created_at": "2026-08-19T09:42:13.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T10:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090011442955042854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2083755066931175424",
+          "start": 3,
+          "username": "AkiraTTT_chan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nxzfLg9Yli",
+          "end": 139,
+          "expanded_url": "https://x.com/AkiraTTT_chan/status/2089978128496279597/photo/1",
+          "media_key": "3_2089978074037469184",
+          "start": 116,
+          "url": "https://t.co/nxzfLg9Yli"
+        },
+        {
+          "display_url": "pic.x.com/nxzfLg9Yli",
+          "end": 139,
+          "expanded_url": "https://x.com/AkiraTTT_chan/status/2089978128496279597/photo/1",
+          "media_key": "3_2089978085554982912",
+          "start": 116,
+          "url": "https://t.co/nxzfLg9Yli"
+        },
+        {
+          "display_url": "pic.x.com/nxzfLg9Yli",
+          "end": 139,
+          "expanded_url": "https://x.com/AkiraTTT_chan/status/2089978128496279597/photo/1",
+          "media_key": "3_2089978099878498304",
+          "start": 116,
+          "url": "https://t.co/nxzfLg9Yli"
+        },
+        {
+          "display_url": "pic.x.com/nxzfLg9Yli",
+          "end": 139,
+          "expanded_url": "https://x.com/AkiraTTT_chan/status/2089978128496279597/photo/1",
+          "media_key": "3_2089978117725274112",
+          "start": 116,
+          "url": "https://t.co/nxzfLg9Yli"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090011442955042854",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089978074037469184"
+      },
+      {
+        "media_key": "3_2089978085554982912"
+      },
+      {
+        "media_key": "3_2089978099878498304"
+      },
+      {
+        "media_key": "3_2089978117725274112"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089978128496279597",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AkiraTTT_chan: 现在向你走来的是晓晓3.0😐\n1.0和2.0惨遭坠机 极速寻回互关😭\n这里Akira/晓晓 od 戒割中 g向爱好者\n求求可爱的同类宝宝们和我互fo互转✋🏻😭🤚🏻✋🏻😭🤚🏻✋🏻😭🤚🏻✋🏻😭🤚🏻 https://t.co/nxzfLg9Yli"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2729,
+        "media_key": "3_2089978074037469184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEX_DNbwAAZIxM.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2956,
+        "media_key": "3_2089978085554982912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEX_uHbEAAwfEL.jpg",
+        "width": 2218
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2089978099878498304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEYAjeakAAfmv8.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2089978117725274112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQEYBl9awAA292g.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089978074037469184",
+            "3_2089978085554982912",
+            "3_2089978099878498304",
+            "3_2089978117725274112"
+          ],
+          "media_source_tweet_id": [
+            "2089978128496279597",
+            "2089978128496279597",
+            "2089978128496279597",
+            "2089978128496279597"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "conversation_id": "2090011442955042854",
+        "created_at": "2026-08-19T09:42:13.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T10:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090011442955042854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2083755066931175424",
+              "start": 3,
+              "username": "AkiraTTT_chan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nxzfLg9Yli",
+              "end": 139,
+              "expanded_url": "https://x.com/AkiraTTT_chan/status/2089978128496279597/photo/1",
+              "media_key": "3_2089978074037469184",
+              "start": 116,
+              "url": "https://t.co/nxzfLg9Yli"
+            },
+            {
+              "display_url": "pic.x.com/nxzfLg9Yli",
+              "end": 139,
+              "expanded_url": "https://x.com/AkiraTTT_chan/status/2089978128496279597/photo/1",
+              "media_key": "3_2089978085554982912",
+              "start": 116,
+              "url": "https://t.co/nxzfLg9Yli"
+            },
+            {
+              "display_url": "pic.x.com/nxzfLg9Yli",
+              "end": 139,
+              "expanded_url": "https://x.com/AkiraTTT_chan/status/2089978128496279597/photo/1",
+              "media_key": "3_2089978099878498304",
+              "start": 116,
+              "url": "https://t.co/nxzfLg9Yli"
+            },
+            {
+              "display_url": "pic.x.com/nxzfLg9Yli",
+              "end": 139,
+              "expanded_url": "https://x.com/AkiraTTT_chan/status/2089978128496279597/photo/1",
+              "media_key": "3_2089978117725274112",
+              "start": 116,
+              "url": "https://t.co/nxzfLg9Yli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090011442955042854",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089978074037469184"
+          },
+          {
+            "media_key": "3_2089978085554982912"
+          },
+          {
+            "media_key": "3_2089978099878498304"
+          },
+          {
+            "media_key": "3_2089978117725274112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089978128496279597",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AkiraTTT_chan: 现在向你走来的是晓晓3.0😐\n1.0和2.0惨遭坠机 极速寻回互关😭\n这里Akira/晓晓 od 戒割中 g向爱好者\n求求可爱的同类宝宝们和我互fo互转✋🏻😭🤚🏻✋🏻😭🤚🏻✋🏻😭🤚🏻✋🏻😭🤚🏻 https://t.co/nxzfLg9Yli"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089978074037469184",
+            "3_2089978085554982912",
+            "3_2089978099878498304",
+            "3_2089978117725274112"
+          ]
+        },
+        "author_id": "2083755066931175424",
+        "conversation_id": "2089978128496279597",
+        "created_at": "2026-08-19T07:29:50.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089978128496279597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nxzfLg9Yli",
+              "end": 120,
+              "expanded_url": "https://x.com/AkiraTTT_chan/status/2089978128496279597/photo/1",
+              "media_key": "3_2089978074037469184",
+              "start": 97,
+              "url": "https://t.co/nxzfLg9Yli"
+            },
+            {
+              "display_url": "pic.x.com/nxzfLg9Yli",
+              "end": 120,
+              "expanded_url": "https://x.com/AkiraTTT_chan/status/2089978128496279597/photo/1",
+              "media_key": "3_2089978085554982912",
+              "start": 97,
+              "url": "https://t.co/nxzfLg9Yli"
+            },
+            {
+              "display_url": "pic.x.com/nxzfLg9Yli",
+              "end": 120,
+              "expanded_url": "https://x.com/AkiraTTT_chan/status/2089978128496279597/photo/1",
+              "media_key": "3_2089978099878498304",
+              "start": 97,
+              "url": "https://t.co/nxzfLg9Yli"
+            },
+            {
+              "display_url": "pic.x.com/nxzfLg9Yli",
+              "end": 120,
+              "expanded_url": "https://x.com/AkiraTTT_chan/status/2089978128496279597/photo/1",
+              "media_key": "3_2089978117725274112",
+              "start": 97,
+              "url": "https://t.co/nxzfLg9Yli"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089978128496279597",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089978074037469184"
+          },
+          {
+            "media_key": "3_2089978085554982912"
+          },
+          {
+            "media_key": "3_2089978099878498304"
+          },
+          {
+            "media_key": "3_2089978117725274112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 268,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "现在向你走来的是晓晓3.0😐\n1.0和2.0惨遭坠机 极速寻回互关😭\n这里Akira/晓晓 od 戒割中 g向爱好者\n求求可爱的同类宝宝们和我互fo互转✋🏻😭🤚🏻✋🏻😭🤚🏻✋🏻😭🤚🏻✋🏻😭🤚🏻 https://t.co/nxzfLg9Yli"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n我有在努力成为一个好孩子 但到底什么是好孩子呢\n求互fo 我会看成分回fo！大部分都会回的喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2090011442955042854",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 205,
+          "like_count": 1785,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 238
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T03:23:14.000Z",
+        "description": "我是晓晓呀 同类我们抱团取暖好不好\n前世前前世都已死 防炸@HikariTT_chan\n避风港@Xiaomaozhai0120",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 29,
+                "username": "HikariTT_chan"
+              },
+              {
+                "end": 63,
+                "start": 47,
+                "username": "Xiaomaozhai0120"
+              }
+            ]
+          }
+        },
+        "id": "2083755066931175424",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090011309857222726",
+        "name": "Akira_晓（3.0）",
+        "pinned_tweet_id": "2089978128496279597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083755066931175424/1785641233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083756020288090113/KGK2_Y7W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 51,
+          "like_count": 20,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "url": "",
+        "username": "AkiraTTT_chan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

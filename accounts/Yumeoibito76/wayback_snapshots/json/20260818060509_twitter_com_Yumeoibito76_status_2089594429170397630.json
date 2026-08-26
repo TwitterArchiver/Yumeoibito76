@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2089582233112007158",
+    "created_at": "2026-08-18T06:05:09.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T07:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089594429170397630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2079898420614135808",
+          "start": 0,
+          "username": "guonian0805"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089594429170397630",
+    "in_reply_to_user_id": "2079898420614135808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089582233112007158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guonian0805 可以和你互fo吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2089582233112007158",
+        "created_at": "2026-08-18T06:05:09.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T07:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089594429170397630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2079898420614135808",
+              "start": 0,
+              "username": "guonian0805"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089594429170397630",
+        "in_reply_to_user_id": "2079898420614135808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089582233112007158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guonian0805 可以和你互fo吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2079898420614135808",
+        "conversation_id": "2089582233112007158",
+        "created_at": "2026-08-18T05:16:41.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T06:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089582233112007158"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089582233112007158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "女宝快来和我互fo互转呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n求互fo 我会看成分回fo！大部分都会回的喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2089594429170397630",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 158,
+          "like_count": 1397,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 155
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-22T12:00:31.000Z",
+        "description": "餐券｜od｜果图｜🩸图  纯绿🚪52非绿🚪288",
+        "id": "2079898420614135808",
+        "is_identity_verified": false,
+        "location": "坐标20",
+        "most_recent_tweet_id": "2089594278175772992",
+        "name": "一颗小小草",
+        "pinned_tweet_id": "2088514960792113162",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2079898420614135808/1786430508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087066933032280064/24V98qWS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 33,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 43
+        },
+        "url": "",
+        "username": "guonian0805",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

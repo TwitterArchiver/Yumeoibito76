@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2090639967932543475",
+    "created_at": "2026-08-21T03:19:45.000Z",
+    "display_text_range": [
+      0,
+      110
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T04:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090639967932543475"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Reinai_/status…",
+          "end": 134,
+          "expanded_url": "https://twitter.com/Reinai_/status/2089837646550020427",
+          "start": 111,
+          "url": "https://t.co/E3RU9UrmNp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090639967932543475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089837646550020427",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有过性行为：❌\n有过男朋友:❌\n有过女朋友：❌\n嗑过药:⭕️\n喝过酒:❌\n挂过科:⭕️\n去过夜店:❌\n抽过烟/用过电子烟:❌\n吻过别人:❌\n被留堂:⭕️\n被课堂赶出去:⭕️\n考试作弊:⭕️\n偷偷溜出家门:❌\n是好女孩吧🌝 https://t.co/E3RU9UrmNp"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2090639967932543475",
+        "created_at": "2026-08-21T03:19:45.000Z",
+        "display_text_range": [
+          0,
+          110
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T04:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090639967932543475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Reinai_/status…",
+              "end": 134,
+              "expanded_url": "https://twitter.com/Reinai_/status/2089837646550020427",
+              "start": 111,
+              "url": "https://t.co/E3RU9UrmNp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090639967932543475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089837646550020427",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：❌\n有过男朋友:❌\n有过女朋友：❌\n嗑过药:⭕️\n喝过酒:❌\n挂过科:⭕️\n去过夜店:❌\n抽过烟/用过电子烟:❌\n吻过别人:❌\n被留堂:⭕️\n被课堂赶出去:⭕️\n考试作弊:⭕️\n偷偷溜出家门:❌\n是好女孩吧🌝 https://t.co/E3RU9UrmNp"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1668234754125344768",
+        "conversation_id": "2089837646550020427",
+        "created_at": "2026-08-18T22:11:36.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T23:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089837646550020427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ElP15_/status/…",
+              "end": 132,
+              "expanded_url": "https://twitter.com/ElP15_/status/2089771497254797725",
+              "start": 109,
+              "url": "https://t.co/pTpB5BEkzF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089837646550020427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 6021,
+          "like_count": 21,
+          "quote_count": 7,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089771497254797725",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有过性行为：❌\n有过男朋友：✔️\n有过女朋友：✔️\n嗑过药：✔️\n喝过酒：✔️\n挂过科： ✔️\n去过夜店：❌\n抽过烟/用过电子烟：✔️\n吻过别人：❌\n被留堂：✔️\n被课堂赶出去：❌\n考试作弊：✔️\n偷偷溜出家门：✔️ https://t.co/pTpB5BEkzF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n求互fo 我会看成分回fo！大部分都会回的喵\n我有在努力成为一个好孩子 但到底什么是好孩子呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2090639967932543475",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 252,
+          "like_count": 2396,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 298
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-12T12:32:29.000Z",
+        "description": "🇹🇼|2011|生理女|🩸💊\n查成分回fo回私信\n不聊騷不賣福不約\n直fo就是喜歡你",
+        "id": "1668234754125344768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090639326862573717",
+        "name": "魚",
+        "pinned_tweet_id": "2088014202200068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1668234754125344768/1756263536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087966983476436992/PFSRGZXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 653,
+          "following_count": 693,
+          "like_count": 2019,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 605
+        },
+        "url": "",
+        "username": "Reinai_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

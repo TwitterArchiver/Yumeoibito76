@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2089971114718179612",
+    "created_at": "2026-08-19T07:01:58.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T08:01:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089971114718179612"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813768883540725760",
+          "start": 3,
+          "username": "ye_and_yae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089971114718179612",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089721466711646617",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ye_and_yae: 杜蕾斯超薄提醒您：还有一天就是七夕了，姿势千万条，安全第一条，情人节不戴套，你一顶，她一叫，孩子明年对你笑，孩子属马2044年就高考！\n\n这是你们七夕可能要用到的电话:\n桔子酒店订房:400-819-0099\n布丁酒店订房:400-880-280…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2089971114718179612",
+        "created_at": "2026-08-19T07:01:58.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T08:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089971114718179612"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813768883540725760",
+              "start": 3,
+              "username": "ye_and_yae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089971114718179612",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089721466711646617",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ye_and_yae: 杜蕾斯超薄提醒您：还有一天就是七夕了，姿势千万条，安全第一条，情人节不戴套，你一顶，她一叫，孩子明年对你笑，孩子属马2044年就高考！\n\n这是你们七夕可能要用到的电话:\n桔子酒店订房:400-819-0099\n布丁酒店订房:400-880-280…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813768883540725760",
+        "conversation_id": "2089721466711646617",
+        "created_at": "2026-08-18T14:29:57.000Z",
+        "display_text_range": [
+          0,
+          165
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089721466711646617"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089721466711646617",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "杜蕾斯超薄提醒您：还有一天就是七夕了，姿势千万条，安全第一条，情人节不戴套，你一顶，她一叫，孩子明年对你笑，孩子属马2044年就高考！\n\n这是你们七夕可能要用到的电话:\n桔子酒店订房:400-819-0099\n布丁酒店订房:400-880-2802\n万达酒店订房:400-088-8899\n希尔顿酒店订房:400-820-3011\n维也纳酒店订房:400-888-2888\n喜来登酒店订房:400-868-8688\n香格里拉酒店订房:400-120-5900\n皇冠假日酒店订房:400-886-2255\n七天连锁酒店订房:400-777-0777\n佳园连锁酒店订房:400-830-8331\n如家快捷酒店订房:400-820-3333\n汉庭快捷酒店订房:400-812-1121\n速八快捷酒店订房:400-184-0018\n锦江之星酒店订房:400-820-9999\n格林豪泰酒店订房:400-699-8998\n尚客优快捷酒店订房:400-645-6999\n宜必思快捷酒店订房:400-600-6066\n为了晚上大家能顺利开到房间 \n\n如家快捷酒店订房热线：400-820-3333\n汉庭快捷酒店订房热线：400-812-1121\n七天快捷酒店订房热线：400-777-0777\n锦江国际酒店订房热线：400-820-9999\n联邦酒店订房热线：400-777-8210\n格林豪泰酒店订房热线：400-820-5998\n速8快捷酒店订房热线：400-184-0018\n\n这是一个月以后用的 ：\n\n华夏医院预约电话64503333\n妇幼保健医院预约电话68554659\n西北女子医院预约电话65828120\n玛丽妇产医院预约电话65652222\n当代女子医院预约电话400-0991-338\n阳光妇科医院预约电话54619999\n\n温馨提醒您：姿势千万条 避孕第一条 动作不规范 亲人多一半"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 535,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "杜蕾斯超薄提醒您：还有一天就是七夕了，姿势千万条，安全第一条，情人节不戴套，你一顶，她一叫，孩子明年对你笑，孩子属马2044年就高考！\n\n这是你们七夕可能要用到的电话:\n桔子酒店订房:400-819-0099\n布丁酒店订房:400-880-2802\n万达酒店订房:400-088-8899\n希尔顿酒店订房:400-820-3011"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n我有在努力成为一个好孩子 但到底什么是好孩子呢\n求互fo 我会看成分回fo！大部分都会回的喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2089971114718179612",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 241,
+          "like_count": 1667,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 226
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-18T02:54:44.000Z",
+        "description": "我是爱晔哦 \n09/01/26 炸柜26/06/09 有时含糖 喜欢航天 二次元 技术至上主义 喜欢画画 学日语\n最最最好的朋友@guoxiufeng5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 64,
+                "username": "guoxiufeng5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/VckYvvu",
+                "end": 23,
+                "expanded_url": "https://b23.tv/VckYvvu",
+                "start": 0,
+                "url": "https://t.co/hiPltpfKRo"
+              }
+            ]
+          }
+        },
+        "id": "1813768883540725760",
+        "is_identity_verified": false,
+        "location": "距你11.4km",
+        "most_recent_tweet_id": "2089968278148165774",
+        "name": "🍥爱晔🚀",
+        "pinned_tweet_id": "2082073672802767121",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813768883540725760/1764440318",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079860342965067776/HglcXlhL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1521,
+          "following_count": 1293,
+          "like_count": 11223,
+          "listed_count": 4,
+          "media_count": 564,
+          "tweet_count": 4898
+        },
+        "url": "https://t.co/hiPltpfKRo",
+        "username": "ye_and_yae",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

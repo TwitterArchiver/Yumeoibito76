@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2090078915356410315",
+    "created_at": "2026-08-19T14:40:14.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T15:40:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090086441602699418"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2089662314769440768",
+          "start": 0,
+          "username": "yuechujingshann"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090086441602699418",
+    "in_reply_to_user_id": "2089662314769440768",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090078915356410315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuechujingshann 帅帅的！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2090078888974323712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFzrQHbkAACy5r.jpg",
+        "width": 2310
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2090078915356410315",
+        "created_at": "2026-08-19T14:40:14.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:40:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090086441602699418"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2089662314769440768",
+              "start": 0,
+              "username": "yuechujingshann"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090086441602699418",
+        "in_reply_to_user_id": "2089662314769440768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090078915356410315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuechujingshann 帅帅的！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090078888974323712"
+          ]
+        },
+        "author_id": "2089662314769440768",
+        "conversation_id": "2090078915356410315",
+        "created_at": "2026-08-19T14:10:19.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090078915356410315"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ny5HzpYp9m",
+              "end": 29,
+              "expanded_url": "https://x.com/yuechujingshann/status/2090078915356410315/photo/1",
+              "media_key": "3_2090078888974323712",
+              "start": 6,
+              "url": "https://t.co/ny5HzpYp9m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090078915356410315",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090078888974323712"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "波风水门喵 https://t.co/ny5HzpYp9m"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n我有在努力成为一个好孩子 但到底什么是好孩子呢\n求互fo 我会看成分回fo！大部分都会回的喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2090086441602699418",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 215,
+          "like_count": 1930,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 250
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T10:36:05.000Z",
+        "description": "二次元军事领域绝对爱好者",
+        "id": "2089662314769440768",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090078915356410315",
+        "name": "月出惊山鸟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089662314769440768/1787067794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089662834280120320/Cwd873K4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 64,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 83
+        },
+        "url": "",
+        "username": "yuechujingshann",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

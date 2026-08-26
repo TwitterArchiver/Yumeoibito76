@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2092077815281881182",
+    "created_at": "2026-08-25T02:33:14.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T03:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092077815281881182"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2006546407659130880",
+          "start": 3,
+          "username": "h1xhzi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092077815281881182",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4305
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091873131908812978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @h1xhzi: ちんちん小さすぎて昼寝してたら蟻にフェラチオでイかされたことある"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2092077815281881182",
+        "created_at": "2026-08-25T02:33:14.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T03:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092077815281881182"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2006546407659130880",
+              "start": 3,
+              "username": "h1xhzi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092077815281881182",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4305
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091873131908812978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @h1xhzi: ちんちん小さすぎて昼寝してたら蟻にフェラチオでイかされたことある"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2006546407659130880",
+        "conversation_id": "2091873131908812978",
+        "created_at": "2026-08-24T12:59:54.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T13:59:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091873131908812978"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091873131908812978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3291,
+          "impression_count": 2534049,
+          "like_count": 68722,
+          "quote_count": 678,
+          "reply_count": 366,
+          "retweet_count": 4311
+        },
+        "reply_settings": "everyone",
+        "text": "ちんちん小さすぎて昼寝してたら蟻にフェラチオでイかされたことある"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n求互fo 我会看成分回fo！大部分都会回的喵\n我有在努力成为一个好孩子 但到底什么是好孩子呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2092077815281881182",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 306,
+          "like_count": 4026,
+          "listed_count": 0,
+          "media_count": 59,
+          "tweet_count": 452
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-01T02:02:10.000Z",
+        "description": "絵の約束、服薬　話しかけてくんな",
+        "id": "2006546407659130880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092000036804788269",
+        "name": "hiz",
+        "pinned_tweet_id": "2072649240690774362",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056194768175304704/IBJq9k0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129,
+          "following_count": 257,
+          "like_count": 18016,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 6010
+        },
+        "url": "",
+        "username": "h1xhzi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

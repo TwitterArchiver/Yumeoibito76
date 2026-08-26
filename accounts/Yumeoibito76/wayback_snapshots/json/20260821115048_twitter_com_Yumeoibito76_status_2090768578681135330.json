@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2090762523104452699",
+    "created_at": "2026-08-21T11:50:48.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T12:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090768578681135330"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1756352731701452800",
+          "start": 0,
+          "username": "yvban070711"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090768578681135330",
+    "in_reply_to_user_id": "1756352731701452800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090768338511331825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yvban070711 谢谢你…谢谢你……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2090762523104452699",
+        "created_at": "2026-08-21T11:50:48.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T12:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090768578681135330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1756352731701452800",
+              "start": 0,
+              "username": "yvban070711"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090768578681135330",
+        "in_reply_to_user_id": "1756352731701452800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090768338511331825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yvban070711 谢谢你…谢谢你……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756352731701452800",
+        "conversation_id": "2090762523104452699",
+        "created_at": "2026-08-21T11:49:51.000Z",
+        "display_text_range": [
+          14,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T12:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090768338511331825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090768338511331825",
+        "in_reply_to_user_id": "1756352731701452800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090768062241018252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 无论别人是否否定你，至少我们愿意支持你，如果你一万次否定自己的话，我可以用一万零一次告诉你，你真的很棒很棒了呢，你值得所有所有的幸福呢，小天使"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n求互fo 我会看成分回fo！大部分都会回的喵\n我有在努力成为一个好孩子 但到底什么是好孩子呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2090768578681135330",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 272,
+          "like_count": 2775,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-10T16:21:47.000Z",
+        "description": "我的每一页都是你的名字\n你的每一页都没有我的名字",
+        "id": "1756352731701452800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090768338511331825",
+        "name": "御坂Tyna",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1756352731701452800/1758814827",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971237876575895557/0EOmFpAU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 33,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 126
+        },
+        "url": "",
+        "username": "yvban070711",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

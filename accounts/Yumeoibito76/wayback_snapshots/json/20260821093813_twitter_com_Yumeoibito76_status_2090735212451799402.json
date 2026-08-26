@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2090648269361676698",
+    "created_at": "2026-08-21T09:38:13.000Z",
+    "display_text_range": [
+      14,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T10:38:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090735212451799402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2089973996368560128",
+          "start": 0,
+          "username": "Alice404Lain"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090735212451799402",
+    "in_reply_to_user_id": "2089973996368560128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090722670694555979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alice404Lain 我的死会让我的家变成一个真正幸福正常的家庭…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2090648269361676698",
+        "created_at": "2026-08-21T09:38:13.000Z",
+        "display_text_range": [
+          14,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T10:38:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090735212451799402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2089973996368560128",
+              "start": 0,
+              "username": "Alice404Lain"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090735212451799402",
+        "in_reply_to_user_id": "2089973996368560128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090722670694555979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alice404Lain 我的死会让我的家变成一个真正幸福正常的家庭…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089973996368560128",
+        "conversation_id": "2090648269361676698",
+        "created_at": "2026-08-21T08:48:23.000Z",
+        "display_text_range": [
+          14,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T09:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090722670694555979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090722670694555979",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090648269361676698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 死掉不会对别人造成任何影响，只会给自己留下遗憾，记得爱自己，不想出门的话可以在网上找朋友聊天，总会好些的\n(=^▽^=)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n求互fo 我会看成分回fo！大部分都会回的喵\n我有在努力成为一个好孩子 但到底什么是好孩子呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2090735212451799402",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 263,
+          "like_count": 2625,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 330
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T07:14:56.000Z",
+        "description": "而我呢，只是一个路人。一个陌生人。一个用户。一个老百姓。一个普通人。一个铁堡人。一个硅基生物。一个变形金刚。一个机械生命体。一个汽车人。",
+        "id": "2089973996368560128",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090733472067555547",
+        "name": "Bigboss薇欧拉",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089973996368560128/1787215326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089977923029835776/WMK6qK8__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 30,
+          "like_count": 99,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "Alice404Lain",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,727 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089386382758477825",
+        "3_2089386385275060231",
+        "3_2089386391310606336"
+      ],
+      "media_source_tweet_id": [
+        "2089386395458830630",
+        "2089386395458830630",
+        "2089386395458830630"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1233113060732092416",
+          "name": "Arknights"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897789013393420",
+          "name": "Strategy games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900085583577097",
+          "name": "Idol games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491900373098921986",
+          "name": "Gacha games"
+        }
+      }
+    ],
+    "conversation_id": "2089556114815799714",
+    "created_at": "2026-08-18T03:32:54.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T04:32:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089556114815799714"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 92,
+          "start": 88,
+          "tag": "互fo"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1929644549061885952",
+          "start": 3,
+          "username": "kiriaaaaaangel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BDwTG0PGrq",
+          "end": 116,
+          "expanded_url": "https://x.com/kiriaaaaaangel/status/2089386395458830630/photo/1",
+          "media_key": "3_2089386382758477825",
+          "start": 93,
+          "url": "https://t.co/BDwTG0PGrq"
+        },
+        {
+          "display_url": "pic.x.com/BDwTG0PGrq",
+          "end": 116,
+          "expanded_url": "https://x.com/kiriaaaaaangel/status/2089386395458830630/photo/1",
+          "media_key": "3_2089386385275060231",
+          "start": 93,
+          "url": "https://t.co/BDwTG0PGrq"
+        },
+        {
+          "display_url": "pic.x.com/BDwTG0PGrq",
+          "end": 116,
+          "expanded_url": "https://x.com/kiriaaaaaangel/status/2089386395458830630/photo/1",
+          "media_key": "3_2089386391310606336",
+          "start": 93,
+          "url": "https://t.co/BDwTG0PGrq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089556114815799714",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089386382758477825"
+      },
+      {
+        "media_key": "3_2089386385275060231"
+      },
+      {
+        "media_key": "3_2089386391310606336"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089386395458830630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kiriaaaaaangel: 我是春禮你們好求互fo呀 我喜歡od術力口jpop斯普拉遁彈丸論破魔女裁判明日方舟洛克王國 歡迎線下和我一起玩就這些感謝轉發感謝互fo #互fo https://t.co/BDwTG0PGrq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1556,
+        "media_key": "3_2089386382758477825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP792FbbgAE2WjL.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2089386385275060231",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP792OzbgAcw8z_.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089386391310606336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP792lSaoAAFplC.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089386382758477825",
+            "3_2089386385275060231",
+            "3_2089386391310606336"
+          ],
+          "media_source_tweet_id": [
+            "2089386395458830630",
+            "2089386395458830630",
+            "2089386395458830630"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2089556114815799714",
+        "created_at": "2026-08-18T03:32:54.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089556114815799714"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 92,
+              "start": 88,
+              "tag": "互fo"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1929644549061885952",
+              "start": 3,
+              "username": "kiriaaaaaangel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BDwTG0PGrq",
+              "end": 116,
+              "expanded_url": "https://x.com/kiriaaaaaangel/status/2089386395458830630/photo/1",
+              "media_key": "3_2089386382758477825",
+              "start": 93,
+              "url": "https://t.co/BDwTG0PGrq"
+            },
+            {
+              "display_url": "pic.x.com/BDwTG0PGrq",
+              "end": 116,
+              "expanded_url": "https://x.com/kiriaaaaaangel/status/2089386395458830630/photo/1",
+              "media_key": "3_2089386385275060231",
+              "start": 93,
+              "url": "https://t.co/BDwTG0PGrq"
+            },
+            {
+              "display_url": "pic.x.com/BDwTG0PGrq",
+              "end": 116,
+              "expanded_url": "https://x.com/kiriaaaaaangel/status/2089386395458830630/photo/1",
+              "media_key": "3_2089386391310606336",
+              "start": 93,
+              "url": "https://t.co/BDwTG0PGrq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089556114815799714",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089386382758477825"
+          },
+          {
+            "media_key": "3_2089386385275060231"
+          },
+          {
+            "media_key": "3_2089386391310606336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089386395458830630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kiriaaaaaangel: 我是春禮你們好求互fo呀 我喜歡od術力口jpop斯普拉遁彈丸論破魔女裁判明日方舟洛克王國 歡迎線下和我一起玩就這些感謝轉發感謝互fo #互fo https://t.co/BDwTG0PGrq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089386382758477825",
+            "3_2089386385275060231",
+            "3_2089386391310606336"
+          ]
+        },
+        "author_id": "1929644549061885952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2089386395458830630",
+        "created_at": "2026-08-17T16:18:30.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T17:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089386395458830630"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 68,
+              "tag": "互fo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BDwTG0PGrq",
+              "end": 96,
+              "expanded_url": "https://x.com/kiriaaaaaangel/status/2089386395458830630/photo/1",
+              "media_key": "3_2089386382758477825",
+              "start": 73,
+              "url": "https://t.co/BDwTG0PGrq"
+            },
+            {
+              "display_url": "pic.x.com/BDwTG0PGrq",
+              "end": 96,
+              "expanded_url": "https://x.com/kiriaaaaaangel/status/2089386395458830630/photo/1",
+              "media_key": "3_2089386385275060231",
+              "start": 73,
+              "url": "https://t.co/BDwTG0PGrq"
+            },
+            {
+              "display_url": "pic.x.com/BDwTG0PGrq",
+              "end": 96,
+              "expanded_url": "https://x.com/kiriaaaaaangel/status/2089386395458830630/photo/1",
+              "media_key": "3_2089386391310606336",
+              "start": 73,
+              "url": "https://t.co/BDwTG0PGrq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089386395458830630",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089386382758477825"
+          },
+          {
+            "media_key": "3_2089386385275060231"
+          },
+          {
+            "media_key": "3_2089386391310606336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 116,
+          "like_count": 4,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我是春禮你們好求互fo呀 我喜歡od術力口jpop斯普拉遁彈丸論破魔女裁判明日方舟洛克王國 歡迎線下和我一起玩就這些感謝轉發感謝互fo #互fo https://t.co/BDwTG0PGrq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n求互fo 我会看成分回fo！大部分都会回的喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2089556114815799714",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 148,
+          "like_count": 1339,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 131
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-02T21:02:04.000Z",
+        "description": "無言followすみません‖oder/BD/ED‖Splatoon/まのさば/ダンガンロンパがすき♡‖前世@kirimomonch2024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 53,
+                "username": "kirimomonch2024"
+              }
+            ]
+          }
+        },
+        "id": "1929644549061885952",
+        "is_identity_verified": false,
+        "location": "幻界",
+        "most_recent_tweet_id": "2089389938735546763",
+        "name": "キ",
+        "pinned_tweet_id": "1992932325659955488",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929644549061885952/1748899308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074517313869754368/Pv3swPSg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 130,
+          "like_count": 1546,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 166
+        },
+        "url": "",
+        "username": "kiriaaaaaangel",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

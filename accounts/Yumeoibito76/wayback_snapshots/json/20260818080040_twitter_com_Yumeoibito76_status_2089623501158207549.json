@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088614908904771584",
+        "3_2088614917075345408"
+      ],
+      "media_source_tweet_id": [
+        "2088614925149389167",
+        "2088614925149389167"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "conversation_id": "2089623501158207549",
+    "created_at": "2026-08-18T08:00:40.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T09:00:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089623501158207549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1733692753899569152",
+          "start": 3,
+          "username": "AmiyaArk0106"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RW8TDMUkb9",
+          "end": 62,
+          "expanded_url": "https://x.com/AmiyaArk0106/status/2088614925149389167/photo/1",
+          "media_key": "3_2088614908904771584",
+          "start": 39,
+          "url": "https://t.co/RW8TDMUkb9"
+        },
+        {
+          "display_url": "pic.x.com/RW8TDMUkb9",
+          "end": 62,
+          "expanded_url": "https://x.com/AmiyaArk0106/status/2088614925149389167/photo/1",
+          "media_key": "3_2088614917075345408",
+          "start": 39,
+          "url": "https://t.co/RW8TDMUkb9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089623501158207549",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088614908904771584"
+      },
+      {
+        "media_key": "3_2088614917075345408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088614925149389167",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AmiyaArk0106: 我这位朋友的账号被盗了，大家帮忙转一下。 https://t.co/RW8TDMUkb9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2800,
+        "media_key": "3_2088614908904771584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxAMZXakAApgvf.jpg",
+        "width": 1260
+      },
+      {
+        "height": 2800,
+        "media_key": "3_2088614917075345408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPxAM3zboAAVz1u.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088614908904771584",
+            "3_2088614917075345408"
+          ],
+          "media_source_tweet_id": [
+            "2088614925149389167",
+            "2088614925149389167"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "conversation_id": "2089623501158207549",
+        "created_at": "2026-08-18T08:00:40.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T09:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089623501158207549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1733692753899569152",
+              "start": 3,
+              "username": "AmiyaArk0106"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RW8TDMUkb9",
+              "end": 62,
+              "expanded_url": "https://x.com/AmiyaArk0106/status/2088614925149389167/photo/1",
+              "media_key": "3_2088614908904771584",
+              "start": 39,
+              "url": "https://t.co/RW8TDMUkb9"
+            },
+            {
+              "display_url": "pic.x.com/RW8TDMUkb9",
+              "end": 62,
+              "expanded_url": "https://x.com/AmiyaArk0106/status/2088614925149389167/photo/1",
+              "media_key": "3_2088614917075345408",
+              "start": 39,
+              "url": "https://t.co/RW8TDMUkb9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089623501158207549",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088614908904771584"
+          },
+          {
+            "media_key": "3_2088614917075345408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088614925149389167",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AmiyaArk0106: 我这位朋友的账号被盗了，大家帮忙转一下。 https://t.co/RW8TDMUkb9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088614908904771584",
+            "3_2088614917075345408"
+          ]
+        },
+        "author_id": "1733692753899569152",
+        "conversation_id": "2088614925149389167",
+        "created_at": "2026-08-15T13:12:57.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T14:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088614925149389167"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RW8TDMUkb9",
+              "end": 44,
+              "expanded_url": "https://x.com/AmiyaArk0106/status/2088614925149389167/photo/1",
+              "media_key": "3_2088614908904771584",
+              "start": 21,
+              "url": "https://t.co/RW8TDMUkb9"
+            },
+            {
+              "display_url": "pic.x.com/RW8TDMUkb9",
+              "end": 44,
+              "expanded_url": "https://x.com/AmiyaArk0106/status/2088614925149389167/photo/1",
+              "media_key": "3_2088614917075345408",
+              "start": 21,
+              "url": "https://t.co/RW8TDMUkb9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088614925149389167",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088614908904771584"
+          },
+          {
+            "media_key": "3_2088614917075345408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3621,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我这位朋友的账号被盗了，大家帮忙转一下。 https://t.co/RW8TDMUkb9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n求互fo 我会看成分回fo！大部分都会回的喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2089623501158207549",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 164,
+          "like_count": 1473,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 163
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-10T03:39:55.000Z",
+        "description": "06‖社恐‖男\n🟪🟨🟦‖INFP-T\n所有友善的私信都会努力回复喵\n🏳️‍🌈‖欢迎互fo\n喜欢的：明日方舟，cs，瓦或 cod 等 FPS 游戏，其他游戏也会尝试\n喜欢折腾各种电子垃圾",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/amiyaark01061",
+                "end": 23,
+                "expanded_url": "https://ngl.link/amiyaark01061",
+                "start": 0,
+                "url": "https://t.co/Y5nxNE2lG9"
+              }
+            ]
+          }
+        },
+        "id": "1733692753899569152",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089623253677715472",
+        "name": "社恐猫猫Ark🐱",
+        "pinned_tweet_id": "2089609403678998556",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1733692753899569152/1775909408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053776709883949056/UvRoK5V7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 203,
+          "like_count": 2839,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1219
+        },
+        "url": "https://t.co/Y5nxNE2lG9",
+        "username": "AmiyaArk0106",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

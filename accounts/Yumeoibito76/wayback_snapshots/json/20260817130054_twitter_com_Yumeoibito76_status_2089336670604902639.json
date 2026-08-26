@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2088219581295051080",
+    "created_at": "2026-08-17T13:00:54.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T14:00:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089336670604902639"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1845116988181577728",
+          "start": 0,
+          "username": "tangtang1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089336670604902639",
+    "in_reply_to_user_id": "1845116988181577728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088219581295051080",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tangtang1204 蹲蹲！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 100,
+        "media_key": "16_2088219567151886336",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HPrYoekbsAA3FX8.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HPrYoekbsAA3FX8.mp4"
+          }
+        ],
+        "width": 100
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2088219581295051080",
+        "created_at": "2026-08-17T13:00:54.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089336670604902639"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1845116988181577728",
+              "start": 0,
+              "username": "tangtang1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089336670604902639",
+        "in_reply_to_user_id": "1845116988181577728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088219581295051080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tangtang1204 蹲蹲！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2088219567151886336"
+          ]
+        },
+        "author_id": "1845116988181577728",
+        "conversation_id": "2088219581295051080",
+        "created_at": "2026-08-14T11:02:00.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T12:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088219581295051080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/thgxCqwNmM",
+              "end": 64,
+              "expanded_url": "https://x.com/tangtang1204/status/2088219581295051080/photo/1",
+              "media_key": "16_2088219567151886336",
+              "start": 41,
+              "url": "https://t.co/thgxCqwNmM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088219581295051080",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2088219567151886336"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 357,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "100fo了，选一个人抽三板pr，75mg的，关注评论点赞加转发，8.20号开。 https://t.co/thgxCqwNmM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n求互fo 我会看成分回fo！大部分都会回的喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2089336670604902639",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 125,
+          "like_count": 1199,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 111
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-12T14:59:15.000Z",
+        "description": "05/女同/地雷妹/od/割手/我爱我的小猫/我也喜欢所有可爱的孩子/https://t.co/UbgjEj3jy1",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/tangtang1204",
+                "end": 58,
+                "expanded_url": "https://ngl.link/tangtang1204",
+                "start": 35,
+                "url": "https://t.co/UbgjEj3jy1"
+              }
+            ]
+          }
+        },
+        "id": "1845116988181577728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089033636247208110",
+        "name": "小糖",
+        "pinned_tweet_id": "2062313240840032330",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1845116988181577728/1778875273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062138922386550784/kXcvR_xb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 174,
+          "like_count": 277,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 585
+        },
+        "url": "",
+        "username": "tangtang1204",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

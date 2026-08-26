@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084933434368294912"
+      ],
+      "media_source_tweet_id": [
+        "2084933457319547111"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "conversation_id": "2089557774313136488",
+    "created_at": "2026-08-18T03:39:30.000Z",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T04:39:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089557774313136488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2065372497403674624",
+          "start": 3,
+          "username": "Huhio3i"
+        },
+        {
+          "end": 28,
+          "id": "2059326143640276992",
+          "start": 18,
+          "username": "Huhiosc3x"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DCp8IjY7SC",
+          "end": 72,
+          "expanded_url": "https://x.com/Huhio3i/status/2084933457319547111/photo/1",
+          "media_key": "3_2084933434368294912",
+          "start": 49,
+          "url": "https://t.co/DCp8IjY7SC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089557774313136488",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2084933434368294912"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084933457319547111",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Huhio3i: 大家好这个@HuHiosc3x 被奸人所害求大家助力我找回亲亲互关好吗 https://t.co/DCp8IjY7SC"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Huhiosc3x].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Huhiosc3x",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "Huhiosc3x"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 988,
+        "media_key": "3_2084933434368294912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO8r6X_bgAA7q13.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084933434368294912"
+          ],
+          "media_source_tweet_id": [
+            "2084933457319547111"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "conversation_id": "2089557774313136488",
+        "created_at": "2026-08-18T03:39:30.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T04:39:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089557774313136488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2065372497403674624",
+              "start": 3,
+              "username": "Huhio3i"
+            },
+            {
+              "end": 28,
+              "id": "2059326143640276992",
+              "start": 18,
+              "username": "Huhiosc3x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DCp8IjY7SC",
+              "end": 72,
+              "expanded_url": "https://x.com/Huhio3i/status/2084933457319547111/photo/1",
+              "media_key": "3_2084933434368294912",
+              "start": 49,
+              "url": "https://t.co/DCp8IjY7SC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089557774313136488",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2084933434368294912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084933457319547111",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Huhio3i: 大家好这个@HuHiosc3x 被奸人所害求大家助力我找回亲亲互关好吗 https://t.co/DCp8IjY7SC"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084933434368294912"
+          ]
+        },
+        "author_id": "2065372497403674624",
+        "conversation_id": "2084933457319547111",
+        "created_at": "2026-08-05T09:24:07.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-05T10:24:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084933457319547111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2059326143640276992",
+              "start": 5,
+              "username": "Huhiosc3x"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DCp8IjY7SC",
+              "end": 59,
+              "expanded_url": "https://x.com/Huhio3i/status/2084933457319547111/photo/1",
+              "media_key": "3_2084933434368294912",
+              "start": 36,
+              "url": "https://t.co/DCp8IjY7SC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084933457319547111",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2084933434368294912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3726,
+          "like_count": 32,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "大家好这个@HuHiosc3x 被奸人所害求大家助力我找回亲亲互关好吗 https://t.co/DCp8IjY7SC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n求互fo 我会看成分回fo！大部分都会回的喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2089557774313136488",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 151,
+          "like_count": 1345,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 138
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-12T09:57:06.000Z",
+        "description": "＝hh | 一号机@Huhiosc3x 被封了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "Huhiosc3x"
+              }
+            ]
+          }
+        },
+        "id": "2065372497403674624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089422348692935151",
+        "name": "Huhio2.0",
+        "pinned_tweet_id": "2084933457319547111",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065372497403674624/1781258488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089275699601477632/o4MsCO0q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 100,
+          "like_count": 318,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 261
+        },
+        "url": "",
+        "username": "Huhio3i",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
