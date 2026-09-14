@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097559880379047936"
+      ],
+      "media_source_tweet_id": [
+        "2097559979431497807"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "conversation_id": "2097574273623658979",
+    "created_at": "2026-09-09T06:34:12.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T07:34:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097574273623658979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2043923337282199552",
+          "start": 3,
+          "username": "ACreator42116"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/whogwkOher",
+          "end": 42,
+          "expanded_url": "https://x.com/ACreator42116/status/2097559979431497807/video/1",
+          "media_key": "13_2097559880379047936",
+          "start": 19,
+          "url": "https://t.co/whogwkOher"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097574273623658979",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2097559880379047936"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097559979431497807",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ACreator42116: https://t.co/whogwkOher"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22453,
+        "height": 1280,
+        "media_key": "13_2097559880379047936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097559880379047936/img/aXiYwLbbi4Bi_zxb.jpg",
+        "public_metrics": {
+          "view_count": 185
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097559880379047936/vid/avc1/320x568/lDMbImBy0ubg6yIq.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097559880379047936/vid/avc1/480x852/upU_3xqBUUY-cSDJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097559880379047936/vid/avc1/720x1280/I7m8aF7pZnVD5Niu.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097559880379047936/pl/llU_ixt6LRoWzn40.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097559880379047936"
+          ],
+          "media_source_tweet_id": [
+            "2097559979431497807"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "conversation_id": "2097574273623658979",
+        "created_at": "2026-09-09T06:34:12.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T07:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097574273623658979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2043923337282199552",
+              "start": 3,
+              "username": "ACreator42116"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/whogwkOher",
+              "end": 42,
+              "expanded_url": "https://x.com/ACreator42116/status/2097559979431497807/video/1",
+              "media_key": "13_2097559880379047936",
+              "start": 19,
+              "url": "https://t.co/whogwkOher"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097574273623658979",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2097559880379047936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097559979431497807",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ACreator42116: https://t.co/whogwkOher"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097559880379047936"
+          ]
+        },
+        "author_id": "2043923337282199552",
+        "conversation_id": "2097559979431497807",
+        "created_at": "2026-09-09T05:37:24.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T06:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097559979431497807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/whogwkOher",
+              "end": 23,
+              "expanded_url": "https://x.com/ACreator42116/status/2097559979431497807/video/1",
+              "media_key": "13_2097559880379047936",
+              "start": 0,
+              "url": "https://t.co/whogwkOher"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097559979431497807",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2097559880379047936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 556,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/whogwkOher"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n求互fo 我会看成分回fo 大部分都会回的\n我不想当温良逼了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2097574273623658979",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 447,
+          "like_count": 9189,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 736
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-14T05:25:28.000Z",
+        "description": "Daily connect creator",
+        "id": "2043923337282199552",
+        "is_identity_verified": false,
+        "location": "United Kingdom",
+        "most_recent_tweet_id": "2097559979431497807",
+        "name": "Animal content creator",
+        "pinned_tweet_id": "2084152195415413019",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2043923337282199552/1776145645",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043928314960850947/8OUdBEcq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 804,
+          "like_count": 2132,
+          "listed_count": 4,
+          "media_count": 1660,
+          "tweet_count": 1719
+        },
+        "url": "",
+        "username": "ACreator42116",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

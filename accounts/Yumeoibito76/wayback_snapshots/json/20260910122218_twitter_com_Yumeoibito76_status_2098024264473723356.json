@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097945506710487040"
+      ],
+      "media_source_tweet_id": [
+        "2097945737011102137"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "conversation_id": "2098024264473723356",
+    "created_at": "2026-09-10T12:22:18.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T13:22:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098024264473723356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2083188281307717632",
+          "start": 3,
+          "username": "themydreamm0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0YoYRppGxd",
+          "end": 41,
+          "expanded_url": "https://x.com/themydreamm0/status/2097945737011102137/video/1",
+          "media_key": "13_2097945506710487040",
+          "start": 18,
+          "url": "https://t.co/0YoYRppGxd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098024264473723356",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2097945506710487040"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097945737011102137",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @themydreamm0: https://t.co/0YoYRppGxd"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32436,
+        "height": 1280,
+        "media_key": "13_2097945506710487040",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097945506710487040/img/dWyt-iyTTzR1RKWj.jpg",
+        "public_metrics": {
+          "view_count": 1129
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097945506710487040/vid/avc1/320x568/02lK0UlsLaAs6Z6W.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097945506710487040/vid/avc1/480x852/EKyD8YptDcryNOa1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097945506710487040/vid/avc1/720x1280/6QpCqlRjIuf1WRX_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097945506710487040/pl/ZIJ-MLJx_HCAZTX3.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097945506710487040"
+          ],
+          "media_source_tweet_id": [
+            "2097945737011102137"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "conversation_id": "2098024264473723356",
+        "created_at": "2026-09-10T12:22:18.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T13:22:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098024264473723356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2083188281307717632",
+              "start": 3,
+              "username": "themydreamm0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0YoYRppGxd",
+              "end": 41,
+              "expanded_url": "https://x.com/themydreamm0/status/2097945737011102137/video/1",
+              "media_key": "13_2097945506710487040",
+              "start": 18,
+              "url": "https://t.co/0YoYRppGxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098024264473723356",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2097945506710487040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097945737011102137",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @themydreamm0: https://t.co/0YoYRppGxd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097945506710487040"
+          ]
+        },
+        "author_id": "2083188281307717632",
+        "conversation_id": "2097945737011102137",
+        "created_at": "2026-09-10T07:10:16.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T08:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097945737011102137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0YoYRppGxd",
+              "end": 23,
+              "expanded_url": "https://x.com/themydreamm0/status/2097945737011102137/video/1",
+              "media_key": "13_2097945506710487040",
+              "start": 0,
+              "url": "https://t.co/0YoYRppGxd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097945737011102137",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2097945506710487040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 3688,
+          "like_count": 265,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/0YoYRppGxd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\nQQ群1124326151随便进\n微信🚪纯绿30只收身心男的 ，女孩子不用，上次我住院时帮过我的不用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2098024264473723356",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 453,
+          "like_count": 9836,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 757
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-31T13:50:00.000Z",
+        "description": "follow me 💯💯💯💯💯💯💯💯💯 follow back 💯💯💯💯💯💯💯",
+        "id": "2083188281307717632",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097989377448427997",
+        "name": "the my dream",
+        "pinned_tweet_id": "2097932594260123784",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083188281307717632/1788516933",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095818043893190658/1uNawIfY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 236,
+          "following_count": 293,
+          "like_count": 853,
+          "listed_count": 1,
+          "media_count": 285,
+          "tweet_count": 1004
+        },
+        "url": "",
+        "username": "themydreamm0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

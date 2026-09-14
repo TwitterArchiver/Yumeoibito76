@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2094462273016492196",
+    "created_at": "2026-09-01T03:18:08.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T04:18:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094625830362329370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1832847225346809856",
+          "start": 0,
+          "username": "MoQiuyao201314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094625830362329370",
+    "in_reply_to_user_id": "1832847225346809856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094462273016492196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MoQiuyao201314 习幺幺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39966,
+        "height": 720,
+        "media_key": "13_2094462242498736130",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094462242498736130/img/HYIwCGt6DazCFVR5.jpg",
+        "public_metrics": {
+          "view_count": 53361
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094462242498736130/vid/avc1/320x320/Cp1I2n-B320WPPAx.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094462242498736130/vid/avc1/540x540/-XeVYsA9oKqBhW7-.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094462242498736130/vid/avc1/720x720/TWerLL-EnJW0qNhb.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094462242498736130/pl/gHwTmsqznnU-1tdk.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2094462273016492196",
+        "created_at": "2026-09-01T03:18:08.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T04:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094625830362329370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1832847225346809856",
+              "start": 0,
+              "username": "MoQiuyao201314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094625830362329370",
+        "in_reply_to_user_id": "1832847225346809856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094462273016492196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoQiuyao201314 习幺幺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094462242498736130"
+          ]
+        },
+        "author_id": "1832847225346809856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2094462273016492196",
+        "created_at": "2026-08-31T16:28:13.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T17:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094462273016492196"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pLys0JzB3Q",
+              "end": 105,
+              "expanded_url": "https://x.com/MoQiuyao201314/status/2094462273016492196/video/1",
+              "media_key": "13_2094462242498736130",
+              "start": 82,
+              "url": "https://t.co/pLys0JzB3Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094462273016492196",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2094462242498736130"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 196,
+          "impression_count": 74741,
+          "like_count": 635,
+          "quote_count": 11,
+          "reply_count": 46,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "不知道是高级黑还是低级红，没想到印度欢迎习近平的方式那么独特。学校2000名学生头戴习面具，并排成习的名字。估计习近平到访，看到下面那么多“自己”，心里都慎得慌。 https://t.co/pLys0JzB3Q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n求互fo 我会看成分回fo！大部分都会回的喵\n我有在努力成为一个好孩子 但到底什么是好孩子呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2094625830362329370",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 372,
+          "like_count": 6121,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 610
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-08T18:23:50.000Z",
+        "description": "为自由、民主而努力，我从不停歇。欢迎点赞转发，让我的声音能传播得更远。欢迎广大网友爆料，邮箱qiuyaomo201314@gmail.com",
+        "id": "1832847225346809856",
+        "is_identity_verified": false,
+        "location": "Los Angeles, CA",
+        "most_recent_tweet_id": "2094623723269828988",
+        "name": "Qiuyao Mo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1832847225346809856/1726123864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833319040439476224/WHb-Fe77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31242,
+          "following_count": 44,
+          "like_count": 48,
+          "listed_count": 90,
+          "media_count": 3188,
+          "tweet_count": 11436
+        },
+        "url": "",
+        "username": "MoQiuyao201314",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

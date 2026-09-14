@@ -1,0 +1,434 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093223992995758080",
+        "3_2093224008309239809",
+        "3_2093224020078440448"
+      ],
+      "media_source_tweet_id": [
+        "2093224030463463792",
+        "2093224030463463792",
+        "2093224030463463792"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2093283613978616076",
+    "created_at": "2026-08-28T10:24:39.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T11:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093283613978616076"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2092788164234821632",
+          "start": 3,
+          "username": "yuki11300026"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UcRDfd0JQ5",
+          "end": 139,
+          "expanded_url": "https://x.com/yuki11300026/status/2093224030463463792/photo/1",
+          "media_key": "3_2093223992995758080",
+          "start": 116,
+          "url": "https://t.co/UcRDfd0JQ5"
+        },
+        {
+          "display_url": "pic.x.com/UcRDfd0JQ5",
+          "end": 139,
+          "expanded_url": "https://x.com/yuki11300026/status/2093224030463463792/photo/1",
+          "media_key": "3_2093224008309239809",
+          "start": 116,
+          "url": "https://t.co/UcRDfd0JQ5"
+        },
+        {
+          "display_url": "pic.x.com/UcRDfd0JQ5",
+          "end": 139,
+          "expanded_url": "https://x.com/yuki11300026/status/2093224030463463792/photo/1",
+          "media_key": "3_2093224020078440448",
+          "start": 116,
+          "url": "https://t.co/UcRDfd0JQ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093283613978616076",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093223992995758080"
+      },
+      {
+        "media_key": "3_2093224008309239809"
+      },
+      {
+        "media_key": "3_2093224020078440448"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093224030463463792",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yuki11300026: 你家岐哥也是个老油条咯提前锁推预言封号\n还是没逃过马斯克300fo定律的追杀\n五号机——307人封号成就也是再次达成\n你好我是岐哥。6。之梦想马斯克赢了\n互fo，寻回👿👿梦想超过初号机400fo https://t.co/UcRDfd0JQ5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2037,
+        "media_key": "3_2093223992995758080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQygIZnWQAAsY40.jpg",
+        "width": 908
+      },
+      {
+        "height": 712,
+        "media_key": "3_2093224008309239809",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQygJSqXcAEiDtV.jpg",
+        "width": 1072
+      },
+      {
+        "height": 862,
+        "media_key": "3_2093224020078440448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQygJ-gXMAAzDds.jpg",
+        "width": 1063
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093223992995758080",
+            "3_2093224008309239809",
+            "3_2093224020078440448"
+          ],
+          "media_source_tweet_id": [
+            "2093224030463463792",
+            "2093224030463463792",
+            "2093224030463463792"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093283613978616076",
+        "created_at": "2026-08-28T10:24:39.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T11:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093283613978616076"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2092788164234821632",
+              "start": 3,
+              "username": "yuki11300026"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UcRDfd0JQ5",
+              "end": 139,
+              "expanded_url": "https://x.com/yuki11300026/status/2093224030463463792/photo/1",
+              "media_key": "3_2093223992995758080",
+              "start": 116,
+              "url": "https://t.co/UcRDfd0JQ5"
+            },
+            {
+              "display_url": "pic.x.com/UcRDfd0JQ5",
+              "end": 139,
+              "expanded_url": "https://x.com/yuki11300026/status/2093224030463463792/photo/1",
+              "media_key": "3_2093224008309239809",
+              "start": 116,
+              "url": "https://t.co/UcRDfd0JQ5"
+            },
+            {
+              "display_url": "pic.x.com/UcRDfd0JQ5",
+              "end": 139,
+              "expanded_url": "https://x.com/yuki11300026/status/2093224030463463792/photo/1",
+              "media_key": "3_2093224020078440448",
+              "start": 116,
+              "url": "https://t.co/UcRDfd0JQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093283613978616076",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093223992995758080"
+          },
+          {
+            "media_key": "3_2093224008309239809"
+          },
+          {
+            "media_key": "3_2093224020078440448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093224030463463792",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yuki11300026: 你家岐哥也是个老油条咯提前锁推预言封号\n还是没逃过马斯克300fo定律的追杀\n五号机——307人封号成就也是再次达成\n你好我是岐哥。6。之梦想马斯克赢了\n互fo，寻回👿👿梦想超过初号机400fo https://t.co/UcRDfd0JQ5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093223992995758080",
+            "3_2093224008309239809",
+            "3_2093224020078440448"
+          ]
+        },
+        "author_id": "2092788164234821632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093224030463463792",
+        "created_at": "2026-08-28T06:27:53.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T07:27:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093224030463463792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UcRDfd0JQ5",
+              "end": 121,
+              "expanded_url": "https://x.com/yuki11300026/status/2093224030463463792/photo/1",
+              "media_key": "3_2093223992995758080",
+              "start": 98,
+              "url": "https://t.co/UcRDfd0JQ5"
+            },
+            {
+              "display_url": "pic.x.com/UcRDfd0JQ5",
+              "end": 121,
+              "expanded_url": "https://x.com/yuki11300026/status/2093224030463463792/photo/1",
+              "media_key": "3_2093224008309239809",
+              "start": 98,
+              "url": "https://t.co/UcRDfd0JQ5"
+            },
+            {
+              "display_url": "pic.x.com/UcRDfd0JQ5",
+              "end": 121,
+              "expanded_url": "https://x.com/yuki11300026/status/2093224030463463792/photo/1",
+              "media_key": "3_2093224020078440448",
+              "start": 98,
+              "url": "https://t.co/UcRDfd0JQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093224030463463792",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093223992995758080"
+          },
+          {
+            "media_key": "3_2093224008309239809"
+          },
+          {
+            "media_key": "3_2093224020078440448"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 253,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "你家岐哥也是个老油条咯提前锁推预言封号\n还是没逃过马斯克300fo定律的追杀\n五号机——307人封号成就也是再次达成\n你好我是岐哥。6。之梦想马斯克赢了\n互fo，寻回👿👿梦想超过初号机400fo https://t.co/UcRDfd0JQ5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n求互fo 我会看成分回fo！大部分都会回的喵\n我有在努力成为一个好孩子 但到底什么是好孩子呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2093283613978616076",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 349,
+          "like_count": 5071,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 543
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T01:37:48.000Z",
+        "description": "早已逝去之人 早已宽恕之罪 姐姐@Cecey33\n💊報告🩸等一些負面會些轉發到（待定）\n互fo微查成分可私信fo¹/基本無雷²/不fo詭異號²\n岐的成分複雜做好被雷準備/秩序中立¹/🫳🏻摸摸路人²\n共號/路評/互動²/解離²/抑制²/💊²/🩸²/🐱²/🎵²/☺️²\n\n对不起，我可能有时候很坏-岐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "Cecey33"
+              }
+            ]
+          }
+        },
+        "id": "2092788164234821632",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093273289984806951",
+        "name": "歧哥。6。马畜笑了。#心宿二",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092788164234821632/1787900139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092859810945634304/6BBETLHz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 46,
+          "like_count": 21,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "yuki11300026",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

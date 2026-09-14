@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2096398965919080902",
+    "created_at": "2026-09-06T00:45:11.000Z",
+    "display_text_range": [
+      10,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T01:45:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096399275840426255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1757769890512150528",
+          "start": 0,
+          "username": "damsnoil"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096399275840426255",
+    "in_reply_to_user_id": "1757769890512150528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096398965919080902",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@damsnoil 这是什么？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2096398965919080902",
+        "created_at": "2026-09-06T00:45:11.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T01:45:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096399275840426255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1757769890512150528",
+              "start": 0,
+              "username": "damsnoil"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096399275840426255",
+        "in_reply_to_user_id": "1757769890512150528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096398965919080902",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@damsnoil 这是什么？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757769890512150528",
+        "conversation_id": "2096398965919080902",
+        "created_at": "2026-09-06T00:43:57.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T01:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096398965919080902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yumeoibito76/s…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/yumeoibito76/status/2096237821992616284",
+              "start": 19,
+              "url": "https://t.co/trsXQI4HEI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096398965919080902",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096237821992616284",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点像那种说自己是enfj什么大剑的 https://t.co/trsXQI4HEI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n求互fo 我会看成分回fo！大部分都会回的喵\n我有在努力成为一个好孩子 但到底什么是好孩子呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2096399275840426255",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 422,
+          "like_count": 7686,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 661
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-14T14:13:01.000Z",
+        "description": "寻找母星进行时🛸🛸🛸\naroace/she/they\ncasually venting",
+        "id": "1757769890512150528",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096398965919080902",
+        "name": "D👽3m0n🦭",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757769890512150528/1780439146",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095286625702150144/vz6T0wWm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 72,
+          "like_count": 1803,
+          "listed_count": 2,
+          "media_count": 58,
+          "tweet_count": 1246
+        },
+        "url": "",
+        "username": "damsnoil",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

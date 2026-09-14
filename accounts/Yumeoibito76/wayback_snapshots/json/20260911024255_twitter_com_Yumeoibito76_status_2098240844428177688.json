@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2098236716641620474",
+    "created_at": "2026-09-11T02:42:55.000Z",
+    "display_text_range": [
+      9,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T03:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098240844428177688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2032861173780267008",
+          "start": 0,
+          "username": "Cang390"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098240844428177688",
+    "in_reply_to_user_id": "2032861173780267008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098240215097987201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cang390 小鸡鸡死掉了我没能吃到🍗😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2098236716641620474",
+        "created_at": "2026-09-11T02:42:55.000Z",
+        "display_text_range": [
+          9,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T03:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098240844428177688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2032861173780267008",
+              "start": 0,
+              "username": "Cang390"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098240844428177688",
+        "in_reply_to_user_id": "2032861173780267008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098240215097987201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cang390 小鸡鸡死掉了我没能吃到🍗😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032861173780267008",
+        "conversation_id": "2098236716641620474",
+        "created_at": "2026-09-11T02:40:25.000Z",
+        "display_text_range": [
+          14,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T03:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098240215097987201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098240215097987201",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098236716641620474",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 可爱捏，但是还是喜欢成熟的大鸡鸡，味道更好捏🥵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\nQQ群1124326151随便进\n微信🚪纯绿30只收身心男的 ，女孩子不用，上次我住院时帮过我的不用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2098240844428177688",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 457,
+          "like_count": 10157,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 769
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-14T16:47:40.000Z",
+        "description": "你好！\n06（白骑士？）本质顺男，友跨，（容易灵光一闪，发出抽象言论，请多包涵)\n平等视奸每个人\n不建议靠太近，身上带刺哦🦔\n简介不全，会慢慢补",
+        "id": "2032861173780267008",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098240215097987201",
+        "name": "沧弦",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032861173780267008/1789008560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092650767471853568/M8rW57Qx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 115,
+          "like_count": 871,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 108
+        },
+        "url": "",
+        "username": "Cang390",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

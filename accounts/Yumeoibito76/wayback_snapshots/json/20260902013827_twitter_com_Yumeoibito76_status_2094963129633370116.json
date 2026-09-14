@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2094806582110400876",
+    "created_at": "2026-09-02T01:38:27.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T02:38:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094963129633370116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1924119398497026050",
+          "start": 0,
+          "username": "HhcvhW18221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094963129633370116",
+    "in_reply_to_user_id": "1924119398497026050",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094806582110400876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HhcvhW18221 蹲喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2094806582110400876",
+        "created_at": "2026-09-02T01:38:27.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T02:38:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094963129633370116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1924119398497026050",
+              "start": 0,
+              "username": "HhcvhW18221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094963129633370116",
+        "in_reply_to_user_id": "1924119398497026050",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094806582110400876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HhcvhW18221 蹲喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1924119398497026050",
+        "conversation_id": "2094806582110400876",
+        "created_at": "2026-09-01T15:16:23.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094806582110400876"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094806582110400876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 361,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "快1000fo了搞一个抽奖\n点赞评论关注转即可参与\n30¥*1\n5.2¥*2\n别嫌弃🥹\n小程序随机数\n9.6 晚上11点开奖"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n求互fo 我会看成分回fo！大部分都会回的喵\n我有在努力成为一个好孩子 但到底什么是好孩子呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2094963129633370116",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412,
+          "following_count": 399,
+          "like_count": 6482,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 622
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-18T15:06:41.000Z",
+        "description": "出厂日期09年9.4号｜无证含糖｜hrt2026.5.19｜碎碎念@kelidexi  TG号 ;https://t.co/TXNcFPNWlV",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "kelidexi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/HhcvhW",
+                "end": 72,
+                "expanded_url": "http://t.me/HhcvhW",
+                "start": 49,
+                "url": "https://t.co/TXNcFPNWlV"
+              }
+            ]
+          }
+        },
+        "id": "1924119398497026050",
+        "is_identity_verified": false,
+        "location": "纳塔 烟迷主",
+        "most_recent_tweet_id": "2094935735912767932",
+        "name": "茜 🏳️‍⚧️🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1924119398497026050/1784622428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040818645069189120/SUfTwSbM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 921,
+          "following_count": 542,
+          "like_count": 1092,
+          "listed_count": 3,
+          "media_count": 91,
+          "tweet_count": 1505
+        },
+        "url": "",
+        "username": "HhcvhW18221",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

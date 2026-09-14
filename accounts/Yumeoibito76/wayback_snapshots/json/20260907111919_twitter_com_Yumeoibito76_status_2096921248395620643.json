@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2096921248395620643",
+    "created_at": "2026-09-07T11:19:19.000Z",
+    "display_text_range": [
+      0,
+      109
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T12:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096921248395620643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1987805389904396288",
+          "start": 3,
+          "username": "HaruYukii0421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096921248395620643",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096561770538336440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HaruYukii0421: 你好，我是刚上推的新人。我看你们都在讨论“od”，请问“od”是什么？有哪些人在“od”？他们又是为什么而“od”？还有我看到有很多人会拍摄一些药品的包装盒，请问那些药品是哪来的？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2096921248395620643",
+        "created_at": "2026-09-07T11:19:19.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T12:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096921248395620643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1987805389904396288",
+              "start": 3,
+              "username": "HaruYukii0421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096921248395620643",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096561770538336440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HaruYukii0421: 你好，我是刚上推的新人。我看你们都在讨论“od”，请问“od”是什么？有哪些人在“od”？他们又是为什么而“od”？还有我看到有很多人会拍摄一些药品的包装盒，请问那些药品是哪来的？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987805389904396288",
+        "conversation_id": "2096561770538336440",
+        "created_at": "2026-09-06T11:30:52.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T12:30:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096561770538336440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/inline_int/sta…",
+              "end": 114,
+              "expanded_url": "https://twitter.com/inline_int/status/2096505899024355779",
+              "start": 91,
+              "url": "https://t.co/xhWspmrAMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096561770538336440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1374,
+          "like_count": 11,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096505899024355779",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你好，我是刚上推的新人。我看你们都在讨论“od”，请问“od”是什么？有哪些人在“od”？他们又是为什么而“od”？还有我看到有很多人会拍摄一些药品的包装盒，请问那些药品是哪来的？ https://t.co/xhWspmrAMk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n求互fo 我会看成分回fo 大部分都会回的\n我不想当温良逼了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2096921248395620643",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 436,
+          "like_count": 8358,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 702
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-10T08:52:10.000Z",
+        "description": "=迟羊\n🔪💊❤️\n查成分回fo喵\n最最爱的小狗@zhangyuKawaii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 23,
+                "username": "zhangyuKawaii"
+              }
+            ]
+          }
+        },
+        "id": "1987805389904396288",
+        "is_identity_verified": false,
+        "location": "请输入文本",
+        "most_recent_tweet_id": "2096859656153116838",
+        "name": "迟羊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987805389904396288/1785696784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073347565870059520/NVJw553W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 545,
+          "like_count": 10136,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 874
+        },
+        "url": "",
+        "username": "HaruYukii0421",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

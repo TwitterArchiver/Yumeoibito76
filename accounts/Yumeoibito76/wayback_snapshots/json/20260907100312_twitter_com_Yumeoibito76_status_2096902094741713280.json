@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2096902094741713280",
+    "created_at": "2026-09-07T10:03:12.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T11:03:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096902094741713280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2096517972731043840",
+          "start": 3,
+          "username": "Mercydrugs1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096902094741713280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096803351140958479",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mercydrugs1: 求大家来找我买点东西吧，我家真的要活不下去了。我爸已经把我妈拉黑了，我一个人只能靠卖药勉强维持这个家庭。我妈没学历，找工作找的也都是月薪不过三千的，拜托大家了，就当是可怜可怜我了，实在感谢。\n\n我们家真的要撑不起来了，如果有好心人也请给我资助一…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096803342198747136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlXh8ebsAAKyyG.jpg",
+        "width": 957
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2096803342194499584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlXh8da4AAwG7v.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2096902094741713280",
+        "created_at": "2026-09-07T10:03:12.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:03:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096902094741713280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2096517972731043840",
+              "start": 3,
+              "username": "Mercydrugs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096902094741713280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096803351140958479",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mercydrugs1: 求大家来找我买点东西吧，我家真的要活不下去了。我爸已经把我妈拉黑了，我一个人只能靠卖药勉强维持这个家庭。我妈没学历，找工作找的也都是月薪不过三千的，拜托大家了，就当是可怜可怜我了，实在感谢。\n\n我们家真的要撑不起来了，如果有好心人也请给我资助一…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096803342198747136",
+            "3_2096803342194499584"
+          ]
+        },
+        "author_id": "2096517972731043840",
+        "conversation_id": "2096803351140958479",
+        "created_at": "2026-09-07T03:30:50.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T04:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096803351140958479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z4qmeLlzYu",
+              "end": 154,
+              "expanded_url": "https://x.com/Mercydrugs1/status/2096803351140958479/photo/1",
+              "media_key": "3_2096803342198747136",
+              "start": 131,
+              "url": "https://t.co/z4qmeLlzYu"
+            },
+            {
+              "display_url": "pic.x.com/z4qmeLlzYu",
+              "end": 154,
+              "expanded_url": "https://x.com/Mercydrugs1/status/2096803351140958479/photo/1",
+              "media_key": "3_2096803342194499584",
+              "start": 131,
+              "url": "https://t.co/z4qmeLlzYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096803351140958479",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096803342198747136"
+          },
+          {
+            "media_key": "3_2096803342194499584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 886,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "求大家来找我买点东西吧，我家真的要活不下去了。我爸已经把我妈拉黑了，我一个人只能靠卖药勉强维持这个家庭。我妈没学历，找工作找的也都是月薪不过三千的，拜托大家了，就当是可怜可怜我了，实在感谢。\n\n我们家真的要撑不起来了，如果有好心人也请给我资助一点吧，万分感谢。 https://t.co/z4qmeLlzYu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n求互fo 我会看成分回fo 大部分都会回的\n我不想当温良逼了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2096902094741713280",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 435,
+          "like_count": 8210,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 694
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T08:37:37.000Z",
+        "description": "May Mercy find you.\n\nBD/BPD/DPDR.｜💊🔪🩸\n出PR及兴奋剂、各种致幻剂。",
+        "id": "2096517972731043840",
+        "is_identity_verified": false,
+        "location": "💖@liyfn130024",
+        "most_recent_tweet_id": "2096866963540865042",
+        "name": "Mercy",
+        "pinned_tweet_id": "2096803351140958479",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096517972731043840/1788683991",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096518421286682624/bG2RCOs7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 150,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 51
+        },
+        "url": "",
+        "username": "Mercydrugs1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2096433100784103712",
+    "created_at": "2026-09-06T09:19:20.000Z",
+    "display_text_range": [
+      25,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T10:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096528665622229085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1624269394762428417",
+          "start": 0,
+          "username": "ShuwenD2009"
+        },
+        {
+          "end": 24,
+          "id": "1789586690400800769",
+          "start": 13,
+          "username": "ameear8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096528665622229085",
+    "in_reply_to_user_id": "1624269394762428417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096497505844576754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShuwenD2009 @ameear8964 开原盛世早就过去了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2096433100784103712",
+        "created_at": "2026-09-06T09:19:20.000Z",
+        "display_text_range": [
+          25,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T10:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096528665622229085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1624269394762428417",
+              "start": 0,
+              "username": "ShuwenD2009"
+            },
+            {
+              "end": 24,
+              "id": "1789586690400800769",
+              "start": 13,
+              "username": "ameear8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096528665622229085",
+        "in_reply_to_user_id": "1624269394762428417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096497505844576754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShuwenD2009 @ameear8964 开原盛世早就过去了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1624269394762428417",
+        "conversation_id": "2096433100784103712",
+        "created_at": "2026-09-06T07:15:31.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096497505844576754"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 23,
+              "start": 12,
+              "tag": "原神已经成为一个政权"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1789586690400800769",
+              "start": 0,
+              "username": "ameear8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096497505844576754",
+        "in_reply_to_user_id": "1789586690400800769",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 723,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096433100784103712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ameear8964 #原神已经成为一个政权"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n求互fo 我会看成分回fo！大部分都会回的喵\n我有在努力成为一个好孩子 但到底什么是好孩子呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2096528665622229085",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 429,
+          "like_count": 7824,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 674
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-11T04:49:54.000Z",
+        "description": "那时我懂得了：我们尽管是再合适不过的旅伴，但归根结底仍不过是描绘各自轨迹的两个孤独的金属块儿。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://www.114514.com",
+                "start": 0,
+                "url": "https://t.co/K6S95FYcxz"
+              }
+            ]
+          }
+        },
+        "id": "1624269394762428417",
+        "is_identity_verified": false,
+        "location": "Tallinn,Eesti",
+        "most_recent_tweet_id": "2096497505844576754",
+        "name": "ShuwenD",
+        "pinned_tweet_id": "2092078006055698920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1624269394762428417/1772313713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048998554908393472/SnsI09zv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 484,
+          "like_count": 12742,
+          "listed_count": 1,
+          "media_count": 499,
+          "tweet_count": 6901
+        },
+        "url": "https://t.co/K6S95FYcxz",
+        "username": "ShuwenD2009",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-12T09:21:43.000Z",
+        "description": "EARHART AMELIA M. 896489648USN BN CHRISTIAN, Wingmate : @inoueerii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "inoueerii"
+              }
+            ]
+          }
+        },
+        "id": "1789586690400800769",
+        "is_identity_verified": false,
+        "location": "미해군항공대 제8964항모항공단",
+        "most_recent_tweet_id": "2096462179650372037",
+        "name": "아멜리아 에어하트",
+        "pinned_tweet_id": "2091518169626431508",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1789586690400800769/1733025470",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862830820064432129/g7Hpsfzx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3763,
+          "following_count": 1466,
+          "like_count": 37404,
+          "listed_count": 15,
+          "media_count": 1117,
+          "tweet_count": 11057
+        },
+        "url": "",
+        "username": "ameear8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

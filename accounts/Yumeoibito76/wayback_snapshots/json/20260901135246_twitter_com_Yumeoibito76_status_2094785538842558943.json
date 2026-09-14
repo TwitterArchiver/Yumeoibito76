@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094785372626546688",
+        "3_2094785438552608768",
+        "3_2094785491430252544"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094785538842558943",
+    "created_at": "2026-09-01T13:52:46.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T14:52:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094785538842558943"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LSLURKMYkv",
+          "end": 41,
+          "expanded_url": "https://x.com/Yumeoibito76/status/2094785538842558943/photo/1",
+          "media_key": "3_2094785372626546688",
+          "start": 18,
+          "url": "https://t.co/LSLURKMYkv"
+        },
+        {
+          "display_url": "pic.x.com/LSLURKMYkv",
+          "end": 41,
+          "expanded_url": "https://x.com/Yumeoibito76/status/2094785538842558943/photo/1",
+          "media_key": "3_2094785438552608768",
+          "start": 18,
+          "url": "https://t.co/LSLURKMYkv"
+        },
+        {
+          "display_url": "pic.x.com/LSLURKMYkv",
+          "end": 41,
+          "expanded_url": "https://x.com/Yumeoibito76/status/2094785538842558943/photo/1",
+          "media_key": "3_2094785491430252544",
+          "start": 18,
+          "url": "https://t.co/LSLURKMYkv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094785538842558943",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094785372626546688"
+      },
+      {
+        "media_key": "3_2094785438552608768"
+      },
+      {
+        "media_key": "3_2094785491430252544"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "就是呢，我真的没绷住啊，福从祸中来 https://t.co/LSLURKMYkv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_2094785372626546688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRIsMqAW8AAnCsD.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2094785438552608768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRIsQfmW0AA4-kh.jpg",
+        "width": 2412
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2094785491430252544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRIsTklXoAARBBC.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094785372626546688",
+            "3_2094785438552608768",
+            "3_2094785491430252544"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094785538842558943",
+        "created_at": "2026-09-01T13:52:46.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T14:52:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094785538842558943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LSLURKMYkv",
+              "end": 41,
+              "expanded_url": "https://x.com/Yumeoibito76/status/2094785538842558943/photo/1",
+              "media_key": "3_2094785372626546688",
+              "start": 18,
+              "url": "https://t.co/LSLURKMYkv"
+            },
+            {
+              "display_url": "pic.x.com/LSLURKMYkv",
+              "end": 41,
+              "expanded_url": "https://x.com/Yumeoibito76/status/2094785538842558943/photo/1",
+              "media_key": "3_2094785438552608768",
+              "start": 18,
+              "url": "https://t.co/LSLURKMYkv"
+            },
+            {
+              "display_url": "pic.x.com/LSLURKMYkv",
+              "end": 41,
+              "expanded_url": "https://x.com/Yumeoibito76/status/2094785538842558943/photo/1",
+              "media_key": "3_2094785491430252544",
+              "start": 18,
+              "url": "https://t.co/LSLURKMYkv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094785538842558943",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094785372626546688"
+          },
+          {
+            "media_key": "3_2094785438552608768"
+          },
+          {
+            "media_key": "3_2094785491430252544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "就是呢，我真的没绷住啊，福从祸中来 https://t.co/LSLURKMYkv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n求互fo 我会看成分回fo！大部分都会回的喵\n我有在努力成为一个好孩子 但到底什么是好孩子呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2094785538842558943",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 409,
+          "following_count": 410,
+          "like_count": 6470,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 618
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

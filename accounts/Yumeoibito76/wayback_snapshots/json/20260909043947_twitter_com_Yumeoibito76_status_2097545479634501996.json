@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2097534615594410282",
+    "created_at": "2026-09-09T04:39:47.000Z",
+    "display_text_range": [
+      14,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T05:39:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097545479634501996"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1942111360420290561",
+          "start": 0,
+          "username": "credits18118"
+        }
+      ],
+      "urls": [
+        {
+          "description": "The site for individual differences research.",
+          "display_url": "idrlabs.com",
+          "end": 37,
+          "expanded_url": "https://idrlabs.com",
+          "images": [
+            {
+              "height": 315,
+              "url": "https://pbs.twimg.com/news_img/2095822506753994752/nDRPW72n?format=jpg&name=orig",
+              "width": 600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2095822506753994752/nDRPW72n?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 14,
+          "status": 200,
+          "title": "IDRlabs",
+          "unwound_url": "https://www.idrlabs.com/",
+          "url": "https://t.co/yFQL1TD1qB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097545479634501996",
+    "in_reply_to_user_id": "1942111360420290561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097544275651383383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@credits18118 https://t.co/yFQL1TD1qB\n好像是这个"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2097534615594410282",
+        "created_at": "2026-09-09T04:39:47.000Z",
+        "display_text_range": [
+          14,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T05:39:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097545479634501996"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1942111360420290561",
+              "start": 0,
+              "username": "credits18118"
+            }
+          ],
+          "urls": [
+            {
+              "description": "The site for individual differences research.",
+              "display_url": "idrlabs.com",
+              "end": 37,
+              "expanded_url": "https://idrlabs.com",
+              "images": [
+                {
+                  "height": 315,
+                  "url": "https://pbs.twimg.com/news_img/2095822506753994752/nDRPW72n?format=jpg&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2095822506753994752/nDRPW72n?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 14,
+              "status": 200,
+              "title": "IDRlabs",
+              "unwound_url": "https://www.idrlabs.com/",
+              "url": "https://t.co/yFQL1TD1qB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097545479634501996",
+        "in_reply_to_user_id": "1942111360420290561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097544275651383383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@credits18118 https://t.co/yFQL1TD1qB\n好像是这个"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942111360420290561",
+        "conversation_id": "2097534615594410282",
+        "created_at": "2026-09-09T04:35:00.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T05:35:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097544275651383383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097544275651383383",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097534615594410282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 求测试链接喵🥺💕"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n求互fo 我会看成分回fo 大部分都会回的\n我不想当温良逼了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2097545479634501996",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 447,
+          "like_count": 9139,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 734
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T06:40:56.000Z",
+        "description": "10年高中在读丨INFP-T丨重抑中焦+双相二型治疗中丨不🚬/🍺/🔪/od/键政丨音游重度依赖丨指派性别男，性别认同探索中(或许是非二元偏女?丨萨福式取向丨人称代词所有都可丨可互fo看成分回关丨很内向但渴望能找到朋友 请私信找我聊天！",
+        "id": "1942111360420290561",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097544275651383383",
+        "name": "Phony",
+        "pinned_tweet_id": "2097107549623570562",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091115941690318848/bHlDpJb9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 526,
+          "like_count": 2963,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 764
+        },
+        "url": "",
+        "username": "credits18118",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,514 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097474384852299776"
+      ],
+      "media_source_tweet_id": [
+        "2097474478116909567"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1326539256244838401",
+          "name": "Rabbits"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1326539256244838401",
+          "name": "Rabbits"
+        }
+      }
+    ],
+    "conversation_id": "2097546358467010576",
+    "created_at": "2026-09-09T04:43:17.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T05:43:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097546358467010576"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1883176732083257345",
+          "start": 3,
+          "username": "moca_usa_mofu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6f8cmucW16",
+          "end": 69,
+          "expanded_url": "https://x.com/moca_usa_mofu/status/2097474478116909567/video/1",
+          "media_key": "13_2097474384852299776",
+          "start": 46,
+          "url": "https://t.co/6f8cmucW16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097546358467010576",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2097474384852299776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 191
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097474478116909567",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moca_usa_mofu: 飼い主が働き始める時間に、寝床の最終調整に入るうさぎ https://t.co/6f8cmucW16"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 9995,
+        "height": 2880,
+        "media_key": "13_2097474384852299776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097474384852299776/img/53UHOrnKQS-C6XHj.jpg",
+        "public_metrics": {
+          "view_count": 4698
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097474384852299776/vid/avc1/1080x1440/YGG0xfNc12-kNDeG.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097474384852299776/vid/avc1/2160x2880/6bF3z09TRirb-s-m.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097474384852299776/pl/WqC8wgu_bN6CVd2t.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097474384852299776/vid/avc1/320x426/aoIEAG5mQbvjvFx1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097474384852299776/vid/avc1/480x640/OCLYIBXIZozS-fJo.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097474384852299776/vid/avc1/720x960/zbU4FieP3lobOhch.mp4"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097474384852299776"
+          ],
+          "media_source_tweet_id": [
+            "2097474478116909567"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1326539256244838401",
+              "name": "Rabbits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1326539256244838401",
+              "name": "Rabbits"
+            }
+          }
+        ],
+        "conversation_id": "2097546358467010576",
+        "created_at": "2026-09-09T04:43:17.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T05:43:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097546358467010576"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1883176732083257345",
+              "start": 3,
+              "username": "moca_usa_mofu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6f8cmucW16",
+              "end": 69,
+              "expanded_url": "https://x.com/moca_usa_mofu/status/2097474478116909567/video/1",
+              "media_key": "13_2097474384852299776",
+              "start": 46,
+              "url": "https://t.co/6f8cmucW16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097546358467010576",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2097474384852299776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 191
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097474478116909567",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moca_usa_mofu: 飼い主が働き始める時間に、寝床の最終調整に入るうさぎ https://t.co/6f8cmucW16"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097474384852299776"
+          ]
+        },
+        "author_id": "1883176732083257345",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1326539256244838401",
+              "name": "Rabbits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1326539256244838401",
+              "name": "Rabbits"
+            }
+          }
+        ],
+        "conversation_id": "2097474478116909567",
+        "created_at": "2026-09-08T23:57:39.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T00:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097474478116909567"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6f8cmucW16",
+              "end": 50,
+              "expanded_url": "https://x.com/moca_usa_mofu/status/2097474478116909567/video/1",
+              "media_key": "13_2097474384852299776",
+              "start": 27,
+              "url": "https://t.co/6f8cmucW16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097474478116909567",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2097474384852299776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 14876,
+          "like_count": 1218,
+          "quote_count": 5,
+          "reply_count": 6,
+          "retweet_count": 191
+        },
+        "reply_settings": "everyone",
+        "text": "飼い主が働き始める時間に、寝床の最終調整に入るうさぎ https://t.co/6f8cmucW16"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n求互fo 我会看成分回fo 大部分都会回的\n我不想当温良逼了",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2097546358467010576",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 447,
+          "like_count": 9153,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 735
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T15:35:09.000Z",
+        "description": "しんどい日は、うさぎを見る\nそれだけでいい🐰\n\nもか（♂）｜ネザーランド・ドワーフ\n2023.5.5生まれ\n世界中にもふもふの癒しを届けたい🌏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/usaginomoca",
+                "end": 23,
+                "expanded_url": "https://lit.link/usaginomoca",
+                "start": 0,
+                "url": "https://t.co/CuqR1nY12t"
+              }
+            ]
+          }
+        },
+        "id": "1883176732083257345",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2097544292965462450",
+        "name": "うさぎのもか",
+        "pinned_tweet_id": "2088869961523667156",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883176732083257345/1756512492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076428966890811392/O-hz2z7a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17626,
+          "following_count": 2640,
+          "like_count": 26487,
+          "listed_count": 128,
+          "media_count": 2785,
+          "tweet_count": 16810
+        },
+        "url": "https://t.co/CuqR1nY12t",
+        "username": "moca_usa_mofu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094058925293445120"
+      ],
+      "media_source_tweet_id": [
+        "2094058938602074172"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094599676875899228",
+    "created_at": "2026-09-01T01:34:13.000Z",
+    "display_text_range": [
+      0,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T02:34:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094599676875899228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035651502555967488",
+          "start": 3,
+          "username": "AkagiAme1921"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fYQ6vbR9oN",
+          "end": 68,
+          "expanded_url": "https://x.com/AkagiAme1921/status/2094058938602074172/photo/1",
+          "media_key": "3_2094058925293445120",
+          "start": 45,
+          "url": "https://t.co/fYQ6vbR9oN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094599676875899228",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094058925293445120"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094058938602074172",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AkagiAme1921: 有天使帮我转一下吗我想互of谢谢，无人在意我偷偷删掉 https://t.co/fYQ6vbR9oN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1154,
+        "media_key": "3_2094058925293445120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ-Xf2zaIAAdtIF.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094058925293445120"
+          ],
+          "media_source_tweet_id": [
+            "2094058938602074172"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094599676875899228",
+        "created_at": "2026-09-01T01:34:13.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T02:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094599676875899228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035651502555967488",
+              "start": 3,
+              "username": "AkagiAme1921"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYQ6vbR9oN",
+              "end": 68,
+              "expanded_url": "https://x.com/AkagiAme1921/status/2094058938602074172/photo/1",
+              "media_key": "3_2094058925293445120",
+              "start": 45,
+              "url": "https://t.co/fYQ6vbR9oN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094599676875899228",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094058925293445120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094058938602074172",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AkagiAme1921: 有天使帮我转一下吗我想互of谢谢，无人在意我偷偷删掉 https://t.co/fYQ6vbR9oN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094058925293445120"
+          ]
+        },
+        "author_id": "2035651502555967488",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094058938602074172",
+        "created_at": "2026-08-30T13:45:31.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:45:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094058938602074172"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fYQ6vbR9oN",
+              "end": 50,
+              "expanded_url": "https://x.com/AkagiAme1921/status/2094058938602074172/photo/1",
+              "media_key": "3_2094058925293445120",
+              "start": 27,
+              "url": "https://t.co/fYQ6vbR9oN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094058938602074172",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094058925293445120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 280,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "有天使帮我转一下吗我想互of谢谢，无人在意我偷偷删掉 https://t.co/fYQ6vbR9oN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n求互fo 我会看成分回fo！大部分都会回的喵\n我有在努力成为一个好孩子 但到底什么是好孩子呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2094599676875899228",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 372,
+          "like_count": 6055,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 606
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-22T09:36:52.000Z",
+        "description": "重抑重焦｜生理女心理女｜友跨 |复学中\n音游吃｜二游｜同类互of会回求求你们跟我玩吧5201314",
+        "id": "2035651502555967488",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094403240217735388",
+        "name": "一般男人",
+        "pinned_tweet_id": "2094058938602074172",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035651502555967488/1788188269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087164983226630144/tFZLExHo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 49,
+          "like_count": 116,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 86
+        },
+        "url": "",
+        "username": "AkagiAme1921",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

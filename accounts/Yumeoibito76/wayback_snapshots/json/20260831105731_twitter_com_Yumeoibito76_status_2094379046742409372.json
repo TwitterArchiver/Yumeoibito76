@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094378981915262976",
+        "3_2094379001972506624",
+        "3_2094379023464091648",
+        "3_2094379039884804096"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "conversation_id": "2094379046742409372",
+    "created_at": "2026-08-31T10:57:31.000Z",
+    "display_text_range": [
+      0,
+      120
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T11:57:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094379046742409372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/k7RPAHnJhv",
+          "end": 144,
+          "expanded_url": "https://x.com/Yumeoibito76/status/2094379046742409372/photo/1",
+          "media_key": "3_2094378981915262976",
+          "start": 121,
+          "url": "https://t.co/k7RPAHnJhv"
+        },
+        {
+          "display_url": "pic.x.com/k7RPAHnJhv",
+          "end": 144,
+          "expanded_url": "https://x.com/Yumeoibito76/status/2094379046742409372/photo/1",
+          "media_key": "3_2094379001972506624",
+          "start": 121,
+          "url": "https://t.co/k7RPAHnJhv"
+        },
+        {
+          "display_url": "pic.x.com/k7RPAHnJhv",
+          "end": 144,
+          "expanded_url": "https://x.com/Yumeoibito76/status/2094379046742409372/photo/1",
+          "media_key": "3_2094379023464091648",
+          "start": 121,
+          "url": "https://t.co/k7RPAHnJhv"
+        },
+        {
+          "display_url": "pic.x.com/k7RPAHnJhv",
+          "end": 144,
+          "expanded_url": "https://x.com/Yumeoibito76/status/2094379046742409372/photo/1",
+          "media_key": "3_2094379039884804096",
+          "start": 121,
+          "url": "https://t.co/k7RPAHnJhv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094379046742409372",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094378981915262976"
+      },
+      {
+        "media_key": "3_2094379001972506624"
+      },
+      {
+        "media_key": "3_2094379023464091648"
+      },
+      {
+        "media_key": "3_2094379039884804096"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "(´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)爸爸妈妈已经在借钱交住院费了，大家可以先帮我们吃上饭吗，谢谢大家了，真的很抱歉\n如果有知道我具体位置的请暂时不要来看我…我身边一直有监护人在守着，现在暂时能拿到手机，但是不确保什么时候又会被收喵 https://t.co/k7RPAHnJhv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2094378981915262976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRC6lmoagAAASes.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2094379001972506624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRC6mxWbwAA8szX.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2094379023464091648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRC6oBabUAAkWch.jpg",
+        "width": 4096
+      },
+      {
+        "height": 991,
+        "media_key": "3_2094379039884804096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRC6o-lbgAA17tw.jpg",
+        "width": 991
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094378981915262976",
+            "3_2094379001972506624",
+            "3_2094379023464091648",
+            "3_2094379039884804096"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "conversation_id": "2094379046742409372",
+        "created_at": "2026-08-31T10:57:31.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T11:57:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094379046742409372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/k7RPAHnJhv",
+              "end": 144,
+              "expanded_url": "https://x.com/Yumeoibito76/status/2094379046742409372/photo/1",
+              "media_key": "3_2094378981915262976",
+              "start": 121,
+              "url": "https://t.co/k7RPAHnJhv"
+            },
+            {
+              "display_url": "pic.x.com/k7RPAHnJhv",
+              "end": 144,
+              "expanded_url": "https://x.com/Yumeoibito76/status/2094379046742409372/photo/1",
+              "media_key": "3_2094379001972506624",
+              "start": 121,
+              "url": "https://t.co/k7RPAHnJhv"
+            },
+            {
+              "display_url": "pic.x.com/k7RPAHnJhv",
+              "end": 144,
+              "expanded_url": "https://x.com/Yumeoibito76/status/2094379046742409372/photo/1",
+              "media_key": "3_2094379023464091648",
+              "start": 121,
+              "url": "https://t.co/k7RPAHnJhv"
+            },
+            {
+              "display_url": "pic.x.com/k7RPAHnJhv",
+              "end": 144,
+              "expanded_url": "https://x.com/Yumeoibito76/status/2094379046742409372/photo/1",
+              "media_key": "3_2094379039884804096",
+              "start": 121,
+              "url": "https://t.co/k7RPAHnJhv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094379046742409372",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094378981915262976"
+          },
+          {
+            "media_key": "3_2094379001972506624"
+          },
+          {
+            "media_key": "3_2094379023464091648"
+          },
+          {
+            "media_key": "3_2094379039884804096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "(´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)爸爸妈妈已经在借钱交住院费了，大家可以先帮我们吃上饭吗，谢谢大家了，真的很抱歉\n如果有知道我具体位置的请暂时不要来看我…我身边一直有监护人在守着，现在暂时能拿到手机，但是不确保什么时候又会被收喵 https://t.co/k7RPAHnJhv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|极度社恐|缺爱逼|泛性恋|infp\n求互fo 我会看成分回fo！大部分都会回的喵\n我有在努力成为一个好孩子 但到底什么是好孩子呢",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2094379046742409372",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 363,
+          "like_count": 5807,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 591
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
