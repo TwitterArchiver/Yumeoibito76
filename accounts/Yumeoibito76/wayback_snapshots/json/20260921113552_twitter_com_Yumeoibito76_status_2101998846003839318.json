@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2101998846003839318",
+    "created_at": "2026-09-21T11:35:52.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T12:35:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101998846003839318"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1542108779302760449",
+          "start": 3,
+          "username": "C10n3_F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101998846003839318",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101850716193394978",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @C10n3_F: 🔝自介一則\n我是梟！因為沒錢錢買煙和衣服了 所以需要各位姫さま的幫助…(╥﹏╥)麻煩寶寶們幫忙轉帖啦！\n座標🇭🇰\n喜歡菸 咖啡 還有重型音樂！\n-\n開放線下中～價目表詳見p3(●°u°●)​ 」\n-\n可能會雷到你的\n·ftx🏳️‍⚧️\n·自傷\n·吸菸…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2101850706030571520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HStGFL_bMAA3q7q.jpg",
+        "width": 3072
+      },
+      {
+        "height": 781,
+        "media_key": "3_2101850704457719808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HStGFGIbYAAZ-DY.jpg",
+        "width": 586
+      },
+      {
+        "height": 1769,
+        "media_key": "3_2101850704461893632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HStGFGJbEAAZGiY.jpg",
+        "width": 1170
+      },
+      {
+        "height": 781,
+        "media_key": "3_2101850704457637888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HStGFGIaIAA_ZCr.jpg",
+        "width": 586
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2101998846003839318",
+        "created_at": "2026-09-21T11:35:52.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T12:35:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101998846003839318"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1542108779302760449",
+              "start": 3,
+              "username": "C10n3_F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101998846003839318",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101850716193394978",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @C10n3_F: 🔝自介一則\n我是梟！因為沒錢錢買煙和衣服了 所以需要各位姫さま的幫助…(╥﹏╥)麻煩寶寶們幫忙轉帖啦！\n座標🇭🇰\n喜歡菸 咖啡 還有重型音樂！\n-\n開放線下中～價目表詳見p3(●°u°●)​ 」\n-\n可能會雷到你的\n·ftx🏳️‍⚧️\n·自傷\n·吸菸…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101850706030571520",
+            "3_2101850704457719808",
+            "3_2101850704461893632",
+            "3_2101850704457637888"
+          ]
+        },
+        "author_id": "1542108779302760449",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2101850716193394978",
+        "created_at": "2026-09-21T01:47:15.000Z",
+        "display_text_range": [
+          0,
+          163
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T02:47:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101850716193394978"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "線下"
+            },
+            {
+              "end": 140,
+              "start": 136,
+              "tag": "媽媽活"
+            },
+            {
+              "end": 145,
+              "start": 141,
+              "tag": "爸爸活"
+            },
+            {
+              "end": 151,
+              "start": 146,
+              "tag": "電子小狗"
+            },
+            {
+              "end": 157,
+              "start": 152,
+              "tag": "ptgf"
+            },
+            {
+              "end": 163,
+              "start": 158,
+              "tag": "ptbf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/klPsnxXnQR",
+              "end": 187,
+              "expanded_url": "https://x.com/C10n3_F/status/2101850716193394978/photo/1",
+              "media_key": "3_2101850706030571520",
+              "start": 164,
+              "url": "https://t.co/klPsnxXnQR"
+            },
+            {
+              "display_url": "pic.x.com/klPsnxXnQR",
+              "end": 187,
+              "expanded_url": "https://x.com/C10n3_F/status/2101850716193394978/photo/1",
+              "media_key": "3_2101850704457719808",
+              "start": 164,
+              "url": "https://t.co/klPsnxXnQR"
+            },
+            {
+              "display_url": "pic.x.com/klPsnxXnQR",
+              "end": 187,
+              "expanded_url": "https://x.com/C10n3_F/status/2101850716193394978/photo/1",
+              "media_key": "3_2101850704461893632",
+              "start": 164,
+              "url": "https://t.co/klPsnxXnQR"
+            },
+            {
+              "display_url": "pic.x.com/klPsnxXnQR",
+              "end": 187,
+              "expanded_url": "https://x.com/C10n3_F/status/2101850716193394978/photo/1",
+              "media_key": "3_2101850704457637888",
+              "start": 164,
+              "url": "https://t.co/klPsnxXnQR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101850716193394978",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101850706030571520"
+          },
+          {
+            "media_key": "3_2101850704457719808"
+          },
+          {
+            "media_key": "3_2101850704461893632"
+          },
+          {
+            "media_key": "3_2101850704457637888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 783,
+          "like_count": 22,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "🔝自介一則\n我是梟！因為沒錢錢買煙和衣服了 所以需要各位姫さま的幫助…(╥﹏╥)麻煩寶寶們幫忙轉帖啦！\n座標🇭🇰\n喜歡菸 咖啡 還有重型音樂！\n-\n開放線下中～價目表詳見p3(●°u°●)​ 」\n-\n可能會雷到你的\n·ftx🏳️‍⚧️\n·自傷\n·吸菸\n-\ntag\n#線下 #媽媽活 #爸爸活 #電子小狗 #ptgf #ptbf https://t.co/klPsnxXnQR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2101998846003839318",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2099805973401514084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 479,
+          "like_count": 16021,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 957
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-29T11:32:47.000Z",
+        "description": "Dry your tears with love |ftx🏳️‍⚧️| his/him",
+        "id": "1542108779302760449",
+        "is_identity_verified": false,
+        "location": "🚪88｜🦴@me0420_",
+        "most_recent_tweet_id": "2101861233867833667",
+        "name": "Clone",
+        "pinned_tweet_id": "2101850716193394978",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1542108779302760449/1781128883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068380581579390976/yFrnlSzR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 326,
+          "like_count": 9303,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 2221
+        },
+        "url": "",
+        "username": "C10n3_F",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

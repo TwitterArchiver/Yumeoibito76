@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106276111852429312",
+        "13_2106276134652616705",
+        "13_2106276399682404352",
+        "3_2106276583296446465"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "conversation_id": "2106276605547229192",
+    "created_at": "2026-10-03T06:54:10.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T07:54:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106276605547229192"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5DhYVEF8t4",
+          "end": 45,
+          "expanded_url": "https://x.com/Yumeoibito76/status/2106276605547229192/video/1",
+          "media_key": "3_2106276111852429312",
+          "start": 22,
+          "url": "https://t.co/5DhYVEF8t4"
+        },
+        {
+          "display_url": "pic.x.com/5DhYVEF8t4",
+          "end": 45,
+          "expanded_url": "https://x.com/Yumeoibito76/status/2106276605547229192/video/1",
+          "media_key": "13_2106276134652616705",
+          "start": 22,
+          "url": "https://t.co/5DhYVEF8t4"
+        },
+        {
+          "display_url": "pic.x.com/5DhYVEF8t4",
+          "end": 45,
+          "expanded_url": "https://x.com/Yumeoibito76/status/2106276605547229192/video/1",
+          "media_key": "13_2106276399682404352",
+          "start": 22,
+          "url": "https://t.co/5DhYVEF8t4"
+        },
+        {
+          "display_url": "pic.x.com/5DhYVEF8t4",
+          "end": 45,
+          "expanded_url": "https://x.com/Yumeoibito76/status/2106276605547229192/video/1",
+          "media_key": "3_2106276583296446465",
+          "start": 22,
+          "url": "https://t.co/5DhYVEF8t4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106276605547229192",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106276111852429312"
+      },
+      {
+        "media_key": "13_2106276134652616705"
+      },
+      {
+        "media_key": "13_2106276399682404352"
+      },
+      {
+        "media_key": "3_2106276583296446465"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "（丢下一堆安卓画质，不求回报地转身离开。） https://t.co/5DhYVEF8t4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_2106276111852429312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTr-9tXa4AA0HZE.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 22293,
+        "height": 1920,
+        "media_key": "13_2106276134652616705",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106276134652616705/img/SRm0NFT6lZAPQE3Z.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106276134652616705/pl/hPhYJyNhcgI49CMa.m3u8"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106276134652616705/vid/avc1/320x568/PsazLttE3lCoiJNI.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106276134652616705/vid/avc1/720x1280/GJWNLs-SBEqCJ8u0.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106276134652616705/vid/avc1/1080x1920/bAgLIcJm1N2kX-iT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106276134652616705/vid/avc1/480x852/oQV3V692qPdEMhmU.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 13845,
+        "height": 1080,
+        "media_key": "13_2106276399682404352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106276399682404352/img/6cQ-zIOvgKnhc5Ax.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106276399682404352/pl/ShbbFHclXEWhmq4D.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106276399682404352/vid/avc1/480x270/ADpNGOuTrsysqPZM.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106276399682404352/vid/avc1/640x360/dajmk-mGt51r82vd.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106276399682404352/vid/avc1/1920x1080/uVUpekiS60VBaKT4.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106276399682404352/vid/avc1/1280x720/GvFR9abnCQ8NkAFk.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2106276583296446465",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTr_ZJobsAEefOo.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106276111852429312",
+            "13_2106276134652616705",
+            "13_2106276399682404352",
+            "3_2106276583296446465"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "conversation_id": "2106276605547229192",
+        "created_at": "2026-10-03T06:54:10.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T07:54:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106276605547229192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5DhYVEF8t4",
+              "end": 45,
+              "expanded_url": "https://x.com/Yumeoibito76/status/2106276605547229192/video/1",
+              "media_key": "3_2106276111852429312",
+              "start": 22,
+              "url": "https://t.co/5DhYVEF8t4"
+            },
+            {
+              "display_url": "pic.x.com/5DhYVEF8t4",
+              "end": 45,
+              "expanded_url": "https://x.com/Yumeoibito76/status/2106276605547229192/video/1",
+              "media_key": "13_2106276134652616705",
+              "start": 22,
+              "url": "https://t.co/5DhYVEF8t4"
+            },
+            {
+              "display_url": "pic.x.com/5DhYVEF8t4",
+              "end": 45,
+              "expanded_url": "https://x.com/Yumeoibito76/status/2106276605547229192/video/1",
+              "media_key": "13_2106276399682404352",
+              "start": 22,
+              "url": "https://t.co/5DhYVEF8t4"
+            },
+            {
+              "display_url": "pic.x.com/5DhYVEF8t4",
+              "end": 45,
+              "expanded_url": "https://x.com/Yumeoibito76/status/2106276605547229192/video/1",
+              "media_key": "3_2106276583296446465",
+              "start": 22,
+              "url": "https://t.co/5DhYVEF8t4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106276605547229192",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106276111852429312"
+          },
+          {
+            "media_key": "13_2106276134652616705"
+          },
+          {
+            "media_key": "13_2106276399682404352"
+          },
+          {
+            "media_key": "3_2106276583296446465"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（丢下一堆安卓画质，不求回报地转身离开。） https://t.co/5DhYVEF8t4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2106276605547229192",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2106072688708243496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 538,
+          "like_count": 22590,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1254
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

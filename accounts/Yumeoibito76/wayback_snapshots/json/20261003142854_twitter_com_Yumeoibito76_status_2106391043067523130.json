@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2106391043067523130",
+    "created_at": "2026-10-03T14:28:54.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T15:28:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106391043067523130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "200113501",
+          "start": 3,
+          "username": "leaf3loveu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106391043067523130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106367605187735887",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @leaf3loveu: 大家多多支持哦🥺🥺，是精心挑选的良好物质，适合oder们食用🥺🥺💊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2106391043067523130",
+        "created_at": "2026-10-03T14:28:54.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106391043067523130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "200113501",
+              "start": 3,
+              "username": "leaf3loveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106391043067523130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106367605187735887",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @leaf3loveu: 大家多多支持哦🥺🥺，是精心挑选的良好物质，适合oder们食用🥺🥺💊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "200113501",
+        "conversation_id": "2106367605187735887",
+        "created_at": "2026-10-03T12:55:46.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T13:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106367605187735887"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/doumaiRCs/stat…",
+              "end": 57,
+              "expanded_url": "https://twitter.com/doumaiRCs/status/2106360790819418169",
+              "start": 34,
+              "url": "https://t.co/uwyfUPM2NX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106367605187735887",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 120,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106360790819418169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "大家多多支持哦🥺🥺，是精心挑选的良好物质，适合oder们食用🥺🥺💊 https://t.co/uwyfUPM2NX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2106391043067523130",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2106072688708243496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 545,
+          "like_count": 23154,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 1286
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-10-08T13:44:33.000Z",
+        "description": "我该用几行字才能写尽我一生的痛楚\n\n防炸号@leaf5loveu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 21,
+                "username": "leaf5loveu"
+              }
+            ]
+          }
+        },
+        "id": "200113501",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106389834260734220",
+        "name": "叶子大帝四世",
+        "pinned_tweet_id": "2093952083607404589",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093951095982940160/QfuHu2Pw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 229,
+          "like_count": 385,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 483
+        },
+        "url": "",
+        "username": "leaf3loveu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

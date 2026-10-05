@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2102942205115871430",
+    "created_at": "2026-09-24T02:04:27.000Z",
+    "display_text_range": [
+      0,
+      138
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T03:04:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102942205115871430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1913084413942145024",
+          "start": 3,
+          "username": "Sui_aini"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102942205115871430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102769752439718380",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sui_aini: 算了，你们太可怕了，我不发烧炭的照片了，一个两个都要报警，你妈逼，120救护车钱你给我出，救助钱你给我出，我被房东赶出来，你给我找下家住处，一个两个以为报警，把人强制救下来，就算是做好事了，当事人后续怎么办，你们想过吗，报完察拍拍屁股走人的一群家伙"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2102942205115871430",
+        "created_at": "2026-09-24T02:04:27.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T03:04:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102942205115871430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1913084413942145024",
+              "start": 3,
+              "username": "Sui_aini"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102942205115871430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102769752439718380",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sui_aini: 算了，你们太可怕了，我不发烧炭的照片了，一个两个都要报警，你妈逼，120救护车钱你给我出，救助钱你给我出，我被房东赶出来，你给我找下家住处，一个两个以为报警，把人强制救下来，就算是做好事了，当事人后续怎么办，你们想过吗，报完察拍拍屁股走人的一群家伙"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913084413942145024",
+        "conversation_id": "2102769752439718380",
+        "created_at": "2026-09-23T14:39:11.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T15:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102769752439718380"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102769752439718380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2615,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "算了，你们太可怕了，我不发烧炭的照片了，一个两个都要报警，你妈逼，120救护车钱你给我出，救助钱你给我出，我被房东赶出来，你给我找下家住处，一个两个以为报警，把人强制救下来，就算是做好事了，当事人后续怎么办，你们想过吗，报完察拍拍屁股走人的一群家伙"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2102942205115871430",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2099805973401514084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 483,
+          "like_count": 17257,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 985
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-18T04:18:07.000Z",
+        "description": "Enby（They/Them/It）//小号 @honoka_520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "honoka_520"
+              }
+            ]
+          }
+        },
+        "id": "1913084413942145024",
+        "is_identity_verified": false,
+        "location": "你的心",
+        "most_recent_tweet_id": "2102912549763375273",
+        "name": "穗_🌾",
+        "pinned_tweet_id": "2099804832609804432",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1913084413942145024/1744950311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081405501045092352/Y089zPJc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2516,
+          "following_count": 861,
+          "like_count": 7170,
+          "listed_count": 4,
+          "media_count": 1027,
+          "tweet_count": 7894
+        },
+        "url": "",
+        "username": "Sui_aini",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

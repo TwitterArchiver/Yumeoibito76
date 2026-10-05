@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2102100039023706113"
+      ],
+      "media_source_tweet_id": [
+        "2102835389752815632"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "conversation_id": "2103007697914450110",
+    "created_at": "2026-09-24T06:24:41.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T07:24:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103007697914450110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2092429153144381441",
+          "start": 3,
+          "username": "ShitpostdeGIF"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3TXofYB6Ym",
+          "end": 42,
+          "expanded_url": "https://x.com/ShitpostdeGIF/status/2102835389752815632/video/1",
+          "media_key": "13_2102100039023706113",
+          "start": 19,
+          "url": "https://t.co/3TXofYB6Ym"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103007697914450110",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2102100039023706113"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1282
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102835389752815632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShitpostdeGIF: https://t.co/3TXofYB6Ym"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4640,
+        "height": 512,
+        "media_key": "13_2102100039023706113",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102100039023706113/img/24DNdzxXfohGCZyB.jpg",
+        "public_metrics": {
+          "view_count": 97856
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102100039023706113/vid/avc1/378x270/fy0KvyS-PK8krL-W.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102100039023706113/vid/avc1/506x360/f_xZBUytbH0C-RrQ.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102100039023706113/vid/avc1/720x512/XnmspXWXnJ7Wj_Nl.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102100039023706113/pl/F78FL4nVCRxC1kPF.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102100039023706113"
+          ],
+          "media_source_tweet_id": [
+            "2102835389752815632"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "conversation_id": "2103007697914450110",
+        "created_at": "2026-09-24T06:24:41.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T07:24:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103007697914450110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2092429153144381441",
+              "start": 3,
+              "username": "ShitpostdeGIF"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3TXofYB6Ym",
+              "end": 42,
+              "expanded_url": "https://x.com/ShitpostdeGIF/status/2102835389752815632/video/1",
+              "media_key": "13_2102100039023706113",
+              "start": 19,
+              "url": "https://t.co/3TXofYB6Ym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103007697914450110",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2102100039023706113"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1282
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102835389752815632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShitpostdeGIF: https://t.co/3TXofYB6Ym"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102100039023706113"
+          ]
+        },
+        "author_id": "2092429153144381441",
+        "conversation_id": "2102835389752815632",
+        "created_at": "2026-09-23T19:00:00.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T20:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102835389752815632"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3TXofYB6Ym",
+              "end": 23,
+              "expanded_url": "https://x.com/ShitpostdeGIF/status/2102835389752815632/video/1",
+              "media_key": "13_2102100039023706113",
+              "start": 0,
+              "url": "https://t.co/3TXofYB6Ym"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102835389752815632",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2102100039023706113"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 953,
+          "impression_count": 224759,
+          "like_count": 7888,
+          "quote_count": 139,
+          "reply_count": 35,
+          "retweet_count": 1282
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3TXofYB6Ym"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2103007697914450110",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2099805973401514084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 484,
+          "like_count": 17382,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 994
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T01:51:23.000Z",
+        "description": "GIFs e vídeos aleatórios pra quem tem humor quebrado | segue a página e ativa as 🔔 | #meta1K",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 85,
+                "tag": "meta1K"
+              }
+            ]
+          }
+        },
+        "id": "2092429153144381441",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102910891348160606",
+        "name": "Shitpost só que de GIF 💫",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092429153144381441/1787709407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092429781828517888/XFbnwcEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 692,
+          "following_count": 15,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "ShitpostdeGIF",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

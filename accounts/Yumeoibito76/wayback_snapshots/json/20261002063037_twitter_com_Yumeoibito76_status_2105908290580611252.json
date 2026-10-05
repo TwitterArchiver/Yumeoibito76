@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2105841691089682699",
+    "created_at": "2026-10-02T06:30:37.000Z",
+    "display_text_range": [
+      10,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T07:30:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105908290580611252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1656617197253578752",
+          "start": 0,
+          "username": "ywl88888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105908290580611252",
+    "in_reply_to_user_id": "1656617197253578752",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105896257571242016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ywl88888 一朝被蛇咬十年怕井绳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2105841691089682699",
+        "created_at": "2026-10-02T06:30:37.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T07:30:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105908290580611252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1656617197253578752",
+              "start": 0,
+              "username": "ywl88888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105908290580611252",
+        "in_reply_to_user_id": "1656617197253578752",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105896257571242016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ywl88888 一朝被蛇咬十年怕井绳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1656617197253578752",
+        "conversation_id": "2105841691089682699",
+        "created_at": "2026-10-02T05:42:48.000Z",
+        "display_text_range": [
+          14,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T06:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105896257571242016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105896257571242016",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105841691089682699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 不怕喵你不rua的话是不会挠你的喵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2105908290580611252",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 522,
+          "like_count": 21414,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1174
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-11T11:08:32.000Z",
+        "description": "INFP-T｜成分复杂｜重抑轻焦｜不o不割遵医嘱吃药中｜全友好\n欢迎互fo喵~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ywl88888",
+                "end": 23,
+                "expanded_url": "http://ngl.link/ywl88888",
+                "start": 0,
+                "url": "https://t.co/0oOFansVmU"
+              }
+            ]
+          }
+        },
+        "id": "1656617197253578752",
+        "is_identity_verified": false,
+        "location": "长沙",
+        "most_recent_tweet_id": "2105906175208542366",
+        "name": "冥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1656617197253578752/1783204987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101696708770160640/EvwMrV2X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 117,
+          "like_count": 9573,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 1557
+        },
+        "url": "https://t.co/0oOFansVmU",
+        "username": "ywl88888",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

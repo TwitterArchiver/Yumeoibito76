@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2106073274304323693",
+    "created_at": "2026-10-02T18:00:38.000Z",
+    "display_text_range": [
+      14,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T19:00:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106081940420104388"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2028421571778682880",
+          "start": 0,
+          "username": "GDecember172"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106081940420104388",
+    "in_reply_to_user_id": "2028421571778682880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106081111537594384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GDecember172 不知道于是复制"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2106073274304323693",
+        "created_at": "2026-10-02T18:00:38.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T19:00:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106081940420104388"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2028421571778682880",
+              "start": 0,
+              "username": "GDecember172"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106081940420104388",
+        "in_reply_to_user_id": "2028421571778682880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106081111537594384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GDecember172 不知道于是复制"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028421571778682880",
+        "conversation_id": "2106073274304323693",
+        "created_at": "2026-10-02T17:57:20.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T18:57:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106081111537594384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106081111537594384",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106073274304323693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 闹吃的弟弟是什么鬼（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2106081940420104388",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2106072688708243496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 529,
+          "like_count": 22147,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 1226
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-02T10:46:27.000Z",
+        "description": "大一 分享日常\nRust新手 沉迷vibe中...\nIEITS | 日本語を勉強します\nGalgame | Stellaris | Minecraft \n想交朋友喵 只要看起来不像ai和营销的都会互fo喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/December172/",
+                "end": 23,
+                "expanded_url": "https://github.com/December172/",
+                "start": 0,
+                "url": "https://t.co/ikQXHgi5RQ"
+              }
+            ]
+          }
+        },
+        "id": "2028421571778682880",
+        "is_identity_verified": false,
+        "location": "山中小木屋",
+        "most_recent_tweet_id": "2106081111537594384",
+        "name": "December172",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2028421571778682880/1790659056",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028421674182545408/P2IZB5oi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 148,
+          "like_count": 3446,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 145
+        },
+        "url": "https://t.co/ikQXHgi5RQ",
+        "username": "GDecember172",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2100069613266739200"
+      ],
+      "media_source_tweet_id": [
+        "2100069642345873823"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2100169329580847423",
+    "created_at": "2026-09-16T10:26:02.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T11:26:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100169329580847423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1712046805243084800",
+          "start": 3,
+          "username": "GI_Seize"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/g0doZx9BRQ",
+          "end": 55,
+          "expanded_url": "https://x.com/GI_Seize/status/2100069642345873823/photo/1",
+          "media_key": "16_2100069613266739200",
+          "start": 32,
+          "url": "https://t.co/g0doZx9BRQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100169329580847423",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "16_2100069613266739200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2072
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100069642345873823",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GI_Seize: 이 짤을 보고 할 말을 잃어버림 https://t.co/g0doZx9BRQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 322,
+        "media_key": "16_2100069613266739200",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HSTyL8ZbIAACO5X.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HSTyL8ZbIAACO5X.mp4"
+          }
+        ],
+        "width": 438
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2100069613266739200"
+          ],
+          "media_source_tweet_id": [
+            "2100069642345873823"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2100169329580847423",
+        "created_at": "2026-09-16T10:26:02.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T11:26:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100169329580847423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1712046805243084800",
+              "start": 3,
+              "username": "GI_Seize"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/g0doZx9BRQ",
+              "end": 55,
+              "expanded_url": "https://x.com/GI_Seize/status/2100069642345873823/photo/1",
+              "media_key": "16_2100069613266739200",
+              "start": 32,
+              "url": "https://t.co/g0doZx9BRQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100169329580847423",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "16_2100069613266739200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2072
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100069642345873823",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GI_Seize: 이 짤을 보고 할 말을 잃어버림 https://t.co/g0doZx9BRQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2100069613266739200"
+          ]
+        },
+        "author_id": "1712046805243084800",
+        "conversation_id": "2100069642345873823",
+        "created_at": "2026-09-16T03:49:54.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T04:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100069642345873823"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g0doZx9BRQ",
+              "end": 41,
+              "expanded_url": "https://x.com/GI_Seize/status/2100069642345873823/photo/1",
+              "media_key": "16_2100069613266739200",
+              "start": 18,
+              "url": "https://t.co/g0doZx9BRQ"
+            },
+            {
+              "display_url": "x.com/NoriGye/status…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/NoriGye/status/2100067350397788167",
+              "start": 42,
+              "url": "https://t.co/0NzDlIbUaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100069642345873823",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "16_2100069613266739200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1113,
+          "impression_count": 702783,
+          "like_count": 13129,
+          "quote_count": 946,
+          "reply_count": 68,
+          "retweet_count": 2076
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100067350397788167",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "이 짤을 보고 할 말을 잃어버림 https://t.co/g0doZx9BRQ https://t.co/0NzDlIbUaG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2100169329580847423",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2099805973401514084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 488,
+          "like_count": 12918,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 873
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-11T10:05:50.000Z",
+        "description": "네모네모 픽셀 친구들ㅣ🚌 : @LC_Seize",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 16,
+                "username": "LC_Seize"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dodoco.gg/r/seize",
+                "end": 23,
+                "expanded_url": "http://dodoco.gg/r/seize",
+                "start": 0,
+                "url": "https://t.co/Cr4GmyPcA3"
+              }
+            ]
+          }
+        },
+        "id": "1712046805243084800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100153654384972164",
+        "name": "Seize",
+        "pinned_tweet_id": "2099420991965581658",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1712046805243084800/1782013939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068542616896151552/SMDd4HnV_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 134,
+          "like_count": 10691,
+          "listed_count": 4,
+          "media_count": 73,
+          "tweet_count": 117
+        },
+        "url": "https://t.co/Cr4GmyPcA3",
+        "username": "GI_Seize",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

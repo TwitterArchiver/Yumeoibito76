@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2098710239826829312"
+      ],
+      "media_source_tweet_id": [
+        "2098710297259188639"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "conversation_id": "2099121460019372162",
+    "created_at": "2026-09-13T13:02:10.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T14:02:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099121460019372162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1354517757249937414",
+          "start": 3,
+          "username": "ZamHaberAjans"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rzmgUIQGNH",
+          "end": 115,
+          "expanded_url": "https://x.com/ZamHaberAjans/status/2098710297259188639/video/1",
+          "media_key": "13_2098710239826829312",
+          "start": 92,
+          "url": "https://t.co/rzmgUIQGNH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099121460019372162",
+    "lang": "tr",
+    "media_metadata": [
+      {
+        "media_key": "13_2098710239826829312"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 904
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098710297259188639",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ZamHaberAjans: Bir tavşanın mama kabına yemek konulurken kafese koşma hızı dikkat çekti https://t.co/rzmgUIQGNH"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 13866,
+        "height": 1280,
+        "media_key": "13_2098710239826829312",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098710239826829312/img/5Gz61mc0lFOppKwX.jpg",
+        "public_metrics": {
+          "view_count": 1746191
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098710239826829312/vid/avc1/320x568/7maFoZ1NT2J2CMON.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098710239826829312/vid/avc1/480x852/17rCJ6XT8PskRtwS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098710239826829312/vid/avc1/720x1280/vPr-5GyGPTnPSi8i.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098710239826829312/pl/104Oto4ACjQq7VVw.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098710239826829312"
+          ],
+          "media_source_tweet_id": [
+            "2098710297259188639"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "conversation_id": "2099121460019372162",
+        "created_at": "2026-09-13T13:02:10.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T14:02:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099121460019372162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1354517757249937414",
+              "start": 3,
+              "username": "ZamHaberAjans"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rzmgUIQGNH",
+              "end": 115,
+              "expanded_url": "https://x.com/ZamHaberAjans/status/2098710297259188639/video/1",
+              "media_key": "13_2098710239826829312",
+              "start": 92,
+              "url": "https://t.co/rzmgUIQGNH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099121460019372162",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "13_2098710239826829312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 904
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098710297259188639",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ZamHaberAjans: Bir tavşanın mama kabına yemek konulurken kafese koşma hızı dikkat çekti https://t.co/rzmgUIQGNH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098710239826829312"
+          ]
+        },
+        "author_id": "1354517757249937414",
+        "conversation_id": "2098710297259188639",
+        "created_at": "2026-09-12T09:48:21.000Z",
+        "display_text_range": [
+          0,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T10:48:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098710297259188639"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rzmgUIQGNH",
+              "end": 96,
+              "expanded_url": "https://x.com/ZamHaberAjans/status/2098710297259188639/video/1",
+              "media_key": "13_2098710239826829312",
+              "start": 73,
+              "url": "https://t.co/rzmgUIQGNH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098710297259188639",
+        "lang": "tr",
+        "media_metadata": [
+          {
+            "media_key": "13_2098710239826829312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1742,
+          "impression_count": 6017716,
+          "like_count": 11088,
+          "quote_count": 277,
+          "reply_count": 59,
+          "retweet_count": 904
+        },
+        "reply_settings": "everyone",
+        "text": "Bir tavşanın mama kabına yemek konulurken kafese koşma hızı dikkat çekti https://t.co/rzmgUIQGNH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\nQQ群1124326151随便进\n微信🚪纯绿30只收身心男的 ，女孩子不用，上次我住院时帮过我的不用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2099121460019372162",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 459,
+          "like_count": 11322,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 802
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-27T19:53:14.000Z",
+        "description": "Yeni Nesil Dijital Medya | Haberlere #ZamGeldi | İş Birliği ve İhbar için DM 📩",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 46,
+                "start": 37,
+                "tag": "ZamGeldi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "zamajans.com",
+                "end": 23,
+                "expanded_url": "https://zamajans.com",
+                "start": 0,
+                "url": "https://t.co/ZQ0bp7khTz"
+              }
+            ]
+          }
+        },
+        "id": "1354517757249937414",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2099121150127140987",
+        "name": "ZAM Haber",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1354517757249937414/1665169207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1578384033997885440/UNdSdjOG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 867722,
+          "following_count": 186,
+          "like_count": 5507,
+          "listed_count": 846,
+          "media_count": 59603,
+          "tweet_count": 69564
+        },
+        "url": "https://t.co/ZQ0bp7khTz",
+        "username": "ZamHaberAjans",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

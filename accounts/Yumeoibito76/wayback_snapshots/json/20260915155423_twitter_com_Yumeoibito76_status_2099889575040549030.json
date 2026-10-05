@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2099805973401514084",
+    "created_at": "2026-09-15T15:54:23.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T16:54:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099889575040549030"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2099889575040549030",
+    "in_reply_to_user_id": "2023256339363856384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099889011246383318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "建议都加微信联系好一点，我最近梯子不太稳定(´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2099805973401514084",
+        "created_at": "2026-09-15T15:54:23.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T16:54:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099889575040549030"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099889575040549030",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099889011246383318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "建议都加微信联系好一点，我最近梯子不太稳定(´°̥̥̥̥̥̥̥̥ω°̥̥̥̥̥̥̥̥｀)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2099805973401514084",
+        "created_at": "2026-09-15T15:52:08.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T16:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099889011246383318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099889011246383318",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099805973401514084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我这段时间先把代肝帖置顶好了，等过阵子不接了再把自介放回来😞我在线时间一般是白天，晚上大概十二点到第二天早上需要睡觉，有问题可以直接私信我或者加我微信问呀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2099889575040549030",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2099805973401514084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 490,
+          "like_count": 12708,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 864
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

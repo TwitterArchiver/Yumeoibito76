@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2106379192741048360",
+    "created_at": "2026-10-03T14:32:14.000Z",
+    "display_text_range": [
+      16,
+      156
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T15:32:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106391885342273940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2063159075572158465",
+          "start": 0,
+          "username": "Bochichan250hh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106391885342273940",
+    "in_reply_to_user_id": "2063159075572158465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "于是我们加入了：铁块，斑驳的铁块，锈蚀的铁块，氧化的铁块，涂腊的铁块，涂腊的斑驳的铁块，涂腊的锈蚀的铁块，涂腊的氧化的铁块，闹吃的弟弟，斑驳的闹吃的弟弟，锈蚀的闹吃的弟弟，氧化的闹吃的弟弟，涂腊的闹吃的弟弟，涂腊的斑驳的闹吃的弟弟，涂腊的锈蚀的闹吃的弟弟，涂腊的氧化的闹吃的弟弟，铁砧，斑驳的铁砧，锈蚀的铁砧，氧化的铁砧，涂腊的铁砧，涂腊的斑驳的铁砧，涂腊的锈蚀的铁砧，涂腊的氧化的铁砧，轻微损坏的铁砧，轻微损坏的斑驳的铁砧，轻微损坏的锈蚀的铁砧，轻微损坏的氧化的铁砧，轻微损坏的涂腊的铁砧，轻微损坏的涂腊的斑驳的铁砧，轻微损坏的涂腊的锈蚀的铁砧，轻微损坏的涂腊的氧化的铁砧，严重损坏的铁砧，严重损坏的斑驳的铁砧，严重损坏的锈蚀的铁砧，严重损坏的氧化的铁砧，严重损坏的涂腊的铁砧，严重损坏的涂腊的斑驳的铁砧，严重损坏的涂腊的锈蚀的铁砧，严重损坏的涂腊的氧化的铁砧......"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106379192741048360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bochichan250hh 于是我们加入了：铁块，斑驳的铁块，锈蚀的铁块，氧化的铁块，涂腊的铁块，涂腊的斑驳的铁块，涂腊的锈蚀的铁块，涂腊的氧化的铁块，闹吃的弟弟，斑驳的闹吃的弟弟，锈蚀的闹吃的弟弟，氧化的闹吃的弟弟，涂腊的闹吃的弟弟，涂腊的斑驳的闹吃的弟弟，涂腊的锈蚀的闹吃的弟弟，涂腊的氧化的闹吃的弟弟，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2106379192741048360",
+        "created_at": "2026-10-03T14:32:14.000Z",
+        "display_text_range": [
+          16,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:32:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106391885342273940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2063159075572158465",
+              "start": 0,
+              "username": "Bochichan250hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106391885342273940",
+        "in_reply_to_user_id": "2063159075572158465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "于是我们加入了：铁块，斑驳的铁块，锈蚀的铁块，氧化的铁块，涂腊的铁块，涂腊的斑驳的铁块，涂腊的锈蚀的铁块，涂腊的氧化的铁块，闹吃的弟弟，斑驳的闹吃的弟弟，锈蚀的闹吃的弟弟，氧化的闹吃的弟弟，涂腊的闹吃的弟弟，涂腊的斑驳的闹吃的弟弟，涂腊的锈蚀的闹吃的弟弟，涂腊的氧化的闹吃的弟弟，铁砧，斑驳的铁砧，锈蚀的铁砧，氧化的铁砧，涂腊的铁砧，涂腊的斑驳的铁砧，涂腊的锈蚀的铁砧，涂腊的氧化的铁砧，轻微损坏的铁砧，轻微损坏的斑驳的铁砧，轻微损坏的锈蚀的铁砧，轻微损坏的氧化的铁砧，轻微损坏的涂腊的铁砧，轻微损坏的涂腊的斑驳的铁砧，轻微损坏的涂腊的锈蚀的铁砧，轻微损坏的涂腊的氧化的铁砧，严重损坏的铁砧，严重损坏的斑驳的铁砧，严重损坏的锈蚀的铁砧，严重损坏的氧化的铁砧，严重损坏的涂腊的铁砧，严重损坏的涂腊的斑驳的铁砧，严重损坏的涂腊的锈蚀的铁砧，严重损坏的涂腊的氧化的铁砧......"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106379192741048360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bochichan250hh 于是我们加入了：铁块，斑驳的铁块，锈蚀的铁块，氧化的铁块，涂腊的铁块，涂腊的斑驳的铁块，涂腊的锈蚀的铁块，涂腊的氧化的铁块，闹吃的弟弟，斑驳的闹吃的弟弟，锈蚀的闹吃的弟弟，氧化的闹吃的弟弟，涂腊的闹吃的弟弟，涂腊的斑驳的闹吃的弟弟，涂腊的锈蚀的闹吃的弟弟，涂腊的氧化的闹吃的弟弟，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2063159075572158465",
+        "conversation_id": "2106379192741048360",
+        "created_at": "2026-10-03T13:41:48.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T14:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106379192741048360"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106379192741048360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 420,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "无聊死了，求骚扰"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2106391885342273940",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2106072688708243496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 550,
+          "following_count": 545,
+          "like_count": 23175,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 1289
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T07:21:34.000Z",
+        "description": "How I wish you were here\n希望我们之间的喜剧永远是万能\n另一个账户@Yokuso_desu\nA guitarist 🎸会弹电吉他\n查成分互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "Yokuso_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BochiChan250",
+                "end": 23,
+                "expanded_url": "http://t.me/BochiChan250",
+                "start": 0,
+                "url": "https://t.co/dkFNyeyJ7O"
+              }
+            ]
+          }
+        },
+        "id": "2063159075572158465",
+        "is_identity_verified": false,
+        "location": "加州の旅馆",
+        "most_recent_tweet_id": "2106379192741048360",
+        "name": "防尘迷呀awa（见过马建国）🇰🇵🌿",
+        "pinned_tweet_id": "2077086358259081675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063159075572158465/1789536920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068608809841696768/DCfkJfRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2052,
+          "following_count": 2040,
+          "like_count": 13471,
+          "listed_count": 0,
+          "media_count": 313,
+          "tweet_count": 2228
+        },
+        "url": "https://t.co/dkFNyeyJ7O",
+        "username": "Bochichan250hh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

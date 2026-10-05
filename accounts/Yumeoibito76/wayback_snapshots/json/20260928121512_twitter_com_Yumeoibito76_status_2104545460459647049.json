@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2104344816968757506",
+    "created_at": "2026-09-28T12:15:12.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T13:15:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104545460459647049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2103276596345847808",
+          "start": 0,
+          "username": "Scallopxyz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104545460459647049",
+    "in_reply_to_user_id": "2103276596345847808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104344816968757506",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Scallopxyz 小鸡鸡，不帅"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1020,
+        "media_key": "3_2104344802066128896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTQicrwXYAA677B.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2104344816968757506",
+        "created_at": "2026-09-28T12:15:12.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T13:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104545460459647049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2103276596345847808",
+              "start": 0,
+              "username": "Scallopxyz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104545460459647049",
+        "in_reply_to_user_id": "2103276596345847808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104344816968757506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Scallopxyz 小鸡鸡，不帅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104344802066128896"
+          ]
+        },
+        "author_id": "2103276596345847808",
+        "conversation_id": "2104344816968757506",
+        "created_at": "2026-09-27T22:57:55.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T23:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104344816968757506"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/34MVDCGq7U",
+              "end": 31,
+              "expanded_url": "https://x.com/Scallopxyz/status/2104344816968757506/photo/1",
+              "media_key": "3_2104344802066128896",
+              "start": 8,
+              "url": "https://t.co/34MVDCGq7U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104344816968757506",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104344802066128896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 11236,
+          "like_count": 141,
+          "quote_count": 3,
+          "reply_count": 43,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小鸡薄帅是啥🌚 https://t.co/34MVDCGq7U"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2104545460459647049",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 502,
+          "like_count": 19549,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 1069
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-25T00:14:52.000Z",
+        "description": "四世同堂@ZhengX50513\n欢迎大家来找我聊天 喜欢的才互fo 墙内只给互fo谢谢 有礼貌一点好吗好的\n不约不聊骚 不是顶帅薄肌不准给我发照片",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 4,
+                "username": "ZhengX50513"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/zhengx50513",
+                "end": 23,
+                "expanded_url": "https://ngl.link/zhengx50513",
+                "start": 0,
+                "url": "https://t.co/VntMyKPbsz"
+              }
+            ]
+          }
+        },
+        "id": "2103276596345847808",
+        "is_identity_verified": false,
+        "location": "2.14km",
+        "most_recent_tweet_id": "2104542042634547466",
+        "name": "此人绝非scallop",
+        "pinned_tweet_id": "2104064568506867813",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2103276596345847808/1790321535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103277191433773056/e2CUAzaW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 45,
+          "like_count": 376,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 458
+        },
+        "url": "https://t.co/VntMyKPbsz",
+        "username": "Scallopxyz",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2105675696739606529"
+      ],
+      "media_source_tweet_id": [
+        "2105764695621960110"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "conversation_id": "2105944803146084792",
+    "created_at": "2026-10-02T08:55:42.000Z",
+    "display_text_range": [
+      0,
+      70
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T09:55:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105944803146084792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1562677302143565824",
+          "start": 3,
+          "username": "t_tuelhinhos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c8147eCwM2",
+          "end": 70,
+          "expanded_url": "https://x.com/t_tuelhinhos/status/2105764695621960110/video/1",
+          "media_key": "13_2105675696739606529",
+          "start": 47,
+          "url": "https://t.co/c8147eCwM2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105944803146084792",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "13_2105675696739606529"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 500
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105764695621960110",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @t_tuelhinhos: Que bela sinfonia, coelhinho https://t.co/c8147eCwM2"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 76463,
+        "height": 1280,
+        "media_key": "13_2105675696739606529",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105675696739606529/img/76xifMo2UCyI3zLY.jpg",
+        "public_metrics": {
+          "view_count": 16118
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105675696739606529/vid/avc1/320x568/DJcNlMNif4sRqD3k.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105675696739606529/vid/avc1/480x852/uu3okACnYZzaPFn4.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105675696739606529/vid/avc1/720x1280/8CNPduf4mNpFP5b9.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105675696739606529/pl/CezdZfJJaj85Sx2T.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105675696739606529"
+          ],
+          "media_source_tweet_id": [
+            "2105764695621960110"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "conversation_id": "2105944803146084792",
+        "created_at": "2026-10-02T08:55:42.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T09:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105944803146084792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1562677302143565824",
+              "start": 3,
+              "username": "t_tuelhinhos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c8147eCwM2",
+              "end": 70,
+              "expanded_url": "https://x.com/t_tuelhinhos/status/2105764695621960110/video/1",
+              "media_key": "13_2105675696739606529",
+              "start": 47,
+              "url": "https://t.co/c8147eCwM2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105944803146084792",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2105675696739606529"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 500
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105764695621960110",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @t_tuelhinhos: Que bela sinfonia, coelhinho https://t.co/c8147eCwM2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105675696739606529"
+          ]
+        },
+        "author_id": "1562677302143565824",
+        "conversation_id": "2105764695621960110",
+        "created_at": "2026-10-01T21:00:01.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T22:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105764695621960110"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c8147eCwM2",
+              "end": 52,
+              "expanded_url": "https://x.com/t_tuelhinhos/status/2105764695621960110/video/1",
+              "media_key": "13_2105675696739606529",
+              "start": 29,
+              "url": "https://t.co/c8147eCwM2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105764695621960110",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2105675696739606529"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 503,
+          "impression_count": 46694,
+          "like_count": 2644,
+          "quote_count": 49,
+          "reply_count": 3,
+          "retweet_count": 500
+        },
+        "reply_settings": "everyone",
+        "text": "Que bela sinfonia, coelhinho https://t.co/c8147eCwM2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2105944803146084792",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 528,
+          "like_count": 21551,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1186
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-25T05:44:49.000Z",
+        "description": "Está é uma pagina de compilação e coleção de conteúdos sobre coelho, vale ressaltar que não sou dono de nenhum dos conteúdos postados!",
+        "id": "1562677302143565824",
+        "is_identity_verified": false,
+        "location": "Aos pés da Yggdrasil",
+        "most_recent_tweet_id": "2105764695621960110",
+        "name": "Tuelhinhos 🐇",
+        "pinned_tweet_id": "2033647891131076800",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1562677302143565824/1740805888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970638790797488128/qiNeFgLh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6390,
+          "following_count": 74,
+          "like_count": 60435,
+          "listed_count": 28,
+          "media_count": 5941,
+          "tweet_count": 20225
+        },
+        "url": "",
+        "username": "t_tuelhinhos",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

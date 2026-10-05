@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2106072688708243496",
+    "created_at": "2026-10-03T05:14:20.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T06:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106251483893444622"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2104090587788148736",
+          "start": 0,
+          "username": "congyutopl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106251483893444622",
+    "in_reply_to_user_id": "2104090587788148736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106239758343217227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@congyutopl 么么😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2106072688708243496",
+        "created_at": "2026-10-03T05:14:20.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T06:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106251483893444622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2104090587788148736",
+              "start": 0,
+              "username": "congyutopl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106251483893444622",
+        "in_reply_to_user_id": "2104090587788148736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106239758343217227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@congyutopl 么么😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2104090587788148736",
+        "conversation_id": "2106072688708243496",
+        "created_at": "2026-10-03T04:27:45.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T05:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106239758343217227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106239758343217227",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106072688708243496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 我喜欢你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2106251483893444622",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2106072688708243496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 537,
+          "like_count": 22308,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1241
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-27T06:08:52.000Z",
+        "description": "柚子厨蒸鹅心",
+        "id": "2104090587788148736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106244090241458202",
+        "name": "丛雨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2104090587788148736/1790494690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105709709236088832/rp8jpEIp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 49,
+          "like_count": 90,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 25
+        },
+        "url": "",
+        "username": "congyutopl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2106076283243569212",
+    "created_at": "2026-10-03T05:50:32.000Z",
+    "display_text_range": [
+      11,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T06:50:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106260595024748546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2094487614992814080",
+          "start": 0,
+          "username": "painun1is"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106260595024748546",
+    "in_reply_to_user_id": "2094487614992814080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106259549900739000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@painun1is 闻起来是甜的但是我舔过发现完全没味道，好遗憾（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2106076283243569212",
+        "created_at": "2026-10-03T05:50:32.000Z",
+        "display_text_range": [
+          11,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T06:50:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106260595024748546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2094487614992814080",
+              "start": 0,
+              "username": "painun1is"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106260595024748546",
+        "in_reply_to_user_id": "2094487614992814080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106259549900739000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@painun1is 闻起来是甜的但是我舔过发现完全没味道，好遗憾（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094487614992814080",
+        "conversation_id": "2106076283243569212",
+        "created_at": "2026-10-03T05:46:23.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T06:46:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106259549900739000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106259549900739000",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106076283243569212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 亲嘴是不是甜甜的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2106260595024748546",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2106072688708243496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 538,
+          "like_count": 22394,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 1248
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-31T18:09:51.000Z",
+        "description": "這裡是五代目愈美戰士 🇹🇼\n=https://t.co/yFPnuPHegY 匿名提問:https://t.co/GfYJD8oxsN｜長髮男｜非友跨｜反中共｜手殘bass手|11號手術刀重度依賴|座右铭|我想要让所有oder获得爱!!(歡迎互fo）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "PAlt.me/king_pppai",
+                "end": 38,
+                "expanded_url": "http://PAlt.me/king_pppai",
+                "start": 15,
+                "url": "https://t.co/yFPnuPHegY"
+              },
+              {
+                "display_url": "ngl.link/pai30558",
+                "end": 67,
+                "expanded_url": "http://ngl.link/pai30558",
+                "start": 44,
+                "url": "https://t.co/GfYJD8oxsN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/king_pppai",
+                "end": 23,
+                "expanded_url": "http://t.me/king_pppai",
+                "start": 0,
+                "url": "https://t.co/nbbu7eiekx"
+              }
+            ]
+          }
+        },
+        "id": "2094487614992814080",
+        "is_identity_verified": false,
+        "location": "藥國",
+        "most_recent_tweet_id": "2106259549900739000",
+        "name": "愈美戰士 5.0(吸毒版）",
+        "pinned_tweet_id": "2102565422168224153",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094487614992814080/1788199867",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094487922905116672/jcFm84nz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 80,
+          "like_count": 96,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 174
+        },
+        "url": "https://t.co/nbbu7eiekx",
+        "username": "painun1is",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

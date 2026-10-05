@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2105926744083755038",
+    "created_at": "2026-10-02T07:43:56.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T08:43:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105926744083755038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1076746882494263297",
+          "start": 3,
+          "username": "jiejinghua"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105926744083755038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105925105679512041",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiejinghua: 今天拉屎低头一看，妈的，黄色的。\n\n我当场吓得裤子都没提。\n\n黄？？\n\n这他妈不是日本天皇的菊花纹章那个色吗？？？\n\n我一个爱国青年能拉这种屎？\n\n我越想越气，蹲坑上狠狠干了自己屁股两巴掌，怒斥肠道政治立场不坚定。\n\n结果痔疮被我扇破了，血顺着屎…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2105926744083755038",
+        "created_at": "2026-10-02T07:43:56.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T08:43:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105926744083755038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1076746882494263297",
+              "start": 3,
+              "username": "jiejinghua"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105926744083755038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105925105679512041",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiejinghua: 今天拉屎低头一看，妈的，黄色的。\n\n我当场吓得裤子都没提。\n\n黄？？\n\n这他妈不是日本天皇的菊花纹章那个色吗？？？\n\n我一个爱国青年能拉这种屎？\n\n我越想越气，蹲坑上狠狠干了自己屁股两巴掌，怒斥肠道政治立场不坚定。\n\n结果痔疮被我扇破了，血顺着屎…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1076746882494263297",
+        "conversation_id": "2105925105679512041",
+        "created_at": "2026-10-02T07:37:26.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T08:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105925105679512041"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105925105679512041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天拉屎低头一看，妈的，黄色的。\n\n我当场吓得裤子都没提。\n\n黄？？\n\n这他妈不是日本天皇的菊花纹章那个色吗？？？\n\n我一个爱国青年能拉这种屎？\n\n我越想越气，蹲坑上狠狠干了自己屁股两巴掌，怒斥肠道政治立场不坚定。\n\n结果痔疮被我扇破了，血顺着屎流下来，黄的当场染成红的。\n\n我一看舒服多了。\n\n但还是感觉少点什么。\n\n想了半天突然明白了：五星呢？\n\n于是我抓了五粒玉米塞屎上。\n\n一大四小，排列整齐。\n\n我站起来对着马桶敬了个礼，然后按下冲水。\n\n看着它缓缓旋转离去，我眼含热泪：\n\n这下拉的不是屎了。\n\n是赤子之心。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天拉屎低头一看，妈的，黄色的。\n\n我当场吓得裤子都没提。\n\n黄？？\n\n这他妈不是日本天皇的菊花纹章那个色吗？？？\n\n我一个爱国青年能拉这种屎？\n\n我越想越气，蹲坑上狠狠干了自己屁股两巴掌，怒斥肠道政治立场不坚定。\n\n结果痔疮被我扇破了，血顺着屎流下来，黄的当场染成红的。\n\n我一看舒服多了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2105926744083755038",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 527,
+          "like_count": 21488,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1180
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-23T07:50:36.000Z",
+        "description": "欢迎互fo，小众亚文化论坛，科普与论坛一体，支持药物旅程可视化工具。端到端加密。请勿滥用药物。免费提供用药科普请DM。交朋友私信，关注结晶化谢谢喵\n\n长期寻找广告合作有意私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "crystallize.club",
+                "end": 23,
+                "expanded_url": "https://www.crystallize.club",
+                "start": 0,
+                "url": "https://t.co/VMFYr9skMB"
+              }
+            ]
+          }
+        },
+        "id": "1076746882494263297",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105925105679512041",
+        "name": "结晶化 - 亚文化论坛",
+        "pinned_tweet_id": "2098619586694316423",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1076746882494263297/1786694370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087952398765711361/6XBstVGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 574,
+          "following_count": 223,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 335
+        },
+        "url": "https://t.co/VMFYr9skMB",
+        "username": "jiejinghua",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2100190974584434803",
+    "created_at": "2026-09-17T00:41:05.000Z",
+    "display_text_range": [
+      17,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T01:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100384511028601048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1871543886801424384",
+          "start": 0,
+          "username": "fsnuoVd7as36268"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100384511028601048",
+    "in_reply_to_user_id": "1871543886801424384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100255738476298721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fsnuoVd7as36268 但是很多药都买不到了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2100190974584434803",
+        "created_at": "2026-09-17T00:41:05.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T01:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100384511028601048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1871543886801424384",
+              "start": 0,
+              "username": "fsnuoVd7as36268"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100384511028601048",
+        "in_reply_to_user_id": "1871543886801424384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100255738476298721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fsnuoVd7as36268 但是很多药都买不到了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1871543886801424384",
+        "conversation_id": "2100190974584434803",
+        "created_at": "2026-09-16T16:09:23.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T17:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100255738476298721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100255738476298721",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100190974584434803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 现在还有其他药o啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2100384511028601048",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2099805973401514084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 474,
+          "following_count": 496,
+          "like_count": 13235,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 882
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-24T13:10:28.000Z",
+        "description": "😇魔法解离商店😇 出售解离剂、兴奋剂、致幻剂 、阿片以及RC https://t.co/HbX9NSqkco 来我们的小群看",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/medsforushop",
+                "end": 54,
+                "expanded_url": "https://t.me/medsforushop",
+                "start": 31,
+                "url": "https://t.co/HbX9NSqkco"
+              }
+            ]
+          }
+        },
+        "id": "1871543886801424384",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100332131000168579",
+        "name": "樂",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100305881233776640/R7w7VEaG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 49,
+          "like_count": 56,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 157
+        },
+        "url": "",
+        "username": "fsnuoVd7as36268",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

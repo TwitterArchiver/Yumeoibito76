@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2099168526364037323",
+    "created_at": "2026-09-13T16:09:12.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T17:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099168526364037323"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 88,
+          "start": 80,
+          "tag": "shedtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2092351522868977664",
+          "start": 3,
+          "username": "tcfzyjbs"
+        },
+        {
+          "end": 34,
+          "id": "2097775808018616320",
+          "start": 22,
+          "username": "tcfzyjbs123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099168526364037323",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099076833878913367",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tcfzyjbs: 我是小时 另一个@tcfzyjbs123\n生理女心理女性向女\n负能/自残/od/ed/废话\n我喜欢女孩子\n求转麻烦了!互fo大欢迎\n#shedtwt\n\n本内容均为特效化妆模拟，参照医学教学案例设计，AI辅助增强清晰度，无任何真实伤情，纯学术用途。图片…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2099076553028378624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFrAOuboAANiti.jpg",
+        "width": 2730
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2099076654236901376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFrGHwbIAA4A8Y.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2099076762403803136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSFrMatbEAAGhz6.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2099168526364037323",
+        "created_at": "2026-09-13T16:09:12.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T17:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099168526364037323"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 80,
+              "tag": "shedtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2092351522868977664",
+              "start": 3,
+              "username": "tcfzyjbs"
+            },
+            {
+              "end": 34,
+              "id": "2097775808018616320",
+              "start": 22,
+              "username": "tcfzyjbs123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099168526364037323",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099076833878913367",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tcfzyjbs: 我是小时 另一个@tcfzyjbs123\n生理女心理女性向女\n负能/自残/od/ed/废话\n我喜欢女孩子\n求转麻烦了!互fo大欢迎\n#shedtwt\n\n本内容均为特效化妆模拟，参照医学教学案例设计，AI辅助增强清晰度，无任何真实伤情，纯学术用途。图片…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099076553028378624",
+            "3_2099076654236901376",
+            "3_2099076762403803136"
+          ]
+        },
+        "author_id": "2092351522868977664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2099076833878913367",
+        "created_at": "2026-09-13T10:04:50.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T11:04:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099076833878913367"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 74,
+              "start": 66,
+              "tag": "shedtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 20,
+              "id": "2097775808018616320",
+              "start": 8,
+              "username": "tcfzyjbs123"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KBMEFMQmGE",
+              "end": 177,
+              "expanded_url": "https://x.com/tcfzyjbs/status/2099076833878913367/photo/1",
+              "media_key": "3_2099076553028378624",
+              "start": 154,
+              "url": "https://t.co/KBMEFMQmGE"
+            },
+            {
+              "display_url": "pic.x.com/KBMEFMQmGE",
+              "end": 177,
+              "expanded_url": "https://x.com/tcfzyjbs/status/2099076833878913367/photo/1",
+              "media_key": "3_2099076654236901376",
+              "start": 154,
+              "url": "https://t.co/KBMEFMQmGE"
+            },
+            {
+              "display_url": "pic.x.com/KBMEFMQmGE",
+              "end": 177,
+              "expanded_url": "https://x.com/tcfzyjbs/status/2099076833878913367/photo/1",
+              "media_key": "3_2099076762403803136",
+              "start": 154,
+              "url": "https://t.co/KBMEFMQmGE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099076833878913367",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099076553028378624"
+          },
+          {
+            "media_key": "3_2099076654236901376"
+          },
+          {
+            "media_key": "3_2099076762403803136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 190,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我是小时 另一个@tcfzyjbs123\n生理女心理女性向女\n负能/自残/od/ed/废话\n我喜欢女孩子\n求转麻烦了!互fo大欢迎\n#shedtwt\n\n本内容均为特效化妆模拟，参照医学教学案例设计，AI辅助增强清晰度，无任何真实伤情，纯学术用途。图片均为AI辅助特效化妆模拟，没有人受伤。假的，假的，假的。 https://t.co/KBMEFMQmGE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\nQQ群1124326151随便进\n微信🚪纯绿30只收身心男的 ，女孩子不用，上次我住院时帮过我的不用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2099168526364037323",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 466,
+          "like_count": 11507,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 816
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-25T20:42:42.000Z",
+        "description": "可以叫我小时 ‖ 备用@tcfzyjbs123\n前世@kldyj66\n还有一个号去年七月炸掉了我忘了是哪个了\n生理女心理女取向女\nBPD/C-PTSD/MDD\n主页有自残/od/负能相关\n#shedtwt ‖ 想和同类玩 我会直关 介意请讲🤲",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 102,
+                "start": 94,
+                "tag": "shedtwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "tcfzyjbs123"
+              },
+              {
+                "end": 34,
+                "start": 26,
+                "username": "kldyj66"
+              }
+            ]
+          }
+        },
+        "id": "2092351522868977664",
+        "is_identity_verified": false,
+        "location": "餐券女温暖的肌肉层",
+        "most_recent_tweet_id": "2099168538032541842",
+        "name": "天才廢宅一擊必殺",
+        "pinned_tweet_id": "2099076833878913367",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092351522868977664/1787939246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095289801759166464/sXLKykaD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 85,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 361
+        },
+        "url": "",
+        "username": "tcfzyjbs",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-09T19:56:22.000Z",
+        "description": "我是小时。",
+        "id": "2097775808018616320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098802727614857364",
+        "name": "tcfzyjbs",
+        "pinned_tweet_id": "2097987749219615140",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097777068675338240/MTuAuGnv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 9,
+          "like_count": 37,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "tcfzyjbs123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

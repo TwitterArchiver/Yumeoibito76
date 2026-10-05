@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1804315821776187392"
+      ],
+      "media_source_tweet_id": [
+        "1804315897164701987"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2105192946664718621",
+    "created_at": "2026-09-30T07:08:05.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T08:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105192946664718621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1381059886054662154",
+          "start": 3,
+          "username": "FForoli"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aEWESk8kAT",
+          "end": 52,
+          "expanded_url": "https://x.com/shatoorcom/status/1804315897164701987/video/1",
+          "media_key": "13_1804315821776187392",
+          "start": 29,
+          "url": "https://t.co/aEWESk8kAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105192946664718621",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "13_1804315821776187392"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 70
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105145818840007160",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FForoli: 심장 이식하러 가는길.... https://t.co/aEWESk8kAT"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10831,
+        "height": 1280,
+        "media_key": "13_1804315821776187392",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1804315821776187392/img/hgt4BPq8XAKcmnrg.jpg",
+        "public_metrics": {
+          "view_count": 190936
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1804315821776187392/vid/avc1/320x568/aohQhfwRSEc5Lef4.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1804315821776187392/vid/avc1/480x852/BBOGS4w1bR-v4hjK.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1804315821776187392/vid/avc1/720x1280/DCPvki35K1W83Tin.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1804315821776187392/pl/5NdXVUgaqCBQyoj0.m3u8?tag=16&v=ac5"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1804315821776187392"
+          ],
+          "media_source_tweet_id": [
+            "1804315897164701987"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2105192946664718621",
+        "created_at": "2026-09-30T07:08:05.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T08:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105192946664718621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1381059886054662154",
+              "start": 3,
+              "username": "FForoli"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aEWESk8kAT",
+              "end": 52,
+              "expanded_url": "https://x.com/shatoorcom/status/1804315897164701987/video/1",
+              "media_key": "13_1804315821776187392",
+              "start": 29,
+              "url": "https://t.co/aEWESk8kAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105192946664718621",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_1804315821776187392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105145818840007160",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FForoli: 심장 이식하러 가는길.... https://t.co/aEWESk8kAT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1804315821776187392"
+          ],
+          "media_source_tweet_id": [
+            "1804315897164701987"
+          ]
+        },
+        "author_id": "1381059886054662154",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2105145818840007160",
+        "created_at": "2026-09-30T04:00:49.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T05:00:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105145818840007160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aEWESk8kAT",
+              "end": 39,
+              "expanded_url": "https://x.com/shatoorcom/status/1804315897164701987/video/1",
+              "media_key": "13_1804315821776187392",
+              "start": 16,
+              "url": "https://t.co/aEWESk8kAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105145818840007160",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_1804315821776187392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 163,
+          "impression_count": 122126,
+          "like_count": 681,
+          "quote_count": 8,
+          "reply_count": 8,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "심장 이식하러 가는길.... https://t.co/aEWESk8kAT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1804315821776187392"
+          ]
+        },
+        "author_id": "251792849",
+        "conversation_id": "1804315897164701987",
+        "created_at": "2024-06-22T00:50:07.000Z",
+        "display_text_range": [
+          0,
+          189
+        ],
+        "edit_controls": {
+          "editable_until": "2024-06-22T01:50:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1804315897164701987"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 0,
+              "tag": "بوح_اخر_الليل"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DJ8gsl5J0G",
+              "end": 213,
+              "expanded_url": "https://x.com/shatoorcom/status/1804315897164701987/video/1",
+              "media_key": "13_1804315821776187392",
+              "start": 190,
+              "url": "https://t.co/DJ8gsl5J0G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1804315897164701987",
+        "lang": "ar",
+        "media_metadata": [
+          {
+            "media_key": "13_1804315821776187392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 300636,
+          "like_count": 533,
+          "quote_count": 7,
+          "reply_count": 169,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "#بوح_اخر_الليل\n\nنشر طبيب المقطع التالي\nوعنونه بعبارة :\n \n          ( قلب جاهز للزراعة )\n\nاقشعر جلدي \nوأنا أتساءل باستغراب :\n\nكل هذه الضجة في صدري ،\nولا أشْعُر .. ؟!\n\n* لا إله إلا الله ☝️\n.. https://t.co/DJ8gsl5J0G"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2105192946664718621",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 508,
+          "like_count": 20567,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1108
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-11T01:42:00.000Z",
+        "description": "매일 1가지 충격 의학·건강·과학 지식 | 미국·한국·일본 탐구 / ⚠️교육 콘텐츠일 뿐입니다. 의학적 조언이 아닙니다.",
+        "id": "1381059886054662154",
+        "is_identity_verified": false,
+        "location": "Republic of Korea",
+        "most_recent_tweet_id": "2105191609566683240",
+        "name": "매일탐구",
+        "pinned_tweet_id": "2104906418281472209",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1381059886054662154/1772815393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029961001580515329/gDDPgldi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1699,
+          "following_count": 1983,
+          "like_count": 18138,
+          "listed_count": 5,
+          "media_count": 2048,
+          "tweet_count": 9513
+        },
+        "url": "",
+        "username": "FForoli",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

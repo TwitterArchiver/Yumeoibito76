@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2102388149154406677",
+    "created_at": "2026-09-22T13:22:49.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T14:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102388149154406677"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2027535879682854912",
+          "start": 3,
+          "username": "life1564847"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102388149154406677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102275448444997783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @life1564847: 我讨厌说话很大声像吼叫一样，讨厌声音尖锐还要在那里鬼叫。妈的滚啊，我他妈想杀人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2102388149154406677",
+        "created_at": "2026-09-22T13:22:49.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T14:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102388149154406677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2027535879682854912",
+              "start": 3,
+              "username": "life1564847"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102388149154406677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102275448444997783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @life1564847: 我讨厌说话很大声像吼叫一样，讨厌声音尖锐还要在那里鬼叫。妈的滚啊，我他妈想杀人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027535879682854912",
+        "conversation_id": "2102275448444997783",
+        "created_at": "2026-09-22T05:54:59.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T06:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102275448444997783"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102275448444997783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1334,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌说话很大声像吼叫一样，讨厌声音尖锐还要在那里鬼叫。妈的滚啊，我他妈想杀人。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2102388149154406677",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2099805973401514084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 483,
+          "like_count": 16599,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 971
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-28T00:06:52.000Z",
+        "description": "不约不谈不聊h，最近很少上。",
+        "id": "2027535879682854912",
+        "is_identity_verified": false,
+        "location": "天堂",
+        "most_recent_tweet_id": "2102339460121661855",
+        "name": "life",
+        "pinned_tweet_id": "2093335692801683577",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 97,
+          "like_count": 8626,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 1163
+        },
+        "url": "",
+        "username": "life1564847",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

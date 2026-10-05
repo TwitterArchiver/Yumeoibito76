@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2106668690628661575",
+    "created_at": "2026-10-04T11:53:03.000Z",
+    "display_text_range": [
+      16,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T12:53:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106714212676612402"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2093023396313669632",
+          "start": 0,
+          "username": "yuan123456789c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106714212676612402",
+    "in_reply_to_user_id": "2093023396313669632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106714067075486139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuan123456789c 我忘记带了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2106668690628661575",
+        "created_at": "2026-10-04T11:53:03.000Z",
+        "display_text_range": [
+          16,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T12:53:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106714212676612402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2093023396313669632",
+              "start": 0,
+              "username": "yuan123456789c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106714212676612402",
+        "in_reply_to_user_id": "2093023396313669632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106714067075486139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuan123456789c 我忘记带了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093023396313669632",
+        "conversation_id": "2106668690628661575",
+        "created_at": "2026-10-04T11:52:29.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T12:52:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106714067075486139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106714067075486139",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106668690628661575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 该抽抽。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2106714212676612402",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2106072688708243496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 562,
+          "following_count": 555,
+          "like_count": 23639,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 1332
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-08-27T17:12:22.000Z",
+        "description": "时左时右，坚持每天发100条推文。信奉社会达尔文理论。",
+        "id": "2093023396313669632",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106714142241689837",
+        "name": "仙尊说事",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093023396313669632/1790696340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104958919881977857/n_tiz-Ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 279,
+          "like_count": 1926,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 224
+        },
+        "url": "",
+        "username": "yuan123456789c",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

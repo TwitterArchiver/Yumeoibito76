@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2106263259766718688",
+    "created_at": "2026-10-03T06:01:08.000Z",
+    "display_text_range": [
+      0,
+      126
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T07:01:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106263259766718688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1811393690008756225",
+          "start": 3,
+          "username": "_korekuni_ryuji"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106263259766718688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106224871135150358",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_korekuni_ryuji: 我一想到某些人安慰我只会动动嘴皮子说:啊，世界还是很美好的/未来会更好的/你别那么悲观嘛/你太极端了吧。\n说的帮助我，结果就是放鸽子，画大饼。给我一点点希望然后再一脚给我踹进沟里。\n我的痛苦让你们觉得很好笑吗?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2106263259766718688",
+        "created_at": "2026-10-03T06:01:08.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T07:01:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106263259766718688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1811393690008756225",
+              "start": 3,
+              "username": "_korekuni_ryuji"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106263259766718688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106224871135150358",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_korekuni_ryuji: 我一想到某些人安慰我只会动动嘴皮子说:啊，世界还是很美好的/未来会更好的/你别那么悲观嘛/你太极端了吧。\n说的帮助我，结果就是放鸽子，画大饼。给我一点点希望然后再一脚给我踹进沟里。\n我的痛苦让你们觉得很好笑吗?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1811393690008756225",
+        "conversation_id": "2106224871135150358",
+        "created_at": "2026-10-03T03:28:35.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T04:28:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106224871135150358"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106224871135150358",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我一想到某些人安慰我只会动动嘴皮子说:啊，世界还是很美好的/未来会更好的/你别那么悲观嘛/你太极端了吧。\n说的帮助我，结果就是放鸽子，画大饼。给我一点点希望然后再一脚给我踹进沟里。\n我的痛苦让你们觉得很好笑吗?"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2106263259766718688",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2106072688708243496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 538,
+          "like_count": 22444,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 1250
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T13:34:50.000Z",
+        "description": "我是物语\n前世:@Mikatsuki_iryu\n地雷系/重力系/病娇全肯定bot\n我没素质，想骚扰我🚪68",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "Mikatsuki_iryu"
+              }
+            ]
+          }
+        },
+        "id": "1811393690008756225",
+        "is_identity_verified": false,
+        "location": "Kasukabe-shi, Saitama",
+        "most_recent_tweet_id": "2106252803467628738",
+        "name": "♪物語炸薯條♪🐈‍⬛",
+        "pinned_tweet_id": "2105995622876881388",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811393690008756225/1763210288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106002437526196224/QN65Q_T4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 95,
+          "like_count": 863,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 704
+        },
+        "url": "",
+        "username": "_korekuni_ryuji",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

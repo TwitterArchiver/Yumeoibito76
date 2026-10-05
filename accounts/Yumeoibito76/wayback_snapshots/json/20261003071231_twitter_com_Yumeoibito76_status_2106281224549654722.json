@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106281209798275072"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "conversation_id": "2106281224549654722",
+    "created_at": "2026-10-03T07:12:31.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T08:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106281224549654722"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tQkKPFGjIG",
+          "end": 159,
+          "expanded_url": "https://x.com/Yumeoibito76/status/2106281224549654722/photo/1",
+          "media_key": "3_2106281209798275072",
+          "start": 136,
+          "url": "https://t.co/tQkKPFGjIG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106281224549654722",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106281209798275072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得这不矛盾吧？两个人并没有跟我发生过争吵，对我都很友善啊，我没必要为了某一方的立场来站队，不管怎么站队都会伤害到其中一个女孩，而且我觉得模仿是因为很喜欢吧，我在兔兔的评论区也会用那种萌萌的语气来回复，实在是不想再看到有人吵架互相伤害了，两个女孩都很好，我都喜欢你们啊 https://t.co/tQkKPFGjIG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2412,
+        "media_key": "3_2106281209798275072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsDmcsbMAAwmno.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106281209798275072"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "conversation_id": "2106281224549654722",
+        "created_at": "2026-10-03T07:12:31.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T08:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106281224549654722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tQkKPFGjIG",
+              "end": 159,
+              "expanded_url": "https://x.com/Yumeoibito76/status/2106281224549654722/photo/1",
+              "media_key": "3_2106281209798275072",
+              "start": 136,
+              "url": "https://t.co/tQkKPFGjIG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106281224549654722",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106281209798275072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得这不矛盾吧？两个人并没有跟我发生过争吵，对我都很友善啊，我没必要为了某一方的立场来站队，不管怎么站队都会伤害到其中一个女孩，而且我觉得模仿是因为很喜欢吧，我在兔兔的评论区也会用那种萌萌的语气来回复，实在是不想再看到有人吵架互相伤害了，两个女孩都很好，我都喜欢你们啊 https://t.co/tQkKPFGjIG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2106281224549654722",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2106072688708243496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 543,
+          "following_count": 538,
+          "like_count": 22639,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 1257
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2099148706763387013",
+    "created_at": "2026-09-14T11:41:42.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T12:41:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099463598884184480"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1807360942172188672",
+          "start": 0,
+          "username": "bdo11814062"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099463598884184480",
+    "in_reply_to_user_id": "1807360942172188672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099460766646820917",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bdo11814062 中药太苦我从来不吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2099148706763387013",
+        "created_at": "2026-09-14T11:41:42.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T12:41:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099463598884184480"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1807360942172188672",
+              "start": 0,
+              "username": "bdo11814062"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099463598884184480",
+        "in_reply_to_user_id": "1807360942172188672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099460766646820917",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bdo11814062 中药太苦我从来不吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1807360942172188672",
+        "conversation_id": "2099148706763387013",
+        "created_at": "2026-09-14T11:30:27.000Z",
+        "display_text_range": [
+          14,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T12:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099460766646820917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099460766646820917",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099148706763387013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 不要吃中药，中药没有科学依据的。而且吃了对肾脏有极大的影响。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\nQQ群1124326151随便进\n微信🚪纯绿30只收身心男的 ，女孩子不用，上次我住院时帮过我的不用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2099463598884184480",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 479,
+          "like_count": 12065,
+          "listed_count": 0,
+          "media_count": 127,
+          "tweet_count": 842
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-30T10:30:28.000Z",
+        "description": "14岁的工人和18岁的战士",
+        "id": "1807360942172188672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099460766646820917",
+        "name": "毕导",
+        "pinned_tweet_id": "2086689275249295670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807360942172188672/1787455853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021650946875699206/xuOceqbf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 212,
+          "like_count": 660,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 183
+        },
+        "url": "",
+        "username": "bdo11814062",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

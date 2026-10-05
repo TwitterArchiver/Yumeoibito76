@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104569255664746496",
+        "3_2104569255639580672"
+      ],
+      "media_source_tweet_id": [
+        "2104569262186869055",
+        "2104569262186869055"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2104895142318780494",
+    "created_at": "2026-09-29T11:24:43.000Z",
+    "display_text_range": [
+      0,
+      77
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T12:24:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104895142318780494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2002332057599688704",
+          "start": 3,
+          "username": "mmmmhyb_sab"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FQfxjShfZN",
+          "end": 77,
+          "expanded_url": "https://x.com/mmmmhyb_sab/status/2104569262186869055/photo/1",
+          "media_key": "3_2104569255664746496",
+          "start": 54,
+          "url": "https://t.co/FQfxjShfZN"
+        },
+        {
+          "display_url": "pic.x.com/FQfxjShfZN",
+          "end": 77,
+          "expanded_url": "https://x.com/mmmmhyb_sab/status/2104569262186869055/photo/1",
+          "media_key": "3_2104569255639580672",
+          "start": 54,
+          "url": "https://t.co/FQfxjShfZN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104895142318780494",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2104569255664746496"
+      },
+      {
+        "media_key": "3_2104569255639580672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 28
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104569262186869055",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mmmmhyb_sab: ビーグルヤシより迷子獣の方の角を不揃いにするべきじゃないかなホヨバースよ https://t.co/FQfxjShfZN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1153,
+        "media_key": "3_2104569255664746496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTulmkbAAA9EZY.jpg",
+        "width": 1071
+      },
+      {
+        "height": 728,
+        "media_key": "3_2104569255639580672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTTulmebAAAfqBe.jpg",
+        "width": 727
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104569255664746496",
+            "3_2104569255639580672"
+          ],
+          "media_source_tweet_id": [
+            "2104569262186869055",
+            "2104569262186869055"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104895142318780494",
+        "created_at": "2026-09-29T11:24:43.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T12:24:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104895142318780494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2002332057599688704",
+              "start": 3,
+              "username": "mmmmhyb_sab"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FQfxjShfZN",
+              "end": 77,
+              "expanded_url": "https://x.com/mmmmhyb_sab/status/2104569262186869055/photo/1",
+              "media_key": "3_2104569255664746496",
+              "start": 54,
+              "url": "https://t.co/FQfxjShfZN"
+            },
+            {
+              "display_url": "pic.x.com/FQfxjShfZN",
+              "end": 77,
+              "expanded_url": "https://x.com/mmmmhyb_sab/status/2104569262186869055/photo/1",
+              "media_key": "3_2104569255639580672",
+              "start": 54,
+              "url": "https://t.co/FQfxjShfZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104895142318780494",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104569255664746496"
+          },
+          {
+            "media_key": "3_2104569255639580672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104569262186869055",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mmmmhyb_sab: ビーグルヤシより迷子獣の方の角を不揃いにするべきじゃないかなホヨバースよ https://t.co/FQfxjShfZN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104569255664746496",
+            "3_2104569255639580672"
+          ]
+        },
+        "author_id": "2002332057599688704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104569262186869055",
+        "created_at": "2026-09-28T13:49:47.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T14:49:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104569262186869055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FQfxjShfZN",
+              "end": 60,
+              "expanded_url": "https://x.com/mmmmhyb_sab/status/2104569262186869055/photo/1",
+              "media_key": "3_2104569255664746496",
+              "start": 37,
+              "url": "https://t.co/FQfxjShfZN"
+            },
+            {
+              "display_url": "pic.x.com/FQfxjShfZN",
+              "end": 60,
+              "expanded_url": "https://x.com/mmmmhyb_sab/status/2104569262186869055/photo/1",
+              "media_key": "3_2104569255639580672",
+              "start": 37,
+              "url": "https://t.co/FQfxjShfZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104569262186869055",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104569255664746496"
+          },
+          {
+            "media_key": "3_2104569255639580672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 15278,
+          "like_count": 519,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "ビーグルヤシより迷子獣の方の角を不揃いにするべきじゃないかなホヨバースよ https://t.co/FQfxjShfZN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2104895142318780494",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 506,
+          "like_count": 19990,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 1082
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-20T10:55:54.000Z",
+        "description": "⚠️めちゃくちゃ喋ります。相互以外通知off。⚠️( @mmmmhyb )のお友達と喋りたいサブ垢✌️載せる絵は落書き、進捗、他ジャンル等々。⚠️絵の無断転載、無断使用、AI学習、加工は禁止⚠️ icon➤(@Erubou_hyv )",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 27,
+                "username": "mmmmhyb"
+              },
+              {
+                "end": 115,
+                "start": 104,
+                "username": "Erubou_hyv"
+              }
+            ]
+          }
+        },
+        "id": "2002332057599688704",
+        "is_identity_verified": false,
+        "location": "逃げろ‼️カスラナ狂いだ‼️🧊✨🔆💫",
+        "most_recent_tweet_id": "2104891638674042893",
+        "name": "み、の さぶ",
+        "pinned_tweet_id": "2102375871151767712",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2002332057599688704/1789312656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100841548179181568/IQMaUcJJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 22,
+          "like_count": 261,
+          "listed_count": 4,
+          "media_count": 465,
+          "tweet_count": 3091
+        },
+        "url": "",
+        "username": "mmmmhyb_sab",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

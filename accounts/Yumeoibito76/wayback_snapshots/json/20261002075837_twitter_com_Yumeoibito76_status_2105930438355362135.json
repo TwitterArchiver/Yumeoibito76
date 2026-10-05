@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2105814695198470144"
+      ],
+      "media_source_tweet_id": [
+        "2105814713309528098"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2105930438355362135",
+    "created_at": "2026-10-02T07:58:37.000Z",
+    "display_text_range": [
+      0,
+      118
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T08:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105930438355362135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1495049906423156739",
+          "start": 3,
+          "username": "sAlxhDABL9RFOy6"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nx1WXPagSq",
+          "end": 118,
+          "expanded_url": "https://x.com/sAlxhDABL9RFOy6/status/2105814713309528098/video/1",
+          "media_key": "13_2105814695198470144",
+          "start": 95,
+          "url": "https://t.co/nx1WXPagSq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105930438355362135",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2105814695198470144"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 346
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105814713309528098",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sAlxhDABL9RFOy6: 🐰🌕おひさー🩷チョコ(*´ヮ`)ﾉだよー\n\nママがなんかお疲れ気味だから、癒してあげようと帰ってきたら逆に癒されて溶けちゃった(っ＞ڡ＜c)ﾃﾍ💕 https://t.co/nx1WXPagSq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4555,
+        "height": 1280,
+        "media_key": "13_2105814695198470144",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105814695198470144/img/As0bhb6YdWkl0Tqw.jpg",
+        "public_metrics": {
+          "view_count": 7611
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105814695198470144/vid/avc1/320x568/4EC3f-rZTTMh8mQe.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105814695198470144/vid/avc1/480x852/8onnQQeKx9NdW0rl.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105814695198470144/vid/avc1/720x1280/GfJ4HKbWC5-rAdAd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105814695198470144/pl/SF8cWiy1Jvzn7ti6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105814695198470144"
+          ],
+          "media_source_tweet_id": [
+            "2105814713309528098"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2105930438355362135",
+        "created_at": "2026-10-02T07:58:37.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T08:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105930438355362135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1495049906423156739",
+              "start": 3,
+              "username": "sAlxhDABL9RFOy6"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nx1WXPagSq",
+              "end": 118,
+              "expanded_url": "https://x.com/sAlxhDABL9RFOy6/status/2105814713309528098/video/1",
+              "media_key": "13_2105814695198470144",
+              "start": 95,
+              "url": "https://t.co/nx1WXPagSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105930438355362135",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2105814695198470144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 346
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105814713309528098",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sAlxhDABL9RFOy6: 🐰🌕おひさー🩷チョコ(*´ヮ`)ﾉだよー\n\nママがなんかお疲れ気味だから、癒してあげようと帰ってきたら逆に癒されて溶けちゃった(っ＞ڡ＜c)ﾃﾍ💕 https://t.co/nx1WXPagSq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105814695198470144"
+          ]
+        },
+        "author_id": "1495049906423156739",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2105814713309528098",
+        "created_at": "2026-10-02T00:18:46.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T01:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105814713309528098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nx1WXPagSq",
+              "end": 97,
+              "expanded_url": "https://x.com/sAlxhDABL9RFOy6/status/2105814713309528098/video/1",
+              "media_key": "13_2105814695198470144",
+              "start": 74,
+              "url": "https://t.co/nx1WXPagSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105814713309528098",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2105814695198470144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 331,
+          "impression_count": 29009,
+          "like_count": 2485,
+          "quote_count": 22,
+          "reply_count": 15,
+          "retweet_count": 346
+        },
+        "reply_settings": "everyone",
+        "text": "🐰🌕おひさー🩷チョコ(*´ヮ`)ﾉだよー\n\nママがなんかお疲れ気味だから、癒してあげようと帰ってきたら逆に癒されて溶けちゃった(っ＞ڡ＜c)ﾃﾍ💕 https://t.co/nx1WXPagSq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2105930438355362135",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 529,
+          "like_count": 21547,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1185
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-19T14:57:38.000Z",
+        "description": "🐰ホーランドロップの女子1🐰ホーランドロップの男の子1🐰ネザーランドドワーフ女の子1🐰ミニウサギ1🐶チワックスの女の子1🐶ヨークシャーテリアの女の子1 チョコ🌈嵐 中村倫也君 松下洸平君好き 無断転載❌ さと島プレミアム島民 THE SHOW会員 相葉雅紀ファンクラブ会員MJ's Membership",
+        "id": "1495049906423156739",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105928369871437842",
+        "name": "ゆかゴロウランド",
+        "pinned_tweet_id": "1799175537870643245",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495049906423156739/1645283370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1495050171037597697/91XnZDIg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4310,
+          "following_count": 1909,
+          "like_count": 434900,
+          "listed_count": 48,
+          "media_count": 5135,
+          "tweet_count": 176067
+        },
+        "url": "",
+        "username": "sAlxhDABL9RFOy6",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

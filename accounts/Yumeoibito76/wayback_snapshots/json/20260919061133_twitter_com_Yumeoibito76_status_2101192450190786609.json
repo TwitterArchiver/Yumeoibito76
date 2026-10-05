@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2100941852170154314",
+    "created_at": "2026-09-19T06:11:33.000Z",
+    "display_text_range": [
+      17,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T07:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101192450190786609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "840914144689762304",
+          "start": 0,
+          "username": "qn4VJK8Dwi3vk0Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101192450190786609",
+    "in_reply_to_user_id": "840914144689762304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101173632680788111",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qn4VJK8Dwi3vk0Q 磕破皮了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2100941852170154314",
+        "created_at": "2026-09-19T06:11:33.000Z",
+        "display_text_range": [
+          17,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T07:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101192450190786609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "840914144689762304",
+              "start": 0,
+              "username": "qn4VJK8Dwi3vk0Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101192450190786609",
+        "in_reply_to_user_id": "840914144689762304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101173632680788111",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qn4VJK8Dwi3vk0Q 磕破皮了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "840914144689762304",
+        "conversation_id": "2100941852170154314",
+        "created_at": "2026-09-19T04:56:46.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T05:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101173632680788111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101173632680788111",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100941852170154314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 磕到了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2101192450190786609",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2099805973401514084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 465,
+          "like_count": 14716,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 918
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-03-12T13:15:30.000Z",
+        "description": "台湾南方网友，来自重庆北路二段223号，驾驶一些爆流涡轮机",
+        "id": "840914144689762304",
+        "is_identity_verified": false,
+        "location": "Let's go by the Birthday train",
+        "most_recent_tweet_id": "2101173632680788111",
+        "name": "片石冷于冰，雨袖霜华旋欲凝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/840914144689762304/1776053498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051063512122920960/NeKTAcn4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 422,
+          "like_count": 3877,
+          "listed_count": 0,
+          "media_count": 2835,
+          "tweet_count": 2954
+        },
+        "url": "",
+        "username": "qn4VJK8Dwi3vk0Q",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

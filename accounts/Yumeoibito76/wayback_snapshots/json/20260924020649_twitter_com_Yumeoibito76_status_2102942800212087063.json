@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2102682027384607090",
+    "created_at": "2026-09-24T02:06:49.000Z",
+    "display_text_range": [
+      10,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T03:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102942800212087063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "894492565508149251",
+          "start": 0,
+          "username": "LightCro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102942800212087063",
+    "in_reply_to_user_id": "894492565508149251",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102682027384607090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LightCro 几乎每个装甲都有两个以上的皮肤导致的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1580,
+        "media_key": "3_2102682018161033216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS46J7AXAAABeot.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2102682027384607090",
+        "created_at": "2026-09-24T02:06:49.000Z",
+        "display_text_range": [
+          10,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T03:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102942800212087063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "894492565508149251",
+              "start": 0,
+              "username": "LightCro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102942800212087063",
+        "in_reply_to_user_id": "894492565508149251",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102682027384607090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LightCro 几乎每个装甲都有两个以上的皮肤导致的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102682018161033216"
+          ]
+        },
+        "author_id": "894492565508149251",
+        "conversation_id": "2102682027384607090",
+        "created_at": "2026-09-23T08:50:35.000Z",
+        "display_text_range": [
+          0,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T09:50:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102682027384607090"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SNEwEyEb2p",
+              "end": 54,
+              "expanded_url": "https://x.com/LightCro/status/2102682027384607090/photo/1",
+              "media_key": "3_2102682018161033216",
+              "start": 31,
+              "url": "https://t.co/SNEwEyEb2p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102682027384607090",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2102682018161033216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 334,
+          "impression_count": 74829,
+          "like_count": 4285,
+          "quote_count": 54,
+          "reply_count": 48,
+          "retweet_count": 182
+        },
+        "reply_settings": "everyone",
+        "text": "wtf is going on with hi3 skins https://t.co/SNEwEyEb2p"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2102942800212087063",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2099805973401514084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 483,
+          "like_count": 17261,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 986
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-08-07T09:37:01.000Z",
+        "description": "Gacha pilled 🕊️ | #multifandom",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 30,
+                "start": 18,
+                "tag": "multifandom"
+              }
+            ]
+          }
+        },
+        "id": "894492565508149251",
+        "is_identity_verified": false,
+        "location": "Crossbell",
+        "most_recent_tweet_id": "2102863277617487934",
+        "name": "Aeon ★ Reno",
+        "pinned_tweet_id": "2101275798535541030",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/894492565508149251/1780618987",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092961596821667840/n9m4datk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3668,
+          "following_count": 245,
+          "like_count": 36352,
+          "listed_count": 25,
+          "media_count": 2920,
+          "tweet_count": 26285
+        },
+        "url": "",
+        "username": "LightCro",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

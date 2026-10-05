@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2106254595240743059",
+    "created_at": "2026-10-03T05:33:21.000Z",
+    "display_text_range": [
+      11,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T06:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106256269019627936"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2102204360327671809",
+          "start": 0,
+          "username": "4nVi2ge7Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106256269019627936",
+    "in_reply_to_user_id": "2102204360327671809",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106254595240743059",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4nVi2ge7Y 兔兔和兔兔≡ω≡"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1211,
+        "media_key": "3_2106254585593786368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTrrYtza8AA2rrM.jpg",
+        "width": 1282
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2106254585564442624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTrrYtsbMAACJrv.jpg",
+        "width": 1840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2106254595240743059",
+        "created_at": "2026-10-03T05:33:21.000Z",
+        "display_text_range": [
+          11,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T06:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106256269019627936"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2102204360327671809",
+              "start": 0,
+              "username": "4nVi2ge7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106256269019627936",
+        "in_reply_to_user_id": "2102204360327671809",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106254595240743059",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4nVi2ge7Y 兔兔和兔兔≡ω≡"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106254585593786368",
+            "3_2106254585564442624"
+          ]
+        },
+        "author_id": "2102204360327671809",
+        "conversation_id": "2106254595240743059",
+        "created_at": "2026-10-03T05:26:42.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T06:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106254595240743059"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jvhcOBCse5",
+              "end": 125,
+              "expanded_url": "https://x.com/4nVi2ge7Y/status/2106254595240743059/photo/1",
+              "media_key": "3_2106254585593786368",
+              "start": 102,
+              "url": "https://t.co/jvhcOBCse5"
+            },
+            {
+              "display_url": "pic.x.com/jvhcOBCse5",
+              "end": 125,
+              "expanded_url": "https://x.com/4nVi2ge7Y/status/2106254595240743059/photo/1",
+              "media_key": "3_2106254585564442624",
+              "start": 102,
+              "url": "https://t.co/jvhcOBCse5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106254595240743059",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106254585593786368"
+          },
+          {
+            "media_key": "3_2106254585564442624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "...等我变得可以满足你，给出礼物交换你的喜欢的时候，你再对我说喜欢我，好不好呢？꒰⸝⸝› ‹⸝⸝꒱\n我现在就送你一个礼物哦...我画一个...画一个兔子送给你吧！\n请看第二张图，我很快地画了一只兔子哦 https://t.co/jvhcOBCse5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2106256269019627936",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2106072688708243496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 538,
+          "like_count": 22356,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1245
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-22T01:14:40.000Z",
+        "description": "愛，愛，愛",
+        "id": "2102204360327671809",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106254595240743059",
+        "name": "S3raph_1m9v",
+        "pinned_tweet_id": "2102583199788593529",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2102204360327671809/1790039808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102205066707156992/t_4XPOTa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 163,
+          "like_count": 2144,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 679
+        },
+        "url": "",
+        "username": "4nVi2ge7Y",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

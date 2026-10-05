@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2106409570726023168"
+      ],
+      "media_source_tweet_id": [
+        "2106409614015402163"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "conversation_id": "2106562206632677756",
+    "created_at": "2026-10-04T01:49:02.000Z",
+    "display_text_range": [
+      0,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T02:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106562206632677756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1883176732083257345",
+          "start": 3,
+          "username": "moca_usa_mofu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/QjqY3U4Dtr",
+          "end": 81,
+          "expanded_url": "https://x.com/moca_usa_mofu/status/2106409614015402163/video/1",
+          "media_key": "13_2106409570726023168",
+          "start": 58,
+          "url": "https://t.co/QjqY3U4Dtr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106562206632677756",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2106409570726023168"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 519
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106409614015402163",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @moca_usa_mofu: HE PUT HIS WHOLE BODY INTO THAT YAWN!! https://t.co/QjqY3U4Dtr"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2018,
+        "height": 2880,
+        "media_key": "13_2106409570726023168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106409570726023168/img/1GoEOcmXWgE6gRUB.jpg",
+        "public_metrics": {
+          "view_count": 7443
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106409570726023168/vid/avc1/480x640/BCo2GriEn8DzxKAu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106409570726023168/vid/avc1/720x960/wuJHah-taqDeFjTu.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106409570726023168/vid/avc1/320x426/Z4KlPcHQfxPw7gOG.mp4"
+          },
+          {
+            "bit_rate": 25128000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106409570726023168/vid/avc1/2160x2880/-H4F7L4P44ZWFiWu.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106409570726023168/vid/avc1/1080x1440/pXArHr4LUTccEPuO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106409570726023168/pl/SWkW60ZeotbDQV8j.m3u8"
+          }
+        ],
+        "width": 2160
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106409570726023168"
+          ],
+          "media_source_tweet_id": [
+            "2106409614015402163"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "conversation_id": "2106562206632677756",
+        "created_at": "2026-10-04T01:49:02.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T02:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106562206632677756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1883176732083257345",
+              "start": 3,
+              "username": "moca_usa_mofu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QjqY3U4Dtr",
+              "end": 81,
+              "expanded_url": "https://x.com/moca_usa_mofu/status/2106409614015402163/video/1",
+              "media_key": "13_2106409570726023168",
+              "start": 58,
+              "url": "https://t.co/QjqY3U4Dtr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106562206632677756",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2106409570726023168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 519
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106409614015402163",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @moca_usa_mofu: HE PUT HIS WHOLE BODY INTO THAT YAWN!! https://t.co/QjqY3U4Dtr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106409570726023168"
+          ]
+        },
+        "author_id": "1883176732083257345",
+        "conversation_id": "2106409614015402163",
+        "created_at": "2026-10-03T15:42:41.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T16:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106409614015402163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QjqY3U4Dtr",
+              "end": 62,
+              "expanded_url": "https://x.com/moca_usa_mofu/status/2106409614015402163/video/1",
+              "media_key": "13_2106409570726023168",
+              "start": 39,
+              "url": "https://t.co/QjqY3U4Dtr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106409614015402163",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2106409570726023168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 282,
+          "impression_count": 38957,
+          "like_count": 3506,
+          "quote_count": 22,
+          "reply_count": 8,
+          "retweet_count": 519
+        },
+        "reply_settings": "everyone",
+        "text": "HE PUT HIS WHOLE BODY INTO THAT YAWN!! https://t.co/QjqY3U4Dtr"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2106562206632677756",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2106072688708243496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 548,
+          "like_count": 23227,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 1303
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T15:35:09.000Z",
+        "description": "On hard days, just watch a bunny. 🐰\nSometimes, that's all you need.\n\nMoca ♂ | Netherland Dwarf\nBorn May 5, 2023 🎂\nBringing fluffy comfort to the world. 🌏",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/usaginomoca",
+                "end": 23,
+                "expanded_url": "https://lit.link/usaginomoca",
+                "start": 0,
+                "url": "https://t.co/CuqR1nY12t"
+              }
+            ]
+          }
+        },
+        "id": "1883176732083257345",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2106560083878707461",
+        "name": "うさぎのもか",
+        "pinned_tweet_id": "2088869961523667156",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1883176732083257345/1756512492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076428966890811392/O-hz2z7a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18972,
+          "following_count": 2673,
+          "like_count": 28722,
+          "listed_count": 137,
+          "media_count": 2914,
+          "tweet_count": 18359
+        },
+        "url": "https://t.co/CuqR1nY12t",
+        "username": "moca_usa_mofu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

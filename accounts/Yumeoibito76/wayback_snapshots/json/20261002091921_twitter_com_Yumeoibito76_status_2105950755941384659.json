@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2105939948079866130",
+    "created_at": "2026-10-02T09:19:21.000Z",
+    "display_text_range": [
+      10,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T10:19:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105950755941384659"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1824369572558016516",
+          "start": 0,
+          "username": "sama_ybp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105950755941384659",
+    "in_reply_to_user_id": "1824369572558016516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105939948079866130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sama_ybp 好像是v圈瓜条的一个梗？原型似乎是那个韩漫主角"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105939937141071872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTnNNw-aIAADb2-.jpg",
+        "width": 944
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2105939948079866130",
+        "created_at": "2026-10-02T09:19:21.000Z",
+        "display_text_range": [
+          10,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T10:19:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105950755941384659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1824369572558016516",
+              "start": 0,
+              "username": "sama_ybp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105950755941384659",
+        "in_reply_to_user_id": "1824369572558016516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105939948079866130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sama_ybp 好像是v圈瓜条的一个梗？原型似乎是那个韩漫主角"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105939937141071872"
+          ]
+        },
+        "author_id": "1824369572558016516",
+        "conversation_id": "2105939948079866130",
+        "created_at": "2026-10-02T08:36:24.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T09:36:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105939948079866130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FTQGYMImV1",
+              "end": 76,
+              "expanded_url": "https://x.com/sama_ybp/status/2105939948079866130/photo/1",
+              "media_key": "3_2105939937141071872",
+              "start": 53,
+              "url": "https://t.co/FTQGYMImV1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105939948079866130",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105939937141071872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 677,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "卧槽？！！\n这是什么表情？？？\n有没有懂的评价一下？？？\n😱😱😱😱😱\n这个女生怎么会变成这样\n😭😭😭😭😭 https://t.co/FTQGYMImV1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2105950755941384659",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 528,
+          "like_count": 21645,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1187
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-16T08:56:36.000Z",
+        "description": "🎓 08｜本科SWE在读\n社会观察·心理学·哲学·精神分析",
+        "id": "1824369572558016516",
+        "is_identity_verified": false,
+        "location": "0.1m",
+        "most_recent_tweet_id": "2105950647199928652",
+        "name": "Alice",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1824369572558016516/1781870848",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103866108075974656/vMXdZbjy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1523,
+          "following_count": 1238,
+          "like_count": 5362,
+          "listed_count": 1,
+          "media_count": 228,
+          "tweet_count": 3151
+        },
+        "url": "",
+        "username": "sama_ybp",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

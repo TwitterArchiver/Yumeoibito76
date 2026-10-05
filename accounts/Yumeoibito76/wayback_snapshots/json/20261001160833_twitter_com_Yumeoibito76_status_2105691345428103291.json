@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2105615263710490974",
+    "created_at": "2026-10-01T16:08:33.000Z",
+    "display_text_range": [
+      17,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T17:08:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105691345428103291"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1966987715590893568",
+          "start": 0,
+          "username": "xiwangyujuewang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105691345428103291",
+    "in_reply_to_user_id": "1966987715590893568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105615263710490974",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiwangyujuewang 我一直用的+86和QQ邮箱注册，不见证就不会发生什么事，顶多96110打几个电话过来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2105615263710490974",
+        "created_at": "2026-10-01T16:08:33.000Z",
+        "display_text_range": [
+          17,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T17:08:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105691345428103291"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1966987715590893568",
+              "start": 0,
+              "username": "xiwangyujuewang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105691345428103291",
+        "in_reply_to_user_id": "1966987715590893568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105615263710490974",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiwangyujuewang 我一直用的+86和QQ邮箱注册，不见证就不会发生什么事，顶多96110打几个电话过来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966987715590893568",
+        "conversation_id": "2105615263710490974",
+        "created_at": "2026-10-01T11:06:13.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T12:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105615263710490974"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105615263710490974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3436,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "用+86手机号注册推特会被晶吗🤔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2105691345428103291",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 515,
+          "like_count": 21007,
+          "listed_count": 0,
+          "media_count": 166,
+          "tweet_count": 1144
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-13T22:10:07.000Z",
+        "description": "低調退出鍵政圈……減肥ing。。。會把自己每天吃的食物發到推上\n左翼自由派/社會自由主義/反出生主義/ISTP/中抑重焦/中度睡眠障礙/苦逼的掛讀學生/百合騎士/互fo私信\n來世：@juewangyuxiwang 本帳號發布內容皆為紀錄生活 如引人不適請封鎖我謝謝 人身攻擊我的全家死光",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 90,
+                "username": "juewangyuxiwang"
+              }
+            ]
+          }
+        },
+        "id": "1966987715590893568",
+        "is_identity_verified": false,
+        "location": "8964",
+        "most_recent_tweet_id": "2105690073606062171",
+        "name": "声声笙声",
+        "pinned_tweet_id": "2104286490159452636",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1966987715590893568/1788955581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097657807344721921/7qT-qszD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 197,
+          "like_count": 4813,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 382
+        },
+        "url": "",
+        "username": "xiwangyujuewang",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

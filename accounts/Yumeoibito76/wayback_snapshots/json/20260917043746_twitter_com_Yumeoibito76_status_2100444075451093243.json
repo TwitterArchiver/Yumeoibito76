@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2100444075451093243",
+    "created_at": "2026-09-17T04:37:46.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T05:37:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100444075451093243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2092599070225526784",
+          "start": 3,
+          "username": "Mian403"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100444075451093243",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100248595161370999",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Mian403: 大家好，我是王隺棣（因为没有鸟了），都听说了我的故事了吧，现在我要起诉无良医美，麻烦明天V50支持我，我需要大家的一份力，为什么是明天，你别问"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2100444075451093243",
+        "created_at": "2026-09-17T04:37:46.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T05:37:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100444075451093243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2092599070225526784",
+              "start": 3,
+              "username": "Mian403"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100444075451093243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100248595161370999",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Mian403: 大家好，我是王隺棣（因为没有鸟了），都听说了我的故事了吧，现在我要起诉无良医美，麻烦明天V50支持我，我需要大家的一份力，为什么是明天，你别问"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092599070225526784",
+        "conversation_id": "2100248595161370999",
+        "created_at": "2026-09-16T15:41:00.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T16:41:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100248595161370999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100248595161370999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 322,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "大家好，我是王隺棣（因为没有鸟了），都听说了我的故事了吧，现在我要起诉无良医美，麻烦明天V50支持我，我需要大家的一份力，为什么是明天，你别问"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2100444075451093243",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2099805973401514084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 475,
+          "following_count": 497,
+          "like_count": 13511,
+          "listed_count": 0,
+          "media_count": 133,
+          "tweet_count": 889
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T13:05:54.000Z",
+        "description": "前世@jiangmian043\n🚪20/52/152/248\n视频验证18.88 只回入🚪互fo互转相关\n问题5元回一个\n看成分回fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "jiangmian043"
+              }
+            ]
+          }
+        },
+        "id": "2092599070225526784",
+        "is_identity_verified": false,
+        "location": "🩸🔪💊",
+        "most_recent_tweet_id": "2100248595161370999",
+        "name": "Mian",
+        "pinned_tweet_id": "2092603227644772505",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092599070225526784/1787749615",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092599605750095873/qtncnWfL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 78,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 106
+        },
+        "url": "",
+        "username": "Mian403",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

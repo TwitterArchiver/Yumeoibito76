@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2106612765532049408"
+      ],
+      "media_source_tweet_id": [
+        "2106612788282229135"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "conversation_id": "2106719397624816046",
+    "created_at": "2026-10-04T12:13:40.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T13:13:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106719397624816046"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1195582173279117312",
+          "start": 3,
+          "username": "reactionat33"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FNhPmG1m0R",
+          "end": 62,
+          "expanded_url": "https://x.com/reactionat33/status/2106612788282229135/video/1",
+          "media_key": "13_2106612765532049408",
+          "start": 39,
+          "url": "https://t.co/FNhPmG1m0R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106719397624816046",
+    "lang": "ar",
+    "media_metadata": [
+      {
+        "media_key": "13_2106612765532049408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 642
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106612788282229135",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @reactionat33: رياكشن قطو اسود يصفق https://t.co/FNhPmG1m0R"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6292,
+        "height": 778,
+        "media_key": "13_2106612765532049408",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106612765532049408/img/lDCMbzLWW6ABzhPs.jpg",
+        "public_metrics": {
+          "view_count": 89747
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106612765532049408/vid/avc1/320x344/bmbzWKeox5j9nR9e.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106612765532049408/vid/avc1/480x518/gu8oZ6PajyGmAl2i.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106612765532049408/vid/avc1/720x778/UAFtFY2UklrP1Q2K.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106612765532049408/pl/Sc5PxqEN0Vho8ily.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106612765532049408"
+          ],
+          "media_source_tweet_id": [
+            "2106612788282229135"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "conversation_id": "2106719397624816046",
+        "created_at": "2026-10-04T12:13:40.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T13:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106719397624816046"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1195582173279117312",
+              "start": 3,
+              "username": "reactionat33"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FNhPmG1m0R",
+              "end": 62,
+              "expanded_url": "https://x.com/reactionat33/status/2106612788282229135/video/1",
+              "media_key": "13_2106612765532049408",
+              "start": 39,
+              "url": "https://t.co/FNhPmG1m0R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106719397624816046",
+        "lang": "ar",
+        "media_metadata": [
+          {
+            "media_key": "13_2106612765532049408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 642
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106612788282229135",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @reactionat33: رياكشن قطو اسود يصفق https://t.co/FNhPmG1m0R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106612765532049408"
+          ]
+        },
+        "author_id": "1195582173279117312",
+        "conversation_id": "2106612788282229135",
+        "created_at": "2026-10-04T05:10:02.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T06:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106612788282229135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FNhPmG1m0R",
+              "end": 44,
+              "expanded_url": "https://x.com/reactionat33/status/2106612788282229135/video/1",
+              "media_key": "13_2106612765532049408",
+              "start": 21,
+              "url": "https://t.co/FNhPmG1m0R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106612788282229135",
+        "lang": "ar",
+        "media_metadata": [
+          {
+            "media_key": "13_2106612765532049408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2292,
+          "impression_count": 254969,
+          "like_count": 6698,
+          "quote_count": 88,
+          "reply_count": 25,
+          "retweet_count": 648
+        },
+        "reply_settings": "everyone",
+        "text": "رياكشن قطو اسود يصفق https://t.co/FNhPmG1m0R"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2106719397624816046",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2106072688708243496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 556,
+          "like_count": 23721,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 1337
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-16T05:59:46.000Z",
+        "description": "حساب لاجود وانقا الرياكشنات لست الوحيد ولكنِ الافضل.",
+        "id": "1195582173279117312",
+        "is_identity_verified": false,
+        "location": "رياكشنات فيدوهاتيه",
+        "most_recent_tweet_id": "2106613076128575681",
+        "name": "رياكشنات",
+        "pinned_tweet_id": "2084085797595086868",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1195582173279117312/1656807809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1652951274738909185/fGf-Qksp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56077,
+          "following_count": 0,
+          "like_count": 1583,
+          "listed_count": 14,
+          "media_count": 917,
+          "tweet_count": 1550
+        },
+        "url": "",
+        "username": "reactionat33",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2101642911343661244",
+    "created_at": "2026-09-20T12:38:34.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T13:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101652237655400575"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1888239230020661248",
+          "start": 0,
+          "username": "MEASUREMEN7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101652237655400575",
+    "in_reply_to_user_id": "1888239230020661248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101642911343661244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MEASUREMEN7 哇"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101642887176069120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqJEibbIAAHt49.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2101642911343661244",
+        "created_at": "2026-09-20T12:38:34.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101652237655400575"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1888239230020661248",
+              "start": 0,
+              "username": "MEASUREMEN7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101652237655400575",
+        "in_reply_to_user_id": "1888239230020661248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101642911343661244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MEASUREMEN7 哇"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101642887176069120"
+          ]
+        },
+        "author_id": "1888239230020661248",
+        "conversation_id": "2101642911343661244",
+        "created_at": "2026-09-20T12:01:31.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:01:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101642911343661244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "分析你的 X 互动圈，找出最活跃的互动用户",
+              "display_url": "circle.catsuki.cc/zh/circle/fslj…",
+              "end": 37,
+              "expanded_url": "https://circle.catsuki.cc/zh/circle/fsljbsar",
+              "start": 14,
+              "status": 200,
+              "title": "X 互动圈生成器 — NekoCircle",
+              "unwound_url": "https://circle.catsuki.cc/zh/circle/fsljbsar",
+              "url": "https://t.co/HYsLioGE9y"
+            },
+            {
+              "display_url": "pic.x.com/gdjvUtuFdK",
+              "end": 79,
+              "expanded_url": "https://x.com/MEASUREMEN7/status/2101642911343661244/photo/1",
+              "media_key": "3_2101642887176069120",
+              "start": 56,
+              "url": "https://t.co/gdjvUtuFdK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101642911343661244",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101642887176069120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的推特圈!\n快速寻找自己 https://t.co/HYsLioGE9y\n使用 NekoCircle 创建! https://t.co/gdjvUtuFdK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2101652237655400575",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2099805973401514084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 476,
+          "like_count": 15552,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 942
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-08T14:51:47.000Z",
+        "description": "我是男生。讨厌自己。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lin123456",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lin123456",
+                "start": 0,
+                "url": "https://t.co/8PaLzAhM0w"
+              }
+            ]
+          }
+        },
+        "id": "1888239230020661248",
+        "is_identity_verified": false,
+        "location": "私はどこにもいない",
+        "most_recent_tweet_id": "2101642911343661244",
+        "name": "度量衡",
+        "pinned_tweet_id": "2088832887764504602",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1888239230020661248/1751794345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972001752426663936/nZKzRAMt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 300,
+          "like_count": 41883,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 9175
+        },
+        "url": "https://t.co/8PaLzAhM0w",
+        "username": "MEASUREMEN7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

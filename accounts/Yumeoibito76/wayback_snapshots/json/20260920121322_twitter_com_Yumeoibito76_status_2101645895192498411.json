@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2101543123931607219",
+    "created_at": "2026-09-20T12:13:22.000Z",
+    "display_text_range": [
+      14,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T13:13:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101645895192498411"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1697913281816432640",
+          "start": 0,
+          "username": "kiligulyanov"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101645895192498411",
+    "in_reply_to_user_id": "1697913281816432640",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101645120609345765",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kiligulyanov 😯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2101543123931607219",
+        "created_at": "2026-09-20T12:13:22.000Z",
+        "display_text_range": [
+          14,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101645895192498411"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1697913281816432640",
+              "start": 0,
+              "username": "kiligulyanov"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101645895192498411",
+        "in_reply_to_user_id": "1697913281816432640",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101645120609345765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kiligulyanov 😯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697913281816432640",
+        "conversation_id": "2101543123931607219",
+        "created_at": "2026-09-20T12:10:18.000Z",
+        "display_text_range": [
+          14,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101645120609345765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101645120609345765",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101543123931607219",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2101645895192498411",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2099805973401514084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 484,
+          "like_count": 15507,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 940
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-09-02T10:04:17.000Z",
+        "description": "爱征服一切，让我们屈服于爱吧",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiligulyanov",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiligulyanov",
+                "start": 0,
+                "url": "https://t.co/SWcTzxvJOn"
+              }
+            ]
+          }
+        },
+        "id": "1697913281816432640",
+        "is_identity_verified": false,
+        "location": "梦境的地方",
+        "most_recent_tweet_id": "2101645120609345765",
+        "name": "Kilig",
+        "pinned_tweet_id": "1797459378897068324",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1697913281816432640/1734420223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874127554749358085/H_nHRR6x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3268,
+          "following_count": 1599,
+          "like_count": 29841,
+          "listed_count": 16,
+          "media_count": 1679,
+          "tweet_count": 11643
+        },
+        "url": "https://t.co/SWcTzxvJOn",
+        "username": "kiligulyanov",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

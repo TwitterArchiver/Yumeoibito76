@@ -1,0 +1,509 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2106514118698315776"
+      ],
+      "media_source_tweet_id": [
+        "2106514140059803871"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1326539256244838401",
+          "name": "Rabbits"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543325212319744",
+          "name": "Animals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1326539256244838401",
+          "name": "Rabbits"
+        }
+      }
+    ],
+    "conversation_id": "2106578884368220215",
+    "created_at": "2026-10-04T02:55:19.000Z",
+    "display_text_range": [
+      0,
+      78
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T03:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106578884368220215"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2094072985686814720",
+          "start": 3,
+          "username": "usagi_mochi0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gB5DWRvfhI",
+          "end": 78,
+          "expanded_url": "https://x.com/usagi_mochi0/status/2106514140059803871/video/1",
+          "media_key": "13_2106514118698315776",
+          "start": 55,
+          "url": "https://t.co/gB5DWRvfhI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106578884368220215",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2106514118698315776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 52
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106514140059803871",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @usagi_mochi0: 🐰≪パ、パクリじゃないんだからっ……！　オマージュなんだからねっ！/// https://t.co/gB5DWRvfhI"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5801,
+        "height": 1308,
+        "media_key": "13_2106514118698315776",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106514118698315776/img/OsbdINo7KtTG9W2U.jpg",
+        "public_metrics": {
+          "view_count": 1318
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106514118698315776/pl/8Zcz6IqoslgcVsjz.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106514118698315776/vid/avc1/720x872/jsJPDocCred8UdwB.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106514118698315776/vid/avc1/1078x1308/xNTwudcPM1T085Er.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106514118698315776/vid/avc1/320x388/p02soc-KqtGZ3vjO.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106514118698315776/vid/avc1/480x582/W0R2Pv_x-qo0zNkz.mp4"
+          }
+        ],
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106514118698315776"
+          ],
+          "media_source_tweet_id": [
+            "2106514140059803871"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1326539256244838401",
+              "name": "Rabbits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1326539256244838401",
+              "name": "Rabbits"
+            }
+          }
+        ],
+        "conversation_id": "2106578884368220215",
+        "created_at": "2026-10-04T02:55:19.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T03:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106578884368220215"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2094072985686814720",
+              "start": 3,
+              "username": "usagi_mochi0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gB5DWRvfhI",
+              "end": 78,
+              "expanded_url": "https://x.com/usagi_mochi0/status/2106514140059803871/video/1",
+              "media_key": "13_2106514118698315776",
+              "start": 55,
+              "url": "https://t.co/gB5DWRvfhI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106578884368220215",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2106514118698315776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106514140059803871",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @usagi_mochi0: 🐰≪パ、パクリじゃないんだからっ……！　オマージュなんだからねっ！/// https://t.co/gB5DWRvfhI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106514118698315776"
+          ]
+        },
+        "author_id": "2094072985686814720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1326539256244838401",
+              "name": "Rabbits"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543325212319744",
+              "name": "Animals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1326539256244838401",
+              "name": "Rabbits"
+            }
+          }
+        ],
+        "conversation_id": "2106514140059803871",
+        "created_at": "2026-10-03T22:38:02.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T23:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106514140059803871"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gB5DWRvfhI",
+              "end": 60,
+              "expanded_url": "https://x.com/usagi_mochi0/status/2106514140059803871/video/1",
+              "media_key": "13_2106514118698315776",
+              "start": 37,
+              "url": "https://t.co/gB5DWRvfhI"
+            },
+            {
+              "display_url": "x.com/moca_usa_mofu/…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/moca_usa_mofu/status/2088869961523667156",
+              "start": 61,
+              "url": "https://t.co/XmtgCc7fhx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106514140059803871",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2106514118698315776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 4782,
+          "like_count": 397,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 52
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088869961523667156",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🐰≪パ、パクリじゃないんだからっ……！　オマージュなんだからねっ！/// https://t.co/gB5DWRvfhI https://t.co/XmtgCc7fhx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2106578884368220215",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2106072688708243496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 550,
+          "like_count": 23360,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 1315
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-30T14:43:14.000Z",
+        "description": "🐰2026年7月生まれのネザーランドドワーフ(♂)\nちいさい体に、でっかい好奇心。\nかわいくて、ときどき笑えて、たまにびっくり。\nあなたの今日が、ほんの少し上向きますように🌿",
+        "id": "2094072985686814720",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106574466872713392",
+        "name": "うさぎのもちまる🐰",
+        "pinned_tweet_id": "2098389114102128769",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2094072985686814720/1789117700",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098329919902322688/oOq1DrN7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 359,
+          "like_count": 1805,
+          "listed_count": 7,
+          "media_count": 79,
+          "tweet_count": 332
+        },
+        "url": "",
+        "username": "usagi_mochi0",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

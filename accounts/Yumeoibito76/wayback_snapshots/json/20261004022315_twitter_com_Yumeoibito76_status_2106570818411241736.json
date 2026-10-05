@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2106570818411241736",
+    "created_at": "2026-10-04T02:23:15.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T03:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106570818411241736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2084631649321656320",
+          "start": 3,
+          "username": "Ririnka23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106570818411241736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106391045672227256",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ririnka23333: 什么时候才能意识到\n动物都有自伤行为 猫咪狗狗会过度舔毛 小鸟会扯下自己的羽毛\n到了人类这里只是用了工具而已。。我说这些是想让大家知道 这从来不是所谓的闲出屁或者追求小众 这就是刻在生物基因里的一种另类的自我保护机制 为了让自己好受点才会这么…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2106570818411241736",
+        "created_at": "2026-10-04T02:23:15.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T03:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106570818411241736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2084631649321656320",
+              "start": 3,
+              "username": "Ririnka23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106570818411241736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106391045672227256",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ririnka23333: 什么时候才能意识到\n动物都有自伤行为 猫咪狗狗会过度舔毛 小鸟会扯下自己的羽毛\n到了人类这里只是用了工具而已。。我说这些是想让大家知道 这从来不是所谓的闲出屁或者追求小众 这就是刻在生物基因里的一种另类的自我保护机制 为了让自己好受点才会这么…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084631649321656320",
+        "conversation_id": "2106391045672227256",
+        "created_at": "2026-10-03T14:28:54.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T15:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106391045672227256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2106391045672227256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 546,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "什么时候才能意识到\n动物都有自伤行为 猫咪狗狗会过度舔毛 小鸟会扯下自己的羽毛\n到了人类这里只是用了工具而已。。我说这些是想让大家知道 这从来不是所谓的闲出屁或者追求小众 这就是刻在生物基因里的一种另类的自我保护机制 为了让自己好受点才会这么干\n什么想死就去死根本不成立 不想死才这么干的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2106570818411241736",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2106072688708243496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 548,
+          "like_count": 23254,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 1308
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-04T13:26:05.000Z",
+        "description": "你可真笨",
+        "id": "2084631649321656320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106417561789456404",
+        "name": "RirinkanoSuika",
+        "pinned_tweet_id": "2103886349015429463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084631649321656320/1786277163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104908024414449664/loGIl3MN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 75,
+          "like_count": 93,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 152
+        },
+        "url": "",
+        "username": "Ririnka23333",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

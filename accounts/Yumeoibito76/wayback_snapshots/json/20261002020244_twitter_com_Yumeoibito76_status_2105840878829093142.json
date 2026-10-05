@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2105694120945868996",
+    "created_at": "2026-10-02T02:02:44.000Z",
+    "display_text_range": [
+      14,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T03:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105840878829093142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2093023396313669632",
+          "start": 0,
+          "username": "Chy666chyqwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105840878829093142",
+    "in_reply_to_user_id": "2093023396313669632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105730624963432958",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chy666chyqwe 很棒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2105694120945868996",
+        "created_at": "2026-10-02T02:02:44.000Z",
+        "display_text_range": [
+          14,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T03:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105840878829093142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2093023396313669632",
+              "start": 0,
+              "username": "Chy666chyqwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105840878829093142",
+        "in_reply_to_user_id": "2093023396313669632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105730624963432958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chy666chyqwe 很棒"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093023396313669632",
+        "conversation_id": "2105694120945868996",
+        "created_at": "2026-10-01T18:44:38.000Z",
+        "display_text_range": [
+          14,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T19:44:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105730624963432958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105730624963432958",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105694120945868996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 理论上说犯法。但你谁都不说，谁又知道呢。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2105840878829093142",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 516,
+          "like_count": 21150,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1150
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2026-08-27T17:12:22.000Z",
+        "description": "时左时右，坚持每天发100条推文。信奉社会达尔文理论。",
+        "id": "2093023396313669632",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105742719020896550",
+        "name": "仙尊说事",
+        "pinned_tweet_id": "2105636999596286183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093023396313669632/1790696340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104958919881977857/n_tiz-Ok_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 248,
+          "like_count": 1861,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 163
+        },
+        "url": "",
+        "username": "Chy666chyqwe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

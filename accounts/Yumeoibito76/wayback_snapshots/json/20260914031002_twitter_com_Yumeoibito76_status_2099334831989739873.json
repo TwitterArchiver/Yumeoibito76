@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2099125636791156924",
+    "created_at": "2026-09-14T03:10:02.000Z",
+    "display_text_range": [
+      12,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T04:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099334831989739873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2024708440564912131",
+          "start": 0,
+          "username": "xian229224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099334831989739873",
+    "in_reply_to_user_id": "2024708440564912131",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099125636791156924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xian229224 six seven"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2099125636791156924",
+        "created_at": "2026-09-14T03:10:02.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T04:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099334831989739873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2024708440564912131",
+              "start": 0,
+              "username": "xian229224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099334831989739873",
+        "in_reply_to_user_id": "2024708440564912131",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099125636791156924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xian229224 six seven"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024708440564912131",
+        "conversation_id": "2099125636791156924",
+        "created_at": "2026-09-13T13:18:46.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T14:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099125636791156924"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099125636791156924",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 502,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "六福七小子正在和六七先生闹矛盾😰最近六福七小子在波波波克上😒说了这个。😏😏你和其他的六夫妻小子在一起有矛盾吗？😱😱😱是的（快速）😔你有吗？（超快速）😂你认为谁才是六伏七的真正代表👿是六伏七还是67🤔🤔🤔"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\nQQ群1124326151随便进\n微信🚪纯绿30只收身心男的 ，女孩子不用，上次我住院时帮过我的不用",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2099334831989739873",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 472,
+          "like_count": 11738,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 830
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-20T04:51:40.000Z",
+        "description": "网蛆而已\n@Chuchu_229",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "Chuchu_229"
+              }
+            ]
+          }
+        },
+        "id": "2024708440564912131",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099311420957720595",
+        "name": "藓",
+        "pinned_tweet_id": "2094025376515428734",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024708440564912131/1775994100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090975828813508608/ciN5Oxin_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 528,
+          "following_count": 51,
+          "like_count": 15605,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1314
+        },
+        "url": "",
+        "username": "xian229224",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

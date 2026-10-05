@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104228260251152384"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "conversation_id": "2104185230143652351",
+    "created_at": "2026-09-27T15:14:48.000Z",
+    "display_text_range": [
+      8,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T16:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104228269310771629"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1959893383633358848",
+          "start": 0,
+          "username": "Cbscfe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n2zMKta2dU",
+          "end": 35,
+          "expanded_url": "https://x.com/Yumeoibito76/status/2104228269310771629/photo/1",
+          "media_key": "3_2104228260251152384",
+          "start": 12,
+          "url": "https://t.co/n2zMKta2dU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104228269310771629",
+    "in_reply_to_user_id": "1959893383633358848",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2104228260251152384"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104227476042056027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cbscfe 🙀🙀🙀 https://t.co/n2zMKta2dU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 132,
+        "media_key": "3_2104228260251152384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTO4dDqbsAAr_Qc.jpg",
+        "width": 197
+      },
+      {
+        "height": 49,
+        "media_key": "3_2104227466340675584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTO3u2HbMAAPDsl.png",
+        "width": 140
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104228260251152384"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "conversation_id": "2104185230143652351",
+        "created_at": "2026-09-27T15:14:48.000Z",
+        "display_text_range": [
+          8,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104228269310771629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1959893383633358848",
+              "start": 0,
+              "username": "Cbscfe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n2zMKta2dU",
+              "end": 35,
+              "expanded_url": "https://x.com/Yumeoibito76/status/2104228269310771629/photo/1",
+              "media_key": "3_2104228260251152384",
+              "start": 12,
+              "url": "https://t.co/n2zMKta2dU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104228269310771629",
+        "in_reply_to_user_id": "1959893383633358848",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2104228260251152384"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104227476042056027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cbscfe 🙀🙀🙀 https://t.co/n2zMKta2dU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104227466340675584"
+          ]
+        },
+        "author_id": "1959893383633358848",
+        "conversation_id": "2104185230143652351",
+        "created_at": "2026-09-27T15:11:39.000Z",
+        "display_text_range": [
+          13,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104227476042056027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xVCD0iiMqR",
+              "end": 37,
+              "expanded_url": "https://x.com/Cbscfe/status/2104227476042056027/photo/1",
+              "media_key": "3_2104227466340675584",
+              "start": 14,
+              "url": "https://t.co/xVCD0iiMqR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104227476042056027",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2104227466340675584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104226959324762290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 https://t.co/xVCD0iiMqR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2104228269310771629",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 492,
+          "like_count": 18949,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 1042
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，不割，O，面基无伤人记录，有安全风不",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7py8AN"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2104227476042056027",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 729,
+          "following_count": 802,
+          "like_count": 25682,
+          "listed_count": 3,
+          "media_count": 253,
+          "tweet_count": 7668
+        },
+        "url": "https://t.co/5pZU7py8AN",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2105870062100103249",
+    "created_at": "2026-10-03T05:15:01.000Z",
+    "display_text_range": [
+      14,
+      88
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T06:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106251653045481735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2056703191597920256",
+          "start": 0,
+          "username": "Mandrake8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106251653045481735",
+    "in_reply_to_user_id": "2056703191597920256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "国庆已至，红旗漫卷，月饼尽数下肚，高速沦为停车场，景区人潮汹涌，朋友圈的摄影大赛准时开赛。而我，仍在静候一场古老又神秘的仪式：疯狂星期四，V我50。\n别误会，这不是乞讨，是国庆专属炸鸡众筹。试想普天同庆之时，快乐本该共享。炸鸡外皮酥脆，蛋挞流心绵密，薯条咔嚓作响。五十块，买不起房与车，也订不下远行机票，却能解锁一份热乎的周四狂欢，换我发自内心的祝愿：愿祖国繁荣昌盛，祝你旅途畅通无阻，就餐无需久等,拍照告别双下巴，存款如同高速车流，浩浩荡荡望不到边际。\nV我50，你便是国庆最可爱的贵人。就算没有，我也会如同升旗仪式一般准时，每逢周四准时出现。人生苦短，当及时行乐；纵使钱包干瘪，理想依旧滚烫。我的愿望很简单，于喧嚣人海中，捧着一份热气腾腾的炸鸡，道一声多谢老板。\n疯狂星期四，V我50。三百五百的厚爱我同样接纳，重在心意，绝非鸡翅先动的手。国庆安康，愿纷乱烟火里，你我皆能邂逅属于自己的那一口酥脆。"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106227569217733098",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mandrake8964 国庆已至，红旗漫卷，月饼尽数下肚，高速沦为停车场，景区人潮汹涌，朋友圈的摄影大赛准时开赛。而我，仍在静候一场古老又神秘的仪式：疯狂星期四，V我50。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2105870062100103249",
+        "created_at": "2026-10-03T05:15:01.000Z",
+        "display_text_range": [
+          14,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T06:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106251653045481735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2056703191597920256",
+              "start": 0,
+              "username": "Mandrake8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106251653045481735",
+        "in_reply_to_user_id": "2056703191597920256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "国庆已至，红旗漫卷，月饼尽数下肚，高速沦为停车场，景区人潮汹涌，朋友圈的摄影大赛准时开赛。而我，仍在静候一场古老又神秘的仪式：疯狂星期四，V我50。\n别误会，这不是乞讨，是国庆专属炸鸡众筹。试想普天同庆之时，快乐本该共享。炸鸡外皮酥脆，蛋挞流心绵密，薯条咔嚓作响。五十块，买不起房与车，也订不下远行机票，却能解锁一份热乎的周四狂欢，换我发自内心的祝愿：愿祖国繁荣昌盛，祝你旅途畅通无阻，就餐无需久等,拍照告别双下巴，存款如同高速车流，浩浩荡荡望不到边际。\nV我50，你便是国庆最可爱的贵人。就算没有，我也会如同升旗仪式一般准时，每逢周四准时出现。人生苦短，当及时行乐；纵使钱包干瘪，理想依旧滚烫。我的愿望很简单，于喧嚣人海中，捧着一份热气腾腾的炸鸡，道一声多谢老板。\n疯狂星期四，V我50。三百五百的厚爱我同样接纳，重在心意，绝非鸡翅先动的手。国庆安康，愿纷乱烟火里，你我皆能邂逅属于自己的那一口酥脆。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106227569217733098",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mandrake8964 国庆已至，红旗漫卷，月饼尽数下肚，高速沦为停车场，景区人潮汹涌，朋友圈的摄影大赛准时开赛。而我，仍在静候一场古老又神秘的仪式：疯狂星期四，V我50。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056703191597920256",
+        "conversation_id": "2105870062100103249",
+        "created_at": "2026-10-03T03:39:18.000Z",
+        "display_text_range": [
+          14,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T04:39:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106227569217733098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106227569217733098",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105870062100103249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 我沒有提取到任何有用訊息。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2106251653045481735",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2106072688708243496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 542,
+          "following_count": 538,
+          "like_count": 22309,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1242
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-19T11:48:15.000Z",
+        "description": "你看那通天的巨塔 每時每刻都有人往下跳 小時候不懂 以為那是雪花‖上一世@Ekouuuuuu ‖唯一摯友@seeFvn‖友LGBTQ+‖查主頁成分同類回fo‖精神極度不穩定",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "Ekouuuuuu"
+              },
+              {
+                "end": 59,
+                "start": 52,
+                "username": "seeFvn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mandrake8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mandrake8964",
+                "start": 0,
+                "url": "https://t.co/LNiJVuSvsH"
+              }
+            ]
+          }
+        },
+        "id": "2056703191597920256",
+        "is_identity_verified": false,
+        "location": "罌粟花與你/3lue",
+        "most_recent_tweet_id": "2106227788240077298",
+        "name": "最後一株Mandrake2.0",
+        "pinned_tweet_id": "2101549140903645522",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2056703191597920256/1785702508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076341566319538176/7xcvNHKw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 190,
+          "like_count": 2468,
+          "listed_count": 0,
+          "media_count": 138,
+          "tweet_count": 676
+        },
+        "url": "https://t.co/LNiJVuSvsH",
+        "username": "Mandrake8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

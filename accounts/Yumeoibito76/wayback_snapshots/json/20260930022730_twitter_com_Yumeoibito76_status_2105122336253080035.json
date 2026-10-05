@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2105122336253080035",
+    "created_at": "2026-09-30T02:27:30.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T03:27:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105122336253080035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1072748307242340353",
+          "start": 3,
+          "username": "fullmetalferret"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/fU9Ru",
+          "end": 139,
+          "start": 121,
+          "url": "https://t.co/fU9Ru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105122336253080035",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 407
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104956555300941937",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fullmetalferret: These are completely different types of girls. wildly different. As similar as puppies and kitties. https://t.co/fU9Ru…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 421,
+        "media_key": "3_2104956551475658752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTZO1L5WgAAutqV.jpg",
+        "width": 637
+      },
+      {
+        "height": 482,
+        "media_key": "3_2104956551492427776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTZO1L9WYAA9KCt.jpg",
+        "width": 639
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2105122336253080035",
+        "created_at": "2026-09-30T02:27:30.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T03:27:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105122336253080035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1072748307242340353",
+              "start": 3,
+              "username": "fullmetalferret"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/fU9Ru",
+              "end": 139,
+              "start": 121,
+              "url": "https://t.co/fU9Ru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105122336253080035",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 407
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104956555300941937",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fullmetalferret: These are completely different types of girls. wildly different. As similar as puppies and kitties. https://t.co/fU9Ru…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104956551475658752",
+            "3_2104956551492427776"
+          ]
+        },
+        "author_id": "1072748307242340353",
+        "conversation_id": "2104956555300941937",
+        "created_at": "2026-09-29T15:28:45.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T16:28:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104956555300941937"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fU9RuAcE8W",
+              "end": 123,
+              "expanded_url": "https://x.com/fullmetalferret/status/2104956555300941937/photo/1",
+              "media_key": "3_2104956551475658752",
+              "start": 100,
+              "url": "https://t.co/fU9RuAcE8W"
+            },
+            {
+              "display_url": "pic.x.com/fU9RuAcE8W",
+              "end": 123,
+              "expanded_url": "https://x.com/fullmetalferret/status/2104956555300941937/photo/1",
+              "media_key": "3_2104956551492427776",
+              "start": 100,
+              "url": "https://t.co/fU9RuAcE8W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104956555300941937",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2104956551475658752"
+          },
+          {
+            "media_key": "3_2104956551492427776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 406,
+          "impression_count": 34315,
+          "like_count": 3771,
+          "quote_count": 61,
+          "reply_count": 17,
+          "retweet_count": 407
+        },
+        "reply_settings": "everyone",
+        "text": "These are completely different types of girls. wildly different. As similar as puppies and kitties. https://t.co/fU9RuAcE8W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2105122336253080035",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 509,
+          "like_count": 20354,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1103
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-12T07:01:41.000Z",
+        "description": "18+ only, 21yo, transmasc t4t lesbian dog, mostly posts about being fat faggot. I also like homestuck, pokemon and the mountain goats. property of @sheetspill",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 147,
+                "username": "sheetspill"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "crackmilf.com",
+                "end": 23,
+                "expanded_url": "http://crackmilf.com",
+                "start": 0,
+                "url": "https://t.co/q1hdCrVeRt"
+              }
+            ]
+          }
+        },
+        "id": "1072748307242340353",
+        "is_identity_verified": false,
+        "location": "Your house, right behind you",
+        "most_recent_tweet_id": "2105107939594019099",
+        "name": "full metal dingus",
+        "pinned_tweet_id": "1642577515209437184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1072748307242340353/1698944178",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1720122343891050497/sXYUOSJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1642,
+          "following_count": 696,
+          "like_count": 442016,
+          "listed_count": 7,
+          "media_count": 4825,
+          "tweet_count": 43751
+        },
+        "url": "https://t.co/q1hdCrVeRt",
+        "username": "fullmetalferret",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

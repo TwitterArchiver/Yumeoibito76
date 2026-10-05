@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2102384387819999481",
+    "created_at": "2026-09-23T04:10:06.000Z",
+    "display_text_range": [
+      15,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T05:10:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102611439903277133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2092788164234821632",
+          "start": 0,
+          "username": "Yuki1161_IC26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102611439903277133",
+    "in_reply_to_user_id": "2092788164234821632",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102384387819999481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki1161_IC26 扶她"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2102384387819999481",
+        "created_at": "2026-09-23T04:10:06.000Z",
+        "display_text_range": [
+          15,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T05:10:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102611439903277133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2092788164234821632",
+              "start": 0,
+              "username": "Yuki1161_IC26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102611439903277133",
+        "in_reply_to_user_id": "2092788164234821632",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102384387819999481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki1161_IC26 扶她"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2102384385785778176"
+          ]
+        },
+        "author_id": "2092788164234821632",
+        "conversation_id": "2102384387819999481",
+        "created_at": "2026-09-22T13:07:53.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T14:07:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102384387819999481"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102384387819999481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1008,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能不能活到400fo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2102611439903277133",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2099805973401514084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 487,
+          "like_count": 17010,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 978
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T01:37:48.000Z",
+        "description": "🚪8.9/6.4 用于买包子吃/6.0\n早已逝去之人 早已宽恕之罪/谨记用法用量\n和属于我的姐姐@Cecey33 共号\n直fo喜歡的人/喜欢🐱/逃生仓 @Yuki3Mepcpy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 48,
+                "username": "Cecey33"
+              },
+              {
+                "end": 88,
+                "start": 76,
+                "username": "Yuki3Mepcpy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki3mepcpy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki3mepcpy",
+                "start": 0,
+                "url": "https://t.co/d3QOTu2Gty"
+              }
+            ]
+          }
+        },
+        "id": "2092788164234821632",
+        "is_identity_verified": false,
+        "location": "衫之宮區 北校 C棟天台",
+        "most_recent_tweet_id": "2102605833993342976",
+        "name": "岐#心宿二",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092788164234821632/1788035697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096464883303010304/XZtwCCUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 355,
+          "like_count": 1247,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1161
+        },
+        "url": "https://t.co/d3QOTu2Gty",
+        "username": "Yuki1161_IC26",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

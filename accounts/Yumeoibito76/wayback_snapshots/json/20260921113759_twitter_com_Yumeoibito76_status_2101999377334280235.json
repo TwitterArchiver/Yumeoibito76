@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2101999377334280235",
+    "created_at": "2026-09-21T11:37:59.000Z",
+    "display_text_range": [
+      0,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T12:37:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101999377334280235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1943590246064775168",
+          "start": 3,
+          "username": "XiaoFanawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101999377334280235",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101678664895316016",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XiaoFanawa: 如果我突然停止更新你会想：\nA：你妈逼终于死了\nB：被操死了吧\nC：下饭神器不见了好难受\nD：世界的神怎么了\nE： 我的女神去哪了\nF： 谁欺负了我的女孩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2101999377334280235",
+        "created_at": "2026-09-21T11:37:59.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T12:37:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101999377334280235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1943590246064775168",
+              "start": 3,
+              "username": "XiaoFanawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101999377334280235",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101678664895316016",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XiaoFanawa: 如果我突然停止更新你会想：\nA：你妈逼终于死了\nB：被操死了吧\nC：下饭神器不见了好难受\nD：世界的神怎么了\nE： 我的女神去哪了\nF： 谁欺负了我的女孩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1943590246064775168",
+        "conversation_id": "2101678664895316016",
+        "created_at": "2026-09-20T14:23:35.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T15:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101678664895316016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101678664895316016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6392,
+          "like_count": 117,
+          "quote_count": 5,
+          "reply_count": 45,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "如果我突然停止更新你会想：\nA：你妈逼终于死了\nB：被操死了吧\nC：下饭神器不见了好难受\nD：世界的神怎么了\nE： 我的女神去哪了\nF： 谁欺负了我的女孩"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2101999377334280235",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2099805973401514084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 488,
+          "following_count": 479,
+          "like_count": 16041,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 958
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-11T08:36:57.000Z",
+        "description": "",
+        "id": "1943590246064775168",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101905943814631802",
+        "name": "汽修二班 soft",
+        "pinned_tweet_id": "2101091490466496547",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1943590246064775168/1789960634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101861561023492096/-m5uZcuS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 132,
+          "following_count": 314,
+          "like_count": 6621,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 530
+        },
+        "url": "",
+        "username": "XiaoFanawa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

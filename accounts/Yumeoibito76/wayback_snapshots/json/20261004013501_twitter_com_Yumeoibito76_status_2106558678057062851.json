@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2106379192741048360",
+    "created_at": "2026-10-04T01:35:01.000Z",
+    "display_text_range": [
+      32,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T02:35:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106558678057062851"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2089890624392536064",
+          "start": 0,
+          "username": "friedricew2hvr"
+        },
+        {
+          "end": 31,
+          "id": "2063159075572158465",
+          "start": 16,
+          "username": "Bochichan250hh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106558678057062851",
+    "in_reply_to_user_id": "2089890624392536064",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106531386547196110",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@friedricew2hvr @Bochichan250hh 676767"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2106379192741048360",
+        "created_at": "2026-10-04T01:35:01.000Z",
+        "display_text_range": [
+          32,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T02:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106558678057062851"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2089890624392536064",
+              "start": 0,
+              "username": "friedricew2hvr"
+            },
+            {
+              "end": 31,
+              "id": "2063159075572158465",
+              "start": 16,
+              "username": "Bochichan250hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106558678057062851",
+        "in_reply_to_user_id": "2089890624392536064",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106531386547196110",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@friedricew2hvr @Bochichan250hh 676767"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089890624392536064",
+        "conversation_id": "2106379192741048360",
+        "created_at": "2026-10-03T23:46:34.000Z",
+        "display_text_range": [
+          30,
+          167
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T00:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106531386547196110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            },
+            {
+              "end": 29,
+              "id": "2063159075572158465",
+              "start": 14,
+              "username": "Bochichan250hh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106531386547196110",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106391743830934001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 @Bochichan250hh 这是一则典型的网络迷因艺术，以写实人像为基底将魁梧躯体的手臂扭曲重组为数字67的形态。写实的人物质感与违背物理常识的软体变形形成强烈视觉反差人物平静漠然的神态，和怪异的身体异变构成恐怖谷式的荒诞感。作品把人的肉体当作符号载体，消解人像本身的意义，转化为数字符号的可视化图像。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2106558678057062851",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2106072688708243496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 545,
+          "like_count": 23201,
+          "listed_count": 0,
+          "media_count": 190,
+          "tweet_count": 1298
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T01:43:14.000Z",
+        "description": "不见证，战雷小资历，正常人，6767年前组装落地，成分复杂，欢迎交友！！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "67.com",
+                "end": 23,
+                "expanded_url": "http://67.com",
+                "start": 0,
+                "url": "https://t.co/jFjU7kdfLH"
+              }
+            ]
+          }
+        },
+        "id": "2089890624392536064",
+        "is_identity_verified": false,
+        "location": "吴家村",
+        "most_recent_tweet_id": "2106553373746991206",
+        "name": "かわいい",
+        "pinned_tweet_id": "2105630194362925209",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089890624392536064/1790735938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105578449209581570/rnNVOtrK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 113,
+          "like_count": 828,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 366
+        },
+        "url": "https://t.co/jFjU7kdfLH",
+        "username": "friedricew2hvr",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-06T07:21:34.000Z",
+        "description": "How I wish you were here\n希望我们之间的喜剧永远是万能\n另一个账户@Yokuso_desu\nA guitarist 🎸会弹电吉他\n查成分互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 45,
+                "username": "Yokuso_desu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/BochiChan250",
+                "end": 23,
+                "expanded_url": "http://t.me/BochiChan250",
+                "start": 0,
+                "url": "https://t.co/dkFNyeyJ7O"
+              }
+            ]
+          }
+        },
+        "id": "2063159075572158465",
+        "is_identity_verified": false,
+        "location": "加州の旅馆",
+        "most_recent_tweet_id": "2106465928015921440",
+        "name": "防尘迷呀awa（见过马建国）🇰🇵🌿",
+        "pinned_tweet_id": "2077086358259081675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2063159075572158465/1789536920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068608809841696768/DCfkJfRD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2060,
+          "following_count": 2040,
+          "like_count": 13483,
+          "listed_count": 0,
+          "media_count": 314,
+          "tweet_count": 2234
+        },
+        "url": "https://t.co/dkFNyeyJ7O",
+        "username": "Bochichan250hh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

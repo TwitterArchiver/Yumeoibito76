@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104880508111142912",
+        "3_2104880508090134529",
+        "3_2104880508102660096"
+      ],
+      "media_source_tweet_id": [
+        "2104880515270803841",
+        "2104880515270803841",
+        "2104880515270803841"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2105117912076083426",
+    "created_at": "2026-09-30T02:09:56.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T03:09:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105117912076083426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1857483338006802434",
+          "start": 3,
+          "username": "nininililily"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/BJjcTmq9bh",
+          "end": 75,
+          "expanded_url": "https://x.com/nininililily/status/2104880515270803841/photo/1",
+          "media_key": "3_2104880508111142912",
+          "start": 52,
+          "url": "https://t.co/BJjcTmq9bh"
+        },
+        {
+          "display_url": "pic.x.com/BJjcTmq9bh",
+          "end": 75,
+          "expanded_url": "https://x.com/nininililily/status/2104880515270803841/photo/1",
+          "media_key": "3_2104880508090134529",
+          "start": 52,
+          "url": "https://t.co/BJjcTmq9bh"
+        },
+        {
+          "display_url": "pic.x.com/BJjcTmq9bh",
+          "end": 75,
+          "expanded_url": "https://x.com/nininililily/status/2104880515270803841/photo/1",
+          "media_key": "3_2104880508102660096",
+          "start": 52,
+          "url": "https://t.co/BJjcTmq9bh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105117912076083426",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104880508111142912"
+      },
+      {
+        "media_key": "3_2104880508090134529"
+      },
+      {
+        "media_key": "3_2104880508102660096"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104880515270803841",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nininililily: 以前叫泪滴 改名困困 现在叫Nana 同时他是男的装女生找门哥…… https://t.co/BJjcTmq9bh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104880508111142912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYJq4SbwAAupTB.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104880508090134529",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYJq4NbMAEuBUE.jpg",
+        "width": 943
+      },
+      {
+        "height": 1792,
+        "media_key": "3_2104880508102660096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYJq4QaUAA6clK.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104880508111142912",
+            "3_2104880508090134529",
+            "3_2104880508102660096"
+          ],
+          "media_source_tweet_id": [
+            "2104880515270803841",
+            "2104880515270803841",
+            "2104880515270803841"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2105117912076083426",
+        "created_at": "2026-09-30T02:09:56.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T03:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105117912076083426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1857483338006802434",
+              "start": 3,
+              "username": "nininililily"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/BJjcTmq9bh",
+              "end": 75,
+              "expanded_url": "https://x.com/nininililily/status/2104880515270803841/photo/1",
+              "media_key": "3_2104880508111142912",
+              "start": 52,
+              "url": "https://t.co/BJjcTmq9bh"
+            },
+            {
+              "display_url": "pic.x.com/BJjcTmq9bh",
+              "end": 75,
+              "expanded_url": "https://x.com/nininililily/status/2104880515270803841/photo/1",
+              "media_key": "3_2104880508090134529",
+              "start": 52,
+              "url": "https://t.co/BJjcTmq9bh"
+            },
+            {
+              "display_url": "pic.x.com/BJjcTmq9bh",
+              "end": 75,
+              "expanded_url": "https://x.com/nininililily/status/2104880515270803841/photo/1",
+              "media_key": "3_2104880508102660096",
+              "start": 52,
+              "url": "https://t.co/BJjcTmq9bh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105117912076083426",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104880508111142912"
+          },
+          {
+            "media_key": "3_2104880508090134529"
+          },
+          {
+            "media_key": "3_2104880508102660096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104880515270803841",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nininililily: 以前叫泪滴 改名困困 现在叫Nana 同时他是男的装女生找门哥…… https://t.co/BJjcTmq9bh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104880508111142912",
+            "3_2104880508090134529",
+            "3_2104880508102660096"
+          ]
+        },
+        "author_id": "1857483338006802434",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104880515270803841",
+        "created_at": "2026-09-29T10:26:36.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T11:26:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104880515270803841"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BJjcTmq9bh",
+              "end": 57,
+              "expanded_url": "https://x.com/nininililily/status/2104880515270803841/photo/1",
+              "media_key": "3_2104880508111142912",
+              "start": 34,
+              "url": "https://t.co/BJjcTmq9bh"
+            },
+            {
+              "display_url": "pic.x.com/BJjcTmq9bh",
+              "end": 57,
+              "expanded_url": "https://x.com/nininililily/status/2104880515270803841/photo/1",
+              "media_key": "3_2104880508090134529",
+              "start": 34,
+              "url": "https://t.co/BJjcTmq9bh"
+            },
+            {
+              "display_url": "pic.x.com/BJjcTmq9bh",
+              "end": 57,
+              "expanded_url": "https://x.com/nininililily/status/2104880515270803841/photo/1",
+              "media_key": "3_2104880508102660096",
+              "start": 34,
+              "url": "https://t.co/BJjcTmq9bh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104880515270803841",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104880508111142912"
+          },
+          {
+            "media_key": "3_2104880508090134529"
+          },
+          {
+            "media_key": "3_2104880508102660096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 284,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "以前叫泪滴 改名困困 现在叫Nana 同时他是男的装女生找门哥…… https://t.co/BJjcTmq9bh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2105117912076083426",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 508,
+          "like_count": 20302,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 1100
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-15T17:58:47.000Z",
+        "description": "帝王正在建立她的王国\n黑夜 白昼 都是王的赐福\n🚪52/88（纯绿\n(˶‾᷄ ⁻̫ ‾᷅˵)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mihuonojiao124",
+                "end": 23,
+                "expanded_url": "https://t.me/mihuonojiao124",
+                "start": 0,
+                "url": "https://t.co/A4Skx0FMLv"
+              }
+            ]
+          }
+        },
+        "id": "1857483338006802434",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2105030922383094062",
+        "name": "めいわく",
+        "pinned_tweet_id": "2104266574471561675",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1857483338006802434/1790558625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092909113906970624/zDMZcrt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 70,
+          "like_count": 432,
+          "listed_count": 0,
+          "media_count": 224,
+          "tweet_count": 669
+        },
+        "url": "https://t.co/A4Skx0FMLv",
+        "username": "nininililily",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

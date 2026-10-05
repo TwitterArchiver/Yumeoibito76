@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2105910045460557826",
+    "created_at": "2026-10-02T06:37:35.000Z",
+    "display_text_range": [
+      0,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T07:37:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105910045460557826"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/safrerkv/statu…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/safrerkv/status/2105900819183010102",
+          "start": 70,
+          "url": "https://t.co/7BqwMLE3nB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105910045460557826",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105900819183010102",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我军训的时候，有人泄露我是od大王，都起哄要我表演od，我上去直接1分钟o了5000种药，全部都是策划药，教官都傻了，直接给我磕了三个响头 https://t.co/7BqwMLE3nB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2105910045460557826",
+        "created_at": "2026-10-02T06:37:35.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T07:37:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105910045460557826"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/safrerkv/statu…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/safrerkv/status/2105900819183010102",
+              "start": 70,
+              "url": "https://t.co/7BqwMLE3nB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105910045460557826",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105900819183010102",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我军训的时候，有人泄露我是od大王，都起哄要我表演od，我上去直接1分钟o了5000种药，全部都是策划药，教官都傻了，直接给我磕了三个响头 https://t.co/7BqwMLE3nB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070858923431825408",
+        "conversation_id": "2105900819183010102",
+        "created_at": "2026-10-02T06:00:55.000Z",
+        "display_text_range": [
+          0,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T07:00:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105900819183010102"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/winterfruit_1/…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/winterfruit_1/status/2025936235693511120",
+              "start": 70,
+              "url": "https://t.co/ZD19ScME1M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105900819183010102",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 545,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025936235693511120",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我军训的时候，有人泄露我是od大王，都起哄要我表演od，我上去直接1分钟o了5000种药，全部都是策划药，教官都傻了，直接给我磕了三个响头 https://t.co/ZD19ScME1M"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2105910045460557826",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 523,
+          "like_count": 21450,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1176
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-27T13:18:02.000Z",
+        "description": "💊/🔪✋🏻🩸｜重抑重焦｜梦想是当心理委员 啥都会发\n我叫相融\n                           提问箱↓   妈妈@kris_dreammer 想和我扩列可以私信我 互fo也请私信喵 \n想要和你们交朋友喵(/≧▽≦)/",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 67,
+                "username": "kris_dreammer"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/angelkawaii911…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/angelkawaii91133",
+                "start": 0,
+                "url": "https://t.co/dP9tur2PZ7"
+              }
+            ]
+          }
+        },
+        "id": "2070858923431825408",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2105901805410644462",
+        "name": "🎀超絶最かわ🎀てんしちゃん",
+        "pinned_tweet_id": "2105666174197608597",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2070858923431825408/1782967118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072540027268280320/nrwLJmD1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 1724,
+          "like_count": 6741,
+          "listed_count": 1,
+          "media_count": 637,
+          "tweet_count": 2619
+        },
+        "url": "https://t.co/dP9tur2PZ7",
+        "username": "safrerkv",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

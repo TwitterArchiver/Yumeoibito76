@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2106316638450766276",
+    "created_at": "2026-10-03T10:45:56.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T11:45:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106334930964001241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1966987715590893568",
+          "start": 0,
+          "username": "xiwangyujuewang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106334930964001241",
+    "in_reply_to_user_id": "1966987715590893568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106316638450766276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiwangyujuewang 耍起耍起"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2106316622961258496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsjzxAbMAAxFlM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2106316638450766276",
+        "created_at": "2026-10-03T10:45:56.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T11:45:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106334930964001241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1966987715590893568",
+              "start": 0,
+              "username": "xiwangyujuewang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106334930964001241",
+        "in_reply_to_user_id": "1966987715590893568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106316638450766276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiwangyujuewang 耍起耍起"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106316622961258496"
+          ]
+        },
+        "author_id": "1966987715590893568",
+        "conversation_id": "2106316638450766276",
+        "created_at": "2026-10-03T09:33:14.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106316638450766276"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4AWXfXexoE",
+              "end": 29,
+              "expanded_url": "https://x.com/xiwangyujuewang/status/2106316638450766276/photo/1",
+              "media_key": "3_2106316622961258496",
+              "start": 6,
+              "url": "https://t.co/4AWXfXexoE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106316638450766276",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106316622961258496"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 275,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "哥几个耍起 https://t.co/4AWXfXexoE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2106334930964001241",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2106072688708243496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 541,
+          "like_count": 22930,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 1275
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-13T22:10:07.000Z",
+        "description": "低調退出鍵政圈……減肥ing。。。會把自己每天吃的食物發到推上\n左翼自由派/社會自由主義/反出生主義/ISFP/中抑重焦/中度睡眠障礙/苦逼的掛讀學生/百合騎士/互fo私信\n逃生艙：@juewangyuxiwang 本帳號發布內容皆為紀錄生活 如引人不適請封鎖我謝謝 人身攻擊我的全家死光",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "juewangyuxiwang"
+              }
+            ]
+          }
+        },
+        "id": "1966987715590893568",
+        "is_identity_verified": false,
+        "location": "8964",
+        "most_recent_tweet_id": "2106330953107001406",
+        "name": "声声笙声",
+        "pinned_tweet_id": "2104286490159452636",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1966987715590893568/1788955581",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097657807344721921/7qT-qszD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 202,
+          "like_count": 5922,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 568
+        },
+        "url": "",
+        "username": "xiwangyujuewang",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

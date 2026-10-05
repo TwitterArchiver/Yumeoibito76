@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2105582987668783439",
+    "created_at": "2026-10-01T12:13:37.000Z",
+    "display_text_range": [
+      12,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T13:13:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105632221973684650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1813235323935334402",
+          "start": 0,
+          "username": "xingyi_dev"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105632221973684650",
+    "in_reply_to_user_id": "1813235323935334402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105597875413778825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xingyi_dev 发现福瑞锁定目标"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2105582987668783439",
+        "created_at": "2026-10-01T12:13:37.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T13:13:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105632221973684650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1813235323935334402",
+              "start": 0,
+              "username": "xingyi_dev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105632221973684650",
+        "in_reply_to_user_id": "1813235323935334402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105597875413778825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xingyi_dev 发现福瑞锁定目标"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813235323935334402",
+        "conversation_id": "2105582987668783439",
+        "created_at": "2026-10-01T09:57:08.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T10:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105597875413778825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105597875413778825",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105582987668783439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 扫福瑞"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2105632221973684650",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 514,
+          "like_count": 20935,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 1136
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-16T15:32:58.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xingyi.me",
+                "end": 23,
+                "expanded_url": "https://xingyi.me/",
+                "start": 0,
+                "url": "https://t.co/MhGJCL1dkx"
+              }
+            ]
+          }
+        },
+        "id": "1813235323935334402",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105624652332880166",
+        "name": "Xingyi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1813235323935334402/1790441624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103882008871231488/sAXpOVjG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 141,
+          "like_count": 17637,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 115
+        },
+        "url": "https://t.co/MhGJCL1dkx",
+        "username": "xingyi_dev",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

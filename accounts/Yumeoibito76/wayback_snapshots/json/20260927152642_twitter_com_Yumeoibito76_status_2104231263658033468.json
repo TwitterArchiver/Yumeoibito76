@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2104185230143652351",
+    "created_at": "2026-09-27T15:26:42.000Z",
+    "display_text_range": [
+      14,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T16:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104231263658033468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "985370178929045504",
+          "start": 0,
+          "username": "jYiCHRgvKnfu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104231263658033468",
+    "in_reply_to_user_id": "985370178929045504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104230338956587440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jYiCHRgvKnfu 我去，你居然持有新型毒品，我告老师了🙋🏻‍♀️"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2104230315405291520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTO6UrtXMAAsNI6.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2104185230143652351",
+        "created_at": "2026-09-27T15:26:42.000Z",
+        "display_text_range": [
+          14,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104231263658033468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "985370178929045504",
+              "start": 0,
+              "username": "jYiCHRgvKnfu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104231263658033468",
+        "in_reply_to_user_id": "985370178929045504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104230338956587440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jYiCHRgvKnfu 我去，你居然持有新型毒品，我告老师了🙋🏻‍♀️"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104230315405291520"
+          ]
+        },
+        "author_id": "985370178929045504",
+        "conversation_id": "2104185230143652351",
+        "created_at": "2026-09-27T15:23:02.000Z",
+        "display_text_range": [
+          14,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T16:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104230338956587440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2023256339363856384",
+              "start": 0,
+              "username": "Yumeoibito76"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8WCYabud9o",
+              "end": 84,
+              "expanded_url": "https://x.com/jYiCHRgvKnfu/status/2104230338956587440/photo/1",
+              "media_key": "3_2104230315405291520",
+              "start": 61,
+              "url": "https://t.co/8WCYabud9o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104230338956587440",
+        "in_reply_to_user_id": "2023256339363856384",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104230315405291520"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104185230143652351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yumeoibito76 按照他的这个说法，我是不是应该立刻被抓起来？⁽⁽ƪ(•̩̩̩̩＿•̩̩̩̩)ʃ⁾⁾ᵒᵐᵍᵎᵎ https://t.co/8WCYabud9o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2104231263658033468",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 494,
+          "like_count": 18975,
+          "listed_count": 0,
+          "media_count": 153,
+          "tweet_count": 1045
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-15T04:12:12.000Z",
+        "description": "",
+        "id": "985370178929045504",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104230338956587440",
+        "name": "卖橘子的小埋🍊",
+        "pinned_tweet_id": "2097289866866463156",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/985370178929045504/1786158035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085924101047382016/-n32t4ib_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1140,
+          "following_count": 262,
+          "like_count": 49,
+          "listed_count": 2,
+          "media_count": 128,
+          "tweet_count": 386
+        },
+        "url": "",
+        "username": "jYiCHRgvKnfu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

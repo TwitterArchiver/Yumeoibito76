@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2105674953035018240"
+      ],
+      "media_source_tweet_id": [
+        "2105675019476959233"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "conversation_id": "2105856227494506796",
+    "created_at": "2026-10-02T03:03:44.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T04:03:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105856227494506796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1562677302143565824",
+          "start": 3,
+          "username": "t_tuelhinhos"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/CWRj7fmGdV",
+          "end": 75,
+          "expanded_url": "https://x.com/t_tuelhinhos/status/2105675019476959233/video/1",
+          "media_key": "13_2105674953035018240",
+          "start": 52,
+          "url": "https://t.co/CWRj7fmGdV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105856227494506796",
+    "lang": "pt",
+    "media_metadata": [
+      {
+        "media_key": "13_2105674953035018240"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 234
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105675019476959233",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @t_tuelhinhos: Fazendo charme pra chamar atenção https://t.co/CWRj7fmGdV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12585,
+        "height": 1280,
+        "media_key": "13_2105674953035018240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105674953035018240/img/mRzp6b6K5GR5OENx.jpg",
+        "public_metrics": {
+          "view_count": 7424
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105674953035018240/vid/avc1/320x568/DiZfv3wme1Co1OkX.mp4?tag=14"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105674953035018240/vid/avc1/480x852/PzPYVgPRnA3ryD35.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105674953035018240/vid/avc1/720x1280/fzYumip9NA795lHc.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105674953035018240/pl/gUQRASw3s8ow9TQk.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105674953035018240"
+          ],
+          "media_source_tweet_id": [
+            "2105675019476959233"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "conversation_id": "2105856227494506796",
+        "created_at": "2026-10-02T03:03:44.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T04:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105856227494506796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1562677302143565824",
+              "start": 3,
+              "username": "t_tuelhinhos"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CWRj7fmGdV",
+              "end": 75,
+              "expanded_url": "https://x.com/t_tuelhinhos/status/2105675019476959233/video/1",
+              "media_key": "13_2105674953035018240",
+              "start": 52,
+              "url": "https://t.co/CWRj7fmGdV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105856227494506796",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2105674953035018240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 234
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105675019476959233",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @t_tuelhinhos: Fazendo charme pra chamar atenção https://t.co/CWRj7fmGdV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105674953035018240"
+          ]
+        },
+        "author_id": "1562677302143565824",
+        "conversation_id": "2105675019476959233",
+        "created_at": "2026-10-01T15:03:40.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T16:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105675019476959233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CWRj7fmGdV",
+              "end": 57,
+              "expanded_url": "https://x.com/t_tuelhinhos/status/2105675019476959233/video/1",
+              "media_key": "13_2105674953035018240",
+              "start": 34,
+              "url": "https://t.co/CWRj7fmGdV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105675019476959233",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2105674953035018240"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 204,
+          "impression_count": 21150,
+          "like_count": 1144,
+          "quote_count": 19,
+          "reply_count": 2,
+          "retweet_count": 234
+        },
+        "reply_settings": "everyone",
+        "text": "Fazendo charme pra chamar atenção https://t.co/CWRj7fmGdV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2105856227494506796",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2089208930740097183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 519,
+          "like_count": 21326,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1165
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-25T05:44:49.000Z",
+        "description": "Está é uma pagina de compilação e coleção de conteúdos sobre coelho, vale ressaltar que não sou dono de nenhum dos conteúdos postados!",
+        "id": "1562677302143565824",
+        "is_identity_verified": false,
+        "location": "Aos pés da Yggdrasil",
+        "most_recent_tweet_id": "2105764695621960110",
+        "name": "Tuelhinhos 🐇",
+        "pinned_tweet_id": "2033647891131076800",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1562677302143565824/1740805888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970638790797488128/qiNeFgLh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6388,
+          "following_count": 74,
+          "like_count": 60424,
+          "listed_count": 28,
+          "media_count": 5941,
+          "tweet_count": 20225
+        },
+        "url": "",
+        "username": "t_tuelhinhos",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

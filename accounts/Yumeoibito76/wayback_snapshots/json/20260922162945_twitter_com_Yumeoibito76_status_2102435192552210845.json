@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2102387561360740765",
+    "created_at": "2026-09-22T16:29:45.000Z",
+    "display_text_range": [
+      22,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T17:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102435192552210845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2029991944966098944",
+          "start": 0,
+          "username": "ylx123666"
+        },
+        {
+          "end": 21,
+          "id": "2016175327069011971",
+          "start": 11,
+          "username": "shanhu_mi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102435192552210845",
+    "in_reply_to_user_id": "2029991944966098944",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102404827909386379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ylx123666 @shanhu_mi 卖水晶的大哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2102387561360740765",
+        "created_at": "2026-09-22T16:29:45.000Z",
+        "display_text_range": [
+          22,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T17:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102435192552210845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2029991944966098944",
+              "start": 0,
+              "username": "ylx123666"
+            },
+            {
+              "end": 21,
+              "id": "2016175327069011971",
+              "start": 11,
+              "username": "shanhu_mi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102435192552210845",
+        "in_reply_to_user_id": "2029991944966098944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102404827909386379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ylx123666 @shanhu_mi 卖水晶的大哥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029991944966098944",
+        "conversation_id": "2102387561360740765",
+        "created_at": "2026-09-22T14:29:06.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T15:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102404827909386379"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2016175327069011971",
+              "start": 0,
+              "username": "shanhu_mi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102404827909386379",
+        "in_reply_to_user_id": "2016175327069011971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102387561360740765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shanhu_mi 晶哥是什么"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2102435192552210845",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2099805973401514084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 490,
+          "following_count": 483,
+          "like_count": 16755,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 974
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T18:46:16.000Z",
+        "description": "",
+        "id": "2029991944966098944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102408066549379432",
+        "name": "春江花月夜",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029991944966098944/1772853597",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099019411709722625/mB1W4SEd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 2,
+          "like_count": 161,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 19
+        },
+        "url": "",
+        "username": "ylx123666",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-27T15:44:09.000Z",
+        "description": "叫我板栗就好！\n年龄你猜。\n哦滴。zc。抽烟 \n我比较喜欢自言自语 \n欢迎同类互fo呀 私信说一下就好 ！\n🚪52好友位和圈圈\n🚪88 被动聊天\n备用小号@BanLi_mi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 77,
+                "username": "BanLi_mi"
+              }
+            ]
+          }
+        },
+        "id": "2016175327069011971",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102392803150254437",
+        "name": "T^",
+        "pinned_tweet_id": "2088638181327712668",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2016175327069011971/1788343599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095091022959394817/kup8bJ7A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 208,
+          "like_count": 1202,
+          "listed_count": 0,
+          "media_count": 247,
+          "tweet_count": 1527
+        },
+        "url": "",
+        "username": "shanhu_mi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

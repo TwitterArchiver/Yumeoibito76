@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2100156165044732089",
+    "created_at": "2026-09-16T09:33:43.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T10:33:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100156165044732089"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SaladaFlores69…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/SaladaFlores69/status/2099872844616257942",
+          "start": 13,
+          "url": "https://t.co/4EHFwc7Bn7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100156165044732089",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099872844616257942",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们爱看的睡前asmr🤫 https://t.co/4EHFwc7Bn7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 60186,
+        "height": 456,
+        "media_key": "13_2099872774206492672",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099872774206492672/img/BkZ_6VEg3WS5mKZw.jpg",
+        "public_metrics": {
+          "view_count": 779858
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099872774206492672/vid/avc1/320x456/XsjBEUd3PzLY3A8A.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099872774206492672/pl/DXaIP6cEtkmtuZci.m3u8?v=cfc"
+          }
+        ],
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2100156165044732089",
+        "created_at": "2026-09-16T09:33:43.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T10:33:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100156165044732089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SaladaFlores69…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/SaladaFlores69/status/2099872844616257942",
+              "start": 13,
+              "url": "https://t.co/4EHFwc7Bn7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100156165044732089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099872844616257942",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们爱看的睡前asmr🤫 https://t.co/4EHFwc7Bn7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099872774206492672"
+          ]
+        },
+        "author_id": "1721265770192093185",
+        "conversation_id": "2099872844616257942",
+        "created_at": "2026-09-15T14:47:54.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T15:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099872844616257942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GiCozdS8NZ",
+              "end": 77,
+              "expanded_url": "https://x.com/SaladaFlores69/status/2099872844616257942/video/1",
+              "media_key": "13_2099872774206492672",
+              "start": 54,
+              "url": "https://t.co/GiCozdS8NZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099872844616257942",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2099872774206492672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19800,
+          "impression_count": 1411718,
+          "like_count": 54076,
+          "quote_count": 204,
+          "reply_count": 229,
+          "retweet_count": 5906
+        },
+        "reply_settings": "everyone",
+        "text": "GENTE EU ACHEI O VÍDEO ORIGINAL DEPOIS DE TANTO TEMPO https://t.co/GiCozdS8NZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2100156165044732089",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2099805973401514084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1786942925",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087075504507777024/b855Y5JQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 472,
+          "following_count": 489,
+          "like_count": 12854,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 869
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-05T20:39:26.000Z",
+        "description": "CEO da Fandom de Rayman no Brasil\nAmo Bob Esponja, Rayman e CAOS (@portalrayman)\nGamedev → @BottomDreams_\n2acc → @SaladaFlores2\nHe/Him | She/Her\n🏳️‍⚧️ Transmasc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "portalrayman"
+              },
+              {
+                "end": 105,
+                "start": 91,
+                "username": "BottomDreams_"
+              },
+              {
+                "end": 127,
+                "start": 113,
+                "username": "SaladaFlores2"
+              }
+            ]
+          }
+        },
+        "id": "1721265770192093185",
+        "is_identity_verified": false,
+        "location": "🇧🇷 Glade of Dreams ",
+        "most_recent_tweet_id": "2100060244881637726",
+        "name": "SaladaFlores69 ☽︎☾︎ 🇧🇷",
+        "pinned_tweet_id": "2069127472826736856",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721265770192093185/1786990665",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088067041408278528/lgfDoAH3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5692,
+          "following_count": 1461,
+          "like_count": 72115,
+          "listed_count": 27,
+          "media_count": 17272,
+          "tweet_count": 82490
+        },
+        "url": "",
+        "username": "SaladaFlores69",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

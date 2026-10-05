@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106075096658153472"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "conversation_id": "2106075111447200184",
+    "created_at": "2026-10-02T17:33:30.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T18:33:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106075111447200184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/q4Q8bvNhWi",
+          "end": 79,
+          "expanded_url": "https://x.com/Yumeoibito76/status/2106075111447200184/photo/1",
+          "media_key": "3_2106075096658153472",
+          "start": 56,
+          "url": "https://t.co/q4Q8bvNhWi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106075111447200184",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106075096658153472"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@grok 给图上面这只兔子画一个美美的妆，然后给它一堆金项链金手镯，然后写八百字小作文来赞美它的可爱智慧魅力 https://t.co/q4Q8bvNhWi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2106075096658153472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTpIJFabEAAEqxO.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106075096658153472"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "conversation_id": "2106075111447200184",
+        "created_at": "2026-10-02T17:33:30.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T18:33:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106075111447200184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q4Q8bvNhWi",
+              "end": 79,
+              "expanded_url": "https://x.com/Yumeoibito76/status/2106075111447200184/photo/1",
+              "media_key": "3_2106075096658153472",
+              "start": 56,
+              "url": "https://t.co/q4Q8bvNhWi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106075111447200184",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106075096658153472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@grok 给图上面这只兔子画一个美美的妆，然后给它一堆金项链金手镯，然后写八百字小作文来赞美它的可爱智慧魅力 https://t.co/q4Q8bvNhWi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2106075111447200184",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2106072688708243496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 530,
+          "like_count": 22116,
+          "listed_count": 0,
+          "media_count": 178,
+          "tweet_count": 1220
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106075123698577656",
+        "name": "Grok",
+        "pinned_tweet_id": "2099876430561632548",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9126354,
+          "following_count": 4,
+          "like_count": 142,
+          "listed_count": 7714,
+          "media_count": 3977347,
+          "tweet_count": 138441866
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2106466785587331072"
+      ],
+      "media_source_tweet_id": [
+        "2106466806034575676"
+      ]
+    },
+    "author_id": "2023256339363856384",
+    "conversation_id": "2106578804714213655",
+    "created_at": "2026-10-04T02:55:00.000Z",
+    "display_text_range": [
+      0,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T03:55:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106578804714213655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1829953246691049472",
+          "start": 3,
+          "username": "Borbo03"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uEw7HiOPhY",
+          "end": 36,
+          "expanded_url": "https://x.com/Borbo03/status/2106466806034575676/video/1",
+          "media_key": "13_2106466785587331072",
+          "start": 13,
+          "url": "https://t.co/uEw7HiOPhY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106578804714213655",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2106466785587331072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4662
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106466806034575676",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Borbo03: https://t.co/uEw7HiOPhY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6548,
+        "height": 720,
+        "media_key": "13_2106466785587331072",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106466785587331072/img/CtDWIOMCET89zTST.jpg",
+        "public_metrics": {
+          "view_count": 415605
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106466785587331072/vid/avc1/320x320/kcMMKoO9zW3buGIE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106466785587331072/vid/avc1/540x540/nM10R6Ngf-gWIrEf.mp4?tag=14"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106466785587331072/vid/avc1/720x720/tAp4rPCdkHv5cNPp.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106466785587331072/pl/MnOWkCqDZYcuUhOE.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106466785587331072"
+          ],
+          "media_source_tweet_id": [
+            "2106466806034575676"
+          ]
+        },
+        "author_id": "2023256339363856384",
+        "conversation_id": "2106578804714213655",
+        "created_at": "2026-10-04T02:55:00.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T03:55:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106578804714213655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1829953246691049472",
+              "start": 3,
+              "username": "Borbo03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uEw7HiOPhY",
+              "end": 36,
+              "expanded_url": "https://x.com/Borbo03/status/2106466806034575676/video/1",
+              "media_key": "13_2106466785587331072",
+              "start": 13,
+              "url": "https://t.co/uEw7HiOPhY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106578804714213655",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2106466785587331072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4662
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106466806034575676",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Borbo03: https://t.co/uEw7HiOPhY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106466785587331072"
+          ]
+        },
+        "author_id": "1829953246691049472",
+        "conversation_id": "2106466806034575676",
+        "created_at": "2026-10-03T19:29:57.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T20:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106466806034575676"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uEw7HiOPhY",
+              "end": 23,
+              "expanded_url": "https://x.com/Borbo03/status/2106466806034575676/video/1",
+              "media_key": "13_2106466785587331072",
+              "start": 0,
+              "url": "https://t.co/uEw7HiOPhY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106466806034575676",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2106466785587331072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5658,
+          "impression_count": 709903,
+          "like_count": 35010,
+          "quote_count": 82,
+          "reply_count": 172,
+          "retweet_count": 4665
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/uEw7HiOPhY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2106578804714213655",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2106072688708243496",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 550,
+          "like_count": 23357,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 1314
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-31T18:43:59.000Z",
+        "description": "18, bi, male\nMinor case of: severe brain damage\n\nPriv: @PoleBirby",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "PoleBirby"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "birb2137.straw.page",
+                "end": 23,
+                "expanded_url": "https://birb2137.straw.page",
+                "start": 0,
+                "url": "https://t.co/DX931MtHLL"
+              }
+            ]
+          }
+        },
+        "id": "1829953246691049472",
+        "is_identity_verified": false,
+        "location": "Lignite Mine, Konin, Poland",
+        "most_recent_tweet_id": "2106502450601447622",
+        "name": "Birb 🇵🇱🇪🇺",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1829953246691049472/1786874018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085856997845372929/QPx_fx_l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1246,
+          "following_count": 1036,
+          "like_count": 101303,
+          "listed_count": 12,
+          "media_count": 3185,
+          "tweet_count": 19009
+        },
+        "url": "https://t.co/DX931MtHLL",
+        "username": "Borbo03",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

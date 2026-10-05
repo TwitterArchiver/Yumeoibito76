@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2023256339363856384",
+    "conversation_id": "2103165807526387844",
+    "created_at": "2026-09-24T16:52:58.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T17:52:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103165807526387844"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1804721568955912192",
+          "start": 3,
+          "username": "tart_egg25188"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103165807526387844",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 35
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102967942904442910",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tart_egg25188: 致你 \n见字如面 展信书颜  \n    咔咔 我的小啾啾 鸡蛋鸭蛋荷包蛋 来不及啦来不及啦 金币金币 搞快点 搞快点 略略略略略……哎咦 来不及啦 \n    嘎达嘎哒    嘎达嘎哒 嘎达嘎哒 嘎达嘎哒 嘎达嘎哒嘎达嘎哒 嘎达嘎哒 嘎哒 嘎…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2023256339363856384",
+        "conversation_id": "2103165807526387844",
+        "created_at": "2026-09-24T16:52:58.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T17:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103165807526387844"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1804721568955912192",
+              "start": 3,
+              "username": "tart_egg25188"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103165807526387844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 35
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102967942904442910",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tart_egg25188: 致你 \n见字如面 展信书颜  \n    咔咔 我的小啾啾 鸡蛋鸭蛋荷包蛋 来不及啦来不及啦 金币金币 搞快点 搞快点 略略略略略……哎咦 来不及啦 \n    嘎达嘎哒    嘎达嘎哒 嘎达嘎哒 嘎达嘎哒 嘎达嘎哒嘎达嘎哒 嘎达嘎哒 嘎哒 嘎…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1804721568955912192",
+        "conversation_id": "2102967942904442910",
+        "created_at": "2026-09-24T03:46:43.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T04:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102967942904442910"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102967942904442910",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 19860,
+          "like_count": 482,
+          "quote_count": 3,
+          "reply_count": 64,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "致你 \n见字如面 展信书颜  \n    咔咔 我的小啾啾 鸡蛋鸭蛋荷包蛋 来不及啦来不及啦 金币金币 搞快点 搞快点 略略略略略……哎咦 来不及啦 \n    嘎达嘎哒    嘎达嘎哒 嘎达嘎哒 嘎达嘎哒 嘎达嘎哒嘎达嘎哒 嘎达嘎哒 嘎哒 嘎哒嘎哒嘎哒 \n    我有点嘎哒嘎哒你 你愿意做我的嘎达嘎哒吗？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-02-16T04:41:40.000Z",
+        "description": "＝小维|💊|🔪|顺女|友跨|重焦重抑|社恐|infp\n互fo 我会看成分回fo 大部分都会回的\n接白菜价纯手工米游代肝 有意DM\nQQ群1124326151随便进",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/diyahai",
+                "end": 23,
+                "expanded_url": "https://ngl.link/diyahai",
+                "start": 0,
+                "url": "https://t.co/Y2UHnGuejZ"
+              }
+            ]
+          }
+        },
+        "id": "2023256339363856384",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2103165807526387844",
+        "name": "Yumeoibito",
+        "pinned_tweet_id": "2099805973401514084",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2023256339363856384/1789825412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101306684962742272/v5Rha9Bq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 485,
+          "like_count": 17672,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 996
+        },
+        "url": "https://t.co/Y2UHnGuejZ",
+        "username": "Yumeoibito76",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-23T03:42:29.000Z",
+        "description": "和我一起涨粉吧～关注我的朋友都会得到回关\n00后/商科硕士/雅思7.5/web3/萌妹/互联网该溜子",
+        "id": "1804721568955912192",
+        "is_identity_verified": false,
+        "location": "我要发好多好多好多文案",
+        "most_recent_tweet_id": "2103047678829731968",
+        "name": "egg tart（互～回～）",
+        "pinned_tweet_id": "2100048059917070714",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804721568955912192/1789077908",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098170890928455680/Sm19-I1e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4372,
+          "following_count": 2341,
+          "like_count": 19190,
+          "listed_count": 3,
+          "media_count": 106,
+          "tweet_count": 7325
+        },
+        "url": "",
+        "username": "tart_egg25188",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
